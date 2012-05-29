@@ -1,6 +1,6 @@
 % Modern Philosophy: A Workbook with Source Material
 % Walter Ott
-% 28 May 2012
+% 29 May 2012
 
 # Preface
 
@@ -17,61 +17,61 @@ This version of the text was written in [Markdown](http://daringfireball.net/pro
 _(Made possible by the Virginia Tech Philosophy Department and a Virginia Tech CIDER grant.)_
 
 ## Sources
-Unless otherwise noted, all texts are in the public domain and are available at [Project Gutenberg](http://gutenberg.org) or at the [Online Library of Liberty](http://oll.libertyfund.org). If you know otherwise, please email me (<ottw@vt.edu>). All other material is the author's and is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+Unless otherwise noted, all texts are in the public domain. If you know otherwise, please email me (<ottw@vt.edu>). All other material is the author's and is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 1. Background
 
 	i. Aristotle
 	
-		a. _Categories_---Translated by E.M. Edghill
+		a. [_Categories_---Translated by E.M. Edghill](http://www.gutenberg.org/ebooks/2412)
 
-		b. _Physics_---Translated by R. P. Hardie and R. K. Gaye
+		b. [_Physics_---Translated by R. P. Hardie and R. K. Gaye](http://classics.mit.edu/Aristotle/physics.html)
 
-		c. _Posterior Analytics_---Translated by E.S. Bouchier
+		c. [_Posterior Analytics_---Translated by E.S. Bouchier](http://oll.libertyfund.org/title/902)
 
 	ii. Aquinas
 	
-		a. _On the Eternity of the World_---Translated by Robert T. Miller (copyright 1991, 1997)
+		a. [_On the Eternity of the World_---Translated by Robert T. Miller (copyright 1991, 1997)](http://www.fordham.edu/halsall/basis/aquinas-eternity.asp)
 
-		b. _Summa Contra Gentiles_---Translated by Joseph Rickaby
+		b. [_Summa Contra Gentiles_---Translated by Joseph Rickaby](http://www2.nd.edu/Departments/Maritain/etext/gc.htm)
 
-		c. _Summa Theologicae_---Translated by Fathers of the English Dominican Province
+		c. _Summa Theologicae_---Translated by Fathers of the English Dominican Province (Part 1, [Volume 1](http://www.gutenberg.org/ebooks/17611) and [Volume 2](http://www.gutenberg.org/ebooks/17897), [Part 2](http://www.gutenberg.org/ebooks/18755), [Part 3](http://www.gutenberg.org/ebooks/19950))
 
 2. Descartes
 
-	i. _The Principles of Philosophy_---Translated by John Veitch
+	i. [_The Principles of Philosophy_---Translated by John Veitch](http://oll.libertyfund.org/title/1698)
 
-	ii. _Discourse on Method_---Translated by John Veitch
+	ii. [_Discourse on Method_---Translated by John Veitch](http://oll.libertyfund.org/title/1698)
 
-	iii. _Meditations on First Philosophy_---Translated by John Veitch
+	iii. [_Meditations on First Philosophy_---Translated by John Veitch](http://oll.libertyfund.org/title/1698)
 
-	iv. _Objections and Replies_---Translated by Jonathan Bennett, (copyright 2010--2015, available at <http://earlymoderntexts.com>)
+	iv. [_Objections and Replies_---Translated by Jonathan Bennett, (copyright 2010--2015)](http://www.earlymoderntexts.com/descor.html)
 	
 3. Spinoza
 
-	i. _The Ethics_---Translated by R.H.M. Elwes
+	i. [_The Ethics_---Translated by R.H.M. Elwes](http://oll.libertyfund.org/title/1711)
 
 4. Locke
 
-	ii. _An Essay Concerning Human Understanding_---Second edition, 1690
+	ii. _An Essay Concerning Human Understanding_---Second edition, 1690 ([Part 1](http://oll.libertyfund.org/title/761), [Part 2](http://oll.libertyfund.org/title/762))
 	
 5. Berkeley
 
-	i. _A Treatise Concerning the Principles of Human Knowledge_
+	i. [_A Treatise Concerning the Principles of Human Knowledge_](http://www.gutenberg.org/ebooks/4723)
 	
-	ii. _De Motu (On Motion)_---edited by A.C. Fraser, 1871
+	ii. [_De Motu (On Motion)_---edited by A.C. Fraser, 1871](http://books.google.com/books?id=IgoPAAAAQAAJ)
 	
 6. Hume
 
-	i. _An Enquiry Concerning Human Understanding_
+	i. [_An Enquiry Concerning Human Understanding_](http://oll.libertyfund.org/title/341)
 	
-	ii. _A Treatise of Human Nature_
+	ii. [_A Treatise of Human Nature_](http://oll.libertyfund.org/title/342)
 	
 7. Kant
 
-	i. _Prolegomena to Any Future Metaphysics_---Translated by P. Carus
+	i. [_Prolegomena to Any Future Metaphysics_---Translated by P. Carus](http://archive.org/details/kantsprolegomen00carugoog)
 	
-	ii. _The Critique of Pure Reason_---Translated by J. Meiklejohn
+	ii. [_The Critique of Pure Reason_---Translated by J. Meiklejohn](http://www.gutenberg.org/ebooks/4280)
 
 # Minilogic and Glossary
 
@@ -2064,7 +2064,7 @@ _Scholars disagree on just how Locke means to respond to skepticism. But it cert
 
 _Born in Kilkenny, Ireland, George Berkeley was appointed Bishop of Cloyne (near Cork) in 1734. In 1709, he published_ An Essay towards a New Theory of Vision, _which lays the groundwork for his attack on the belief in material substance. His_ Treatise concerning the Principles of Human Knowledge, _the main work excerpted here, appeared in 1710 and was revised in 1734. His views encountered resistance and sometimes mockery; in 1713, he restated his overall position and arguments again, this time in dialogue form, in_ Three Dialogues between Hylas and Philonous. _In 1721, Berkeley published_ De Motu (On Motion), _a work that presents the earliest version of instrumentalism in philosophy of science._
 
-_The Introduction to the_ Principles _attacks abstract ideas. As you go, it is worth wondering why Berkeley is spending so much time on this issue, given his ultimate goal of establishing a world of only spirits and ideas. Part One of that work (there is no Part Two---Berkeley claims to have lost the manuscript in Italy) forms the main part of the work. Here is an outline, by section number, of **PHK** Part One._[^dancy]
+_The Introduction to the_ Principles _attacks abstract ideas. As you go, it is worth wondering why Berkeley is spending so much time on this issue, given his ultimate goal of establishing a world of only spirits and ideas. Part One of that work (there is no Part Two---Berkeley claims to have lost the manuscript in Italy) forms the main part of the work. Here is an outline, by section number, of the_ PHK, _Part One._[^dancy]
 
 [^dancy]: In this outline, I mainly follow Jonathan Dancy's introduction to the Oxford edition of the _Principles_ (OUP, 1998).
 
