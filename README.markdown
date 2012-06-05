@@ -4,9 +4,9 @@ _Modern Philosophy_ is a free textbook created by [Walter Ott](https://filebox.v
 
 This version of Ott's text is written in [Markdown](http://daringfireball.net/projects/markdown/).  Markdown is a plain-text syntax that allows for easy conversion to other file formats.  Using [pandoc](http://johnmacfarlane.net/pandoc/), _Modern Philosophy_ can be easily converted to HTML, PDF, EPUB, and [many other formats](http://johnmacfarlane.net/pandoc/README.html#options).
 
-_(Note: this text utilizes a number of [pandoc-exclusive extensions](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown) to the standard Markdown syntax.)_
+_(Note: this text uses a number of [pandoc-exclusive extensions](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown) to the standard Markdown syntax.)_
 
-# Remaining Issues
+## Remaining Issues
 
 Given how many students read on their laptops and other digital devices, it makes sense to have a free textbook that can be converted to different formats and read on different devices.  This has led to a few changes in how the text is written:
 
@@ -14,4 +14,4 @@ Given how many students read on their laptops and other digital devices, it make
 
 - The two-column format of the original version of the text improved readability.  The large blocks of text in primary sources can be daunting, especially in the HTML conversion.  Another goal, therefore, is to insert more line breaks, indented items, and lists to break up the text.  Fidelity to the original formatting of primary sources is less important than accessibility.
 
-- The EPUB (ebook) conversion looks fantastic, but a number of EPUB readers (including [NOOK for Mac](http://www.barnesandnoble.com/u/nook-for-mac/379002740) and [Adobe Digital Editions](http://www.adobe.com/products/digitaleditions/)) fail to correctly render the study question numbers.  This is because the markup used to generate the study questions is not valid XHTML.  However, the markup is valid [HTML5](http://dev.w3.org/html5/spec/the-ol-element.html#the-ol-element), so future versions of these readers should render the study questions correctly.
+- The EPUB (ebook) conversion looks fantastic, but a number of EPUB readers (including [NOOK for Mac](http://www.barnesandnoble.com/u/nook-for-mac/379002740) and [Adobe Digital Editions](http://www.adobe.com/products/digitaleditions/)) fail to correctly render the study question numbers.  This is because the markup used to generate the study questions is not valid XHTML.  However, the markup in question is valid [HTML5](http://dev.w3.org/html5/spec/the-ol-element.html#the-ol-element), so future versions of these readers should render the study questions correctly.
