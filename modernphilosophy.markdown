@@ -1,6 +1,6 @@
 % Modern Philosophy: A Workbook with Source Material
 % Walter Ott
-% 29 May 2012
+% 5 June 2012
 
 # Preface
 
@@ -78,7 +78,7 @@ Unless otherwise noted, all texts are in the public domain. If you know otherwis
 Like any discipline, philosophy has its own vocabulary. Here are some of the most basic terms and the connections among them:
 
 **Position** 
-:	A claim or set of claims, e.g., that the mind is identical to the brain, or that people act always from self-interest.
+:	A position is a claim or set of claims; for example, that the mind is identical to the brain, or that people act always from self-interest.
 	
 **Argument**
 :	An argument is a set of claims (called 'premises') designed to show another claim (a conclusion) to be true. (This is a special use of the word: usually people use 'argument' to mean a verbal altercation). For example:
@@ -89,13 +89,13 @@ Like any discipline, philosophy has its own vocabulary. Here are some of the mos
 	
 	_Conclusion_: The lawnmower will get wet.
 	
-As you can see, arguments aren't peculiar to philosophy: we use them all the time to get around the world, although we almost never bother to make them explicit. Even in this class, we won't always go to the trouble of putting arguments in this form. But it can often be helpful. To see this, consider an argument put forth by the British Medical Association:
+As you can see, arguments aren't peculiar to philosophy: we use them all the time to get around the world, although we almost never bother to make them explicit. Even in this class, we won't always go to the trouble of putting arguments in this explicit form. But it can often be helpful to do so, and it's important that arguments _can_ be make explicit. To see why, consider an argument put forth by the British Medical Association:
 
 > _Premise 1:_ Boxing is a dangerous activity.
 >
 > _Conclusion:_ Boxing should be banned.
 
-Does the premise entail the conclusion? That is, does the premise do what it should, which is to show the conclusion to be true? In other words, is this a **valid argument**---one whose premises entail the conclusion? (Another way to put it: a valid argument is such that it's impossible for the premises to be true and the conclusion false.)
+Does the premise entail the conclusion? That is, does the premise show the conclusion to be true? In other words, is this a **valid argument**---one whose premises entail the conclusion? (Another way to put it: a valid argument is such that it's impossible for the premises to be true and the conclusion false.)
 
 Validity says nothing at all about whether the premises or conclusion are in fact true or not. Here's a valid argument:
 
@@ -105,54 +105,65 @@ Validity says nothing at all about whether the premises or conclusion are in fac
 >
 > _Conclusion:_ I'm over 6' tall.
 
-It's impossible for 1 and 2 to be true while the conclusion is false. So it's a valid argument. But it's missing another virtue we look for in arguments: we want them to be valid and to have true premises. That is, we want **sound arguments**. The argument above is valid but not sound, since premise 2 is false.
+It's impossible for Premises 1 and 2 to be true while the conclusion is false. So this is a valid argument. But it's missing another virtue we look for in arguments: we want them to be valid _and_ to have true premises. That is, we want **sound arguments**. The argument above is valid but not sound, since Premise 2 is false.
 
 (@) If an argument is valid and sound, what can you tell about the conclusion?
 
-let's go back to the boxing argument. Run our test on it: is it possible for premise 1, boxing is a dangerous activity, to be true, while the conclusion is false? **yes/no** therefore the argument is **valid/invalid**.
+Let's go back to the boxing argument. Run our test on it: is it possible for Premise 1---'boxing is a dangerous activity'---to be true, while the conclusion---'boxing should be banned'---is false?  If it is possible, what does that tell you about the validity or invalidity of the argument?
 
-(@) There is a missing \_\_\_\_, a common defect in arguments. What is it? What could we do to make the argument valid? Is the argument, repaired in this way, sound?
+(@) There is something missing from the boxing argument. What is it? What could we add to make the argument valid? Is the argument, repaired in this way, sound?
 
 **Objection**
-:	An argument designed to show that a position is false. If theism (the claim that God exists) is our position, we would have to consider the objection that a benevolent deity would not allow innocent people to suffer.
+:	An objection is an argument designed to show that a position is false. If theism (the claim that God exists) is our position, we would have to consider the objection that a benevolent deity would not allow innocent people to suffer.
 	
 **Reply**
-:	An answer to an objection. In the above example, we might reply that God does not let innocent people suffer; their suffering is due to human free will. (That's not to say, of course, that it is a good reply.)
+:	A reply is an answer to an objection. In the above example, we might reply that God does not let innocent people suffer; their suffering is due to human free will. (Of course, this may not be a _good_ reply.)
 	
 In addition to these concepts, we need to draw some distinctions among different kinds of positions or claims. These distinctions are controversial; Kant, in particular, will challenge some of the connections I draw between them. But we need to start somewhere!
 
-Some claims are
+The first distinction is between claims that are **necessary** and those that are **possible**.
 
-**Necessary (or 'necessarily true')**
-:	A claim is necessary if it holds in every possible state of affairs. Philosophers are just as interested in what's possible as what's actual. Suppose we could prove that it's possible for you to exist without a body. Even though you so far haven't existed in this state, and even if you were never to exist in it, the claim that it's possible is a very significant one. For it would then mean that you are not a physical being. (Compare: if it's even possible for Superman to exist in a state of affairs that doesn't contain Clark Kent, then they are not, after all, the same person.)
+**Necessary**
+:	A claim is necessary (that is, necessarily true) if it holds in every possible state of affairs. For example, many philosophers claim that it is necessarily true that Superman is identical to Clark Kent.  That is, it's not only actually true that Superman is Clark Kent, but it's impossible that it could be otherwise: there's no possible state of affairs in which Superman is _not_ Clark Kent.   These philosophers claim that 'Superman might not have been Clark Kent' is necessarily false, in just the same way that 'Clark Kent might not have been Clark Kent'.  It seems pretty clearly impossible that Clark Kent might have been someone other than Clark Kent, and that Superman might not have been Superman. Since Clark Kent _is_ Superman, it's impossible that Superman might not have been Clark Kent.
 	
-**Possible (or 'possibly true')**
-:	A claim is possible if it holds in at least one possible state of affairs. I don't have green hair at the moment. But I'm pretty sure it's possible for me to have green hair at this moment: there's at least one possible world or state of affairs in which my friend convinces me to dye my hair.
+**Possible**
+:	A claim is possible (that is, possibly true) if it holds in at least one possible state of affairs. For example, I don't have green hair. But that doesn't mean that it's _necessary_ that I don't have green hair. I could have decided yesterday to dye my hair.  If I could have decided to dye my hair, then there's a possible state of affairs in which I do have green hair.  So while I _actually_ don't have green hair, I _possibly_ do have green hair.
+
+Suppose we could prove that it's possible for you to exist without a body. Even though you haven't existed in this state and probably never will, the claim that it's possible is a very significant one. For it would then mean that you are not a physical being. 
+
+The second distinction is between claims that are **analytic** and those that are **synthetic**.
 	
-**Analytic** claims are true in virtue of the meanings of the words involved. They are necessarily true. For example, consider 'bachelors are unmarried men.'
+**Analytic**
+:	Analytic claims are true in virtue of the meanings of the words involved. They are necessarily true. For example, consider 'bachelors are unmarried men.'
 
-The denial of an analytic claim is a contradiction and is true in no possible world. There's no possible state of affairs in which a bachelor is married, because that contradicts the meaning of the word 'bachelor.' Analytic claims can be very interesting, even informative, but what's distinctive is that they tell us how we use words or symbols, not how the world, independently of us human beings, is. This is clearer if we look at how one argues for an analytic claim. All analytic claims are **a priori** or capable of being known independently of experience. Mathematicians don't have to travel to the center of the earth to find out if 2+2 still equals 4 there; they know it _a priori_. Similarly, we don't have to look to experience to justify an analytic claim; all we need to look at is the concepts involved.
+	The denial of an analytic claim is a contradiction and is true in no possible world. There's no possible state of affairs in which a bachelor is married, because that contradicts the meaning of the word 'bachelor.' Analytic claims can be very interesting, even informative, but what they tell us seems to be about how we use words or symbols, not about how the world is independently of us. This is clearer if we look at how one argues for an analytic claim. All analytic claims are **_a priori_**, or capable of being known independently of experience. Mathematicians don't have to travel to the center of the earth to find out if 2+2 still equals 4 there; they know it _a priori_. Similarly, we don't have to look to experience to justify an analytic claim; all we need to look at is the concepts involved.
 
-By contrast, some claims are **synthetic**, or true (if true at all) in virtue of how the world happens to be. The vast majority of claims we make fall into this category. They are not necessary truths, they are **contingent**: they could have been otherwise. Such claims are true only in some possible states of affairs. This means we have to find a different way to justify them than the way we justify an analytic claim. We capture this by saying that synthetic claims can be known only **a posteriori** or through experience. We need to find evidence for them that goes beyond the meanings of the words involved. Someone might know what 'rain' and 'Blacksburg' mean, and how to use dates, and still not have a clue whether it rained in Blacksburg on August 22. There's another important distinction between kinds of claims that bears on how we might go about justifying them.
+**Synthetic**
+:	By contrast, some claims are **synthetic**, or true (if true at all) in virtue of how the world happens to be. The vast majority of claims we make fall into this category. They are not necessary truths, they are **contingent**, or merely possible: they could have been otherwise. Such claims are true only in some possible states of affairs. This means we have to find a different way to justify them than the way we justify an analytic claim. We capture this by saying that synthetic claims can be known only **_a posteriori_** or through experience. We need to find evidence for them that goes beyond the meanings of the words involved. Someone might know what 'rain' and 'Blacksburg' mean, and how to use dates, and still not have a clue whether it rained in Blacksburg on August 22.
 
-Some claims are **descriptive**---they concern what is in fact the case. All of the synthetic or analytic claims above are descriptive.
+There's another important distinction between kinds of claims.  This distinction bears on how we go about justifying claims.
 
-But others are **normative**---they concern what _should_ be the case. If Bobo argues that no one ought to have more money than anyone else, you cannot object to him that people don't like the idea, or that society isn't organized according to that principle. Bobo's making a claim about what _ought_ to be the case, not what is.
+**Descriptive**
+:	Descriptive claims concern what is actually the case. All of the synthetic or analytic claims above are descriptive.
+
+**Normative**
+:	Normative claims concern what _should_ be the case. If Bobo argues that no one ought to have more money than anyone else, you can't object that society isn't organized according to that principle, and that there's already lots of inequality. Bobo's making a claim about what _ought_ to be the case, not what is actually the case.
 
 Homer Simpson provides a nice example of someone who doesn't appreciate this difference. As he's about to break into a liquor store, Marge says, 'but Homer, that would be wrong.' Homer replies, 'if we agree, Marge, what are we arguing about?'
 
-Look again at the boxing argument above. What kind of premise did you have to insert in order to make it valid, a descriptive or a normative one?
+(@) Look again at the boxing argument above. What kind of premise did you have to insert in order to make it valid, a descriptive or a normative one?
 
-Debates that arise in philosophy often require us to decide who has the **burden of proof**. If a position violates our intuitions or asks us to be committed to a wider range of things or events than we otherwise would be, it has the burden of proof. For example: if I claim that, despite all appearances, all humans are selfish, I have the burden of proof: it is up to me to prove to you that people are selfish. If I can't do this, then I have lost. If I argue that, despite appearances, Fess Parker follows me everywhere I go, I have the burden of proof. If I cannot meet it, we have to conclude that my view is false. It's not up to you to prove me wrong: it's up to me to prove the position true.
+**Burden of proof**
+:	Debates that arise in philosophy often require us to decide who has the burden of proof. If a position violates our intuitions or asks us to accept a larger set of claims than we otherwise would be willing to accept, the person holding that claim has the burden of proof. For example: if I claim that, despite all appearances, all humans are selfish, I have the burden of proof: it is up to me to prove to you that people are selfish. If I can't do this, then I have lost. If I argue that, despite appearances, Fess Parker follows me everywhere I go, I have the burden of proof. If I cannot meet it, we have to conclude that my view is false. It's not up to you to prove me wrong: it's up to me to prove my position true.
 
 **Fallacies** are errors in reasoning. There are lots of them, but the one about which we should be most worried in this class is:
 
 **Strawman fallacy**
 :	We commit the strawman fallacy if we argue against a bad or distorted version of our opponent's position. Suppose that Jimmy is arguing with Bobo over evolution. Bobo believes evolution is true. Jimmy counters: 'I'll never believe evolution till I see a fish turn into a man.'
 	
-If you're not getting the opposing position right, you can't argue against it. One of the core philosophical skills is being able to state the opposing position as carefully and persuasively as one's own.
+If you're not getting the opposing position right, you can't argue against it. A core philosophical skill is being able to state an opposing position as carefully and persuasively as your own.
 
-This is a skill we'll cultivate in this class, as we read philosophers with whom we'll inevitably disagree.
+This is a skill we'll cultivate in this class, as we'll inevitably read philosophers with whom we disagree.
 
 For each of the following examples, note whether it is analytic or synthetic:
 
