@@ -124,7 +124,19 @@ In addition to these concepts, we need to draw some distinctions among different
 The first distinction is between claims that are **necessary** and those that are **possible**.
 
 **Necessary**
-:	A claim is necessary (that is, necessarily true) if it holds in every possible state of affairs. For example, many philosophers claim that it is necessarily true that Superman is identical to Clark Kent.  That is, it's not only actually true that Superman is Clark Kent, but it's impossible that it could be otherwise: there's no possible state of affairs in which Superman is _not_ Clark Kent.   These philosophers claim that 'Superman might not have been Clark Kent' is necessarily false, in just the same way that 'Clark Kent might not have been Clark Kent'.  It seems pretty clearly impossible that Clark Kent might have been someone other than Clark Kent, and that Superman might not have been Superman. Since Clark Kent _is_ Superman, it's impossible that Superman might not have been Clark Kent.
+:	A claim is necessary (that is, necessarily true) if it holds in every possible state of affairs. There is no possible state of affairs in which a necessarily true claim is false; it is _impossible_ for such a claim to be false.
+
+	For example, many philosophers claim that if it is even possible that God exists, then it is _necessary_ that God exists. This claim is part of what's called the 'modal argument' for God's existence. The full argument only needs a few more premises:
+
+	i. It is possible that God exists.
+
+	ii. Since God is a perfect being, God possesses the property of _necessary existence_; in other words, the property of existing in all possible states of affairs.
+
+	iii. It is necessary that God exists.
+
+	The first premise claims that there is at least one possible state of affairs in which God exists.  The second premise claims that God has the property of existing in all possible states of affairs. These two premises entail that if God exists in even one possible state of affairs, then God exists in all possible states of affairs. That is, if it is possible that God exists, then it is necessary that God exists.
+
+(@) The modal argument just given for God's existence is a valid argument.  Is it a sound argument?
 	
 **Possible**
 :	A claim is possible (that is, possibly true) if it holds in at least one possible state of affairs. For example, I don't have green hair. But that doesn't mean that it's _necessary_ that I don't have green hair. I could have decided yesterday to dye my hair.  If I could have decided to dye my hair, then there's a possible state of affairs in which I do have green hair.  So while I _actually_ don't have green hair, I _possibly_ do have green hair.
