@@ -6,7 +6,15 @@ This version of Ott's text is written in [Markdown](http://daringfireball.net/pr
 
 _(Note: this text uses a number of [pandoc-exclusive extensions](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown) to the standard Markdown syntax.)_
 
-## Remaining Issues
+## Read it now
+
+Several conversions of the Markdown text are available online.  However, they may not reflect the latest changes made to the text.
+
+- The [HTML version](http://uweb.ucsb.edu/~adunn/modernphilosophy.html) is hosted on my personal website.
+
+- The [EPUB version](http://uweb.ucsb.edu/~adunn/modernphilosophy.epub) is available for download.
+
+## Remaining issues
 
 Given how many students read on their laptops and other digital devices, it makes sense to have a free textbook that can be converted to different formats and read on different devices.  This has led to a few changes in how the text is written:
 

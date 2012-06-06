@@ -1,6 +1,6 @@
-% Modern Philosophy: A Workbook with Source Material
+% _Modern Philosophy_: A Workbook with Source Material
 % Walter Ott
-% 5 June 2012
+% 6 June 2012
 
 # Preface
 
@@ -12,7 +12,7 @@ I am indebted to Antonia LoLordo and Lydia Patton for helpful comments and sugge
 
 This is a work in progress. I welcome suggestions for improvements---cuts, additions, typos, etc. Send them to me at <ottw@vt.edu>.
 
-This version of the text was written in [Markdown](http://daringfireball.net/projects/markdown/) (with [pandoc-exclusive extensions](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown)) by Alexander Dunn. Using the free utility [pandoc](http://johnmacfarlane.net/pandoc/), this version can be easily converted to HTML, PDF, EPUB, and [many other formats](http://johnmacfarlane.net/pandoc/README.html#options).  This version is hosted on [GitHub](https://github.com/grumble/modernphilosophy); please copy and edit it, and feel free to submit your changes to the public repository.
+This is a modified version of the text written in [Markdown](http://daringfireball.net/projects/markdown/) (with [pandoc-exclusive extensions](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown)) by Alexander Dunn. Using the free utility [pandoc](http://johnmacfarlane.net/pandoc/), this version can be easily converted to HTML, PDF, EPUB, and [many other formats](http://johnmacfarlane.net/pandoc/README.html#options).  This version is hosted on [GitHub](https://github.com/grumble/modernphilosophy); please copy and edit it, and feel free to submit your changes to the public repository.
 
 _(Made possible by the Virginia Tech Philosophy Department and a Virginia Tech CIDER grant.)_
 
