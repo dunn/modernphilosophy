@@ -78,7 +78,7 @@ Unless otherwise noted, all texts are in the public domain. If you know otherwis
 Like any discipline, philosophy has its own vocabulary. Here are some of the most basic terms and the connections among them:
 
 **Position** 
-:	A position is a claim or set of claims; for example, that the mind is identical to the brain, or that people act always from self-interest.
+:	A position (or a thesis) is a claim or set of claims; for example, that the mind is identical to the brain, or that people act always from self-interest.
 	
 **Argument**
 :	An argument is a set of claims (called 'premises') designed to show another claim (a conclusion) to be true. (This is a special use of the word: usually people use 'argument' to mean a verbal altercation). For example:
@@ -141,7 +141,7 @@ The first distinction is between claims that are **necessary** and those that ar
 **Possible**
 :	A claim is possible (that is, possibly true) if it holds in at least one possible state of affairs. For example, I don't have green hair. But that doesn't mean that it's _necessary_ that I don't have green hair. I could have decided yesterday to dye my hair.  If I could have decided to dye my hair, then there's a possible state of affairs in which I do have green hair.  So while I _actually_ don't have green hair, I _possibly_ do have green hair.
 
-Suppose we could prove that it's possible for you to exist without a body. Even though you haven't existed in this state and probably never will, the claim that it's possible is a very significant one. For it would then mean that you are not a physical being. 
+	Suppose we could prove that it's possible for you to exist without a body. Even though you haven't existed in this state and probably never will, the claim that it's possible is a very significant one. For it would then mean that you are not a physical being. 
 
 The second distinction is between claims that are **analytic** and those that are **synthetic**.
 	
@@ -177,13 +177,15 @@ If you're not getting the opposing position right, you can't argue against it. A
 
 This is a skill we'll cultivate in this class, as we'll inevitably read philosophers with whom we disagree.
 
-For each of the following examples, note whether it is analytic or synthetic:
+(@) Which of the following claims are analytic, and which are synthetic?
 
-(@) Any black cat is black.
-(@) There is life on other planets.
-(@) 'One try makes a customer' (slogan of a popular Richmond restaurant).
-(@) 'Unexpected disasters can happen ... With little or no warning' (from <http://readyvirginia.gov>).
-(@) From Plan 9 from Outer Space: 'He's been murdered, and somebody's responsible!'
+	i. Any black cat is black.
+	ii. There is life on other planets.
+	iii. 'One try makes a customer' (slogan of a popular Richmond restaurant).
+	iv. 'Unexpected disasters can happen ... With little or no warning.'[^ready]
+	v. From Plan 9 from Outer Space: 'He's been murdered, and somebody's responsible!'
+	
+[^ready]: [Virginia Department of Emergency Management](http://www.washingtonpost.com/wp-dyn/content/article/2008/03/05/AR2008030500201.html).
 
 ## Glossary of Philosophical Positions
 
@@ -191,7 +193,7 @@ In what follows, I set out some of the basic positions we'll be working with. Al
 
 ### Metaphysics
 
-The most basic distinction is between a thing or a **substance** and a property. Fess Parker, this table, and the moon are all substances. These substances have **properties**: Fess Parker is the world's greatest actor, the table is stained, and so on. **A state of affairs** is a substance's having a property; _that Socrates is bald_ is a state of affairs.
+The most basic distinction is between a thing or a **substance** and a property. Fess Parker, a table, and the moon are all substances. These substances have **properties**: Fess Parker is the world's greatest actor, the table is stained, and so on. **A state of affairs** is a substance's having a property; _that Socrates is bald_ is a state of affairs.
 
 Some properties are **intrinsic**: the ones that things have just because of the way they are, like the property _bald_. Other properties are **relations**, like _loves_ or _is taller than_.
 
@@ -211,63 +213,63 @@ On the Aristotelian picture, an **essence** (a.k.a. 'species,' 'form,' 'substant
 ### Philosophy of Mind
 
 **Dualism**
-:	The thesis that mind and body are distinct substances. The mind is not the body, nor does it arise naturally as a function of the body's behavior (in the way that, say, digestion does).
+:	Dualism is the thesis that mind and body are distinct substances. According to dualists, the mind is not the body, nor does it 'arise' naturally as a function of the body's behavior (in the way that, say, digestion does).
 
 **Identity theory** 
-:	The thesis that the mind and the body (in particular, the brain) are just the same thing. 'Mind' and 'brain' are like 'Clark Kent' and 'Superman': two ways of referring to the same thing.
+:	The identity theory is the thesis that the mind and the body (in particular, the brain) are just the same thing. 'Mind' and 'brain' are like 'Clark Kent' and 'Superman': two ways of referring to the same thing.
 
 ### Free will
 
 **Determinism**
-:	The thesis that every state of affairs follows necessarily from every prior state of affairs. For instance, if it is true that I am typing now, I could not be doing anything else, given the immediately prior state of the universe. So far, determinism says nothing at all about free will.
+:	Determinism is the thesis that every state of affairs follows necessarily from every prior state of affairs. For instance, if it is true that I am typing now, the determinist claims that I could not possibly be doing anything else, given the immediately prior state of the universe. So far, determinism says nothing at all about free will.
 
 The **hard determinist** holds that since determinism is true, we cannot have free will.
 
 The **libertarian** holds that since determinism is false, we can have free will.
 
-The hard determinist and libertarian agree about the consequences of determinism.  What do they both think must be the case _if_ determinism is true?
+(@) The hard determinist and libertarian agree about the consequences of determinism.  What do they both think must be the case _if_ determinism is true?
 
 The **compatibilist** or **soft determinist** claims that determinism and free will are compatible. This position denies the inference above.
 
 ### Epistemology
 
-**Empiricism** comes in two flavors:
+**Empiricism** is a cluster of different claims about knowledge, all emphasizing the role of experience.
 
 **Materials empiricism** 
-:	The thesis that all the materials for knowledge come from experience. The content of all of our thoughts is ultimately traceable back to some experience or other.
+:	Materials empiricism is the thesis that all the materials for knowledge come from experience. The content of all of our thoughts is ultimately traceable back to some experience or other.
 
 **Justification empiricism** 
-:	The thesis that any justification for a claim has to appeal to experience.
+:	Justification empiricism is the thesis that any justification for a claim has to appeal to experience.
 
 Note that the two can come apart. So I might be a materials empiricist and yet deny justification empiricism, because I think that _some_ claims (e.g., analytic claims) can be justified merely by the concepts involved.
 
-**Rationalism** has two corresponding flavors:
+Largely opposed to empiricism is a set of claims we will call **rationalism**:
 
 **Materials rationalism** 
-:	The thesis that at least some of the materials for knowledge do not come from experience.
+:	Materials rationalism is the thesis that at least some of the materials for knowledge do not come from experience.
 
 **Justification rationalism** 
-:	The thesis that at least some justifications do not appeal exclusively to experience.
+:	Justification rationalism is the thesis that at least some justifications do not appeal exclusively to experience.
 
-#### Order of knowledge
+Independent of the empiricist/rationalist debate is a question about the **order of knowledge**:
 
 **Existentialism** 
-:	The thesis that before one can know the essence of a thing, one must first know that it exists.
+:	Existentialism is the thesis that before one can know the essence of a thing, one must first know that it exists.
 
 **Essentialism** 
-:	The thesis that one can (or even must) know the essence of a thing before one can know that it exists.
+:	Essentialism is the thesis that one can (or even must) know the essence of a thing before one can know that it exists.
 
-#### Perception
+Another debate in epistemology relates to the role of **perception**:
 
 **Direct realism** 
-:	The thesis that, in perception, we are directly perceiving real, ordinary objects.
+:	Direct realism is the thesis that, in perception, we are directly perceiving real, ordinary objects.
 
 **Indirect realism** 
-:	The opposing thesis that in perception we directly perceive only our own ideas or sensations. It is only because these ideas represent (or are 'about') objects in the world that we can be said to perceive those objects.
+:	The opposing thesis, indirect realism, claims that in perception we directly perceive only our own ideas or sensations. It is only because these ideas represent (or are 'about') objects in the world that we can be said to perceive those objects.
 
 ## Glossary of Principles
 
-These are controversial in the modern period; some philosophers try to argue for them, some just assume them, and others assume that they are false. It will help as you go to flag these as they appear by writing their abbreviations in the margins. This is especially true of Hume and Descartes.
+The principles listed below were controversial in the modern period; some of the philosophers we will read try to argue for them, some just assume them, and others assume that they are false. Try to identify when these principles are mentioned (sometimes implicitly) in the readings below, especially in the writings of Hume and Descartes.
 
 **Conceivability Principle (CP)**
 :	If _x_ is conceivable, _x_ is possible. Note the contrapositive: if _x_ is impossible, _x_ is inconceivable.
@@ -275,16 +277,16 @@ These are controversial in the modern period; some philosophers try to argue for
 These are logically equivalent. The converse, however, is not: if _x_ is possible, _x_ is conceivable. This principle seems to be far too strong. Can you see why?
 
 **Causal Principle (CAP)**
-:	There must be at least as much reality (being, or perfection) in the cause as there is in the effect. (From Descartes.)
+:	There must be at least as much reality (being, or perfection) in the cause as there is in the effect. This principle is from Descartes.
 
 **Epistemic Principle (EP)**
-:	Everything (that is, every proposition) I clearly and distinctly perceive (that is, believe and thoroughly understand) is true. (From Descartes.)
+:	Everything (that is, every proposition) I clearly and distinctly perceive (that is, believe and thoroughly understand) is true. This principle is from Descartes.
 
 **Copy Principle (CPY)**
-:	Every idea is a copy of some impression or set of impressions. (From Hume.)
+:	Every idea is a copy of some impression or set of impressions. This principle is from Hume.
 
 **Separability Principle (SP)**
-:	Any two distinct perceptions can, in thought, be separated. (From Hume.)
+:	Any two distinct perceptions can, in thought, be separated. This principle is from Hume.
 
 # Background to Modern Philosophy
 
