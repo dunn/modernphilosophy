@@ -429,7 +429,7 @@ In one sense, then, (1) that out of which a thing comes to be and which persists
 
 (@) What is Aristotle's method in this text? Does it have anything in common with that of the _Categories_?
 
-(@) In the text [above](#book-two-chapter-three)), Aristotle lists his 'four' causes; the translator has numbered them. Match these numbers to the shorthand phrases below, by which they have come to be known: formal (\_\_), final (\_\_), material (\_\_), efficient (3).
+(@) In [Book Two, Chapter Three](#book-two-chapter-three), Aristotle lists his 'four' causes; the translator has numbered them. Match these numbers to the shorthand phrases below, by which they have come to be known: formal (\_\_), final (\_\_), material (\_\_), efficient (3).
 
 _The Greek word translated as 'cause' here is 'aitios'; the Greek word can mean either cause or explanation. Which of Aristotle's four aitia most closely maps our own notion of a cause?_
 
@@ -479,9 +479,9 @@ We must now start afresh and consider which of these conclusions are sound and w
 
 When we are aware of a fact we seek its reason, and though sometimes the fact and the reason dawn on us simultaneously, yet we cannot apprehend the reason a moment sooner than the fact; and clearly in just the same way **we cannot apprehend a thing's form without apprehending that it exists, since while we are ignorant whether it exists we cannot know its essential nature**. Moreover, we are aware whether a thing exists or not sometimes through apprehending an element in its character, and sometimes accidentally, as, for example, when we are aware of thunder as a noise in the clouds, of eclipse as a privation of light, or of man as some species of animal, or of the soul as a self-moving thing. As often as we have accidental knowledge that the thing exists, we must be in a wholly negative state as regards awareness of its essential nature; for we have not got genuine knowledge even of its existence, and to search for a thing's essential nature when we are unaware that it exists is to search for nothing.
 
-On the other hand, whenever we apprehend an element in the thing's character there is less difficulty. Thus it follows that the degree of our knowledge of a thing's essential nature is determined by the sense in which we are aware that it exists. Let us then take the following as our first instance of being aware of an element in the essential nature. Let A be eclipse, C the moon, B the earth's acting as a screen. Now to ask whether the moon is eclipsed or not is to ask whether or not B has occurred. But that is precisely the same as asking whether A has a defining condition; and if this condition actually exists, we assert that A also actually exists. ...
+On the other hand, whenever we apprehend an element in the thing's character there is less difficulty. Thus it follows that the degree of our knowledge of a thing's essential nature is determined by the sense in which we are aware that it exists. Let us then take the following as our first instance of being aware of an element in the essential nature. Let _A_ be eclipse, _C_ the moon, _B_ the earth's acting as a screen. Now to ask whether the moon is eclipsed or not is to ask whether or not _B_ has occurred. But that is precisely the same as asking whether _A_ has a defining condition; and if this condition actually exists, we assert that _A_ also actually exists. ...
 
-We have stated then how essential nature is discovered and becomes known, and we see that, while there is no syllogism---i.e. No demonstrative syllogism---of essential nature, yet it is through syllogism, viz. demonstrative syllogism, that essential nature is exhibited.
+We have stated then how essential nature is discovered and becomes known, and we see that, while there is no syllogism---i.e., no demonstrative syllogism---of essential nature, yet it is through syllogism, viz. demonstrative syllogism, that essential nature is exhibited.
 
 ***
 
@@ -497,7 +497,7 @@ Now it is strange if we possess them from birth; for it means that we possess ap
 
 Therefore we must possess a capacity of some sort, but not such as to rank higher in accuracy than these developed states. And this at least is an obvious characteristic of all animals, for they possess a congenital discriminative capacity which is called sense-perception. But though sense-perception is innate in all animals, in some the sense-impression comes to persist, in others it does not. So animals in which this persistence does not come to be have either no knowledge at all outside the act of perceiving, or no knowledge of objects of which no impression persists; animals in which it does come into being have perception and can continue to retain the sense-impression in the soul: and when such persistence is frequently repeated a further distinction at once arises between those which out of the persistence of such sense-impressions develop a power of systematizing them and those which do not.
 
-So out of sense-perception comes to be what we call memory, and out of frequently repeated memories of the same thing develops experience; for a number of memories constitute a single experience. From experience again-i.e. From the universal now stabilized in its entirety within the soul, the one beside the many which is a single identity within them all-originate the skill of the craftsman and the knowledge of the man of science, skill in the sphere of coming to be and science in the sphere of being.
+So out of sense-perception comes to be what we call memory, and out of frequently repeated memories of the same thing develops experience; for a number of memories constitute a single experience. From experience again---i.e., from the universal now stabilized in its entirety within the soul, the one beside the many which is a single identity within them all---originate the skill of the craftsman and the knowledge of the man of science, skill in the sphere of coming to be and science in the sphere of being.
 
 We conclude that these states of knowledge are neither innate in a determinate form, nor developed from other higher states of knowledge, but from sense-perception. It is like a rout in battle stopped by first one man making a stand and then another, until the original formation has been restored. The soul is so constituted as to be capable of this process.
 
@@ -511,16 +511,15 @@ Thus it is clear that we must get to know the primary premises by induction [epa
 
 > **Argument 1**
 >
-> 1. (A) Human beings are (B) rational animals.
+> 1. Human beings are rational animals.
 >
-> 2. (B) Rational beings are (C) risible (the ability to laugh). Therefore, (A) Human beings are (C) risible.
+> 2. Rational beings are risible (have the ability to laugh). Therefore, human beings are risible.
 >
 > **Argument 2**
 >
-> 1. (A) Everyone in modern philosophy is (B) wearing shoes.
+> 1. Everyone in modern philosophy is wearing shoes.
 >
-> 2. (B) Everyone wearing shoes (C) has sweaty toes.
-Therefore, (A) everyone in modern philosophy (C) has sweaty toes.
+> 2. Everyone wearing shoes has sweaty toes. Therefore, everyone in modern philosophy has sweaty toes.
 
 (@) What would a completed science look like, according to Aristotle? How is it different from contemporary science?
 
@@ -530,7 +529,7 @@ Therefore, (A) everyone in modern philosophy (C) has sweaty toes.
 
 _Thomas Aquinas synthesized Aristotelian and Christian thought into a nearly seamless whole. It is not an exaggeration to say that every philosopher for the next five hundred years stood in his shadow._
 
-_Like Aristotle, Aquinas is an empiricist in both senses of the term: he thinks that all the materials for knowledge come from sensation, and that all justifications ultimately depend on experience. He is also an existentialist, in the sense discussed [above](#epistemology). Despite his often technical formulations, Aquinas aims to give a commonsensical account of metaphysics and epistemology, just as Aristotle did._
+_Like Aristotle, Aquinas is an empiricist in both senses of the term: he thinks that all the materials for knowledge come from sensation, and that all justifications ultimately depend on experience. He is also an existentialist, in the sense discussed in the [Glossary](#epistemology). Despite his often technical formulations, Aquinas aims to give a commonsensical account of metaphysics and epistemology, just as Aristotle did._
 
 _Our first reading is a short statement of Aquinas's views on the cosmological argument. This argument for the existence of God, in its crudest form, runs thus:_
 
@@ -586,7 +585,7 @@ The order of effects is according to the order of causes. Now the first of all e
 
 As God not only gave being to things when they first began to be, but also causes being in them so long as they exist; so He did not once for all furnish them with active powers, but continually causes those powers in them, so that, if the divine influx were to cease, all activity would cease.
 
-Hence it is said: _Thou hast wrought all our works in us, O Lord_ (Isa. Xxvi, 12). And for this reason frequently in the Scriptures the effects of nature are put down to the working of God, because He it is that works in every agent, physical or voluntary: e.g., _Hast thou not drawn me out like milk, and curdled me like cheese? with skin and flesh thou hast clothed me, with bones and sinews thou hast put me together_ (Job x, 10, 11).
+Hence it is said: _Thou hast wrought all our works in us, O Lord_ (Isa. XXVI, 12). And for this reason frequently in the Scriptures the effects of nature are put down to the working of God, because He it is that works in every agent, physical or voluntary: e.g., _Hast thou not drawn me out like milk, and curdled me like cheese? with skin and flesh thou hast clothed me, with bones and sinews thou hast put me together_ (Job X, 10, 11).
 
 #### Chapter Sixty-nine: Of the Opinion of those who withdraw from Natural Things their Proper Actions
 
@@ -634,7 +633,7 @@ Upon consideration, these arguments are not difficult.
 
 _We can now turn from Aquinas's metaphysics to his epistemology and theory of perception._
 
-_Aquinas's_ Summa _is organized into Questions, which in turn are made up of Articles, each defined by a particular question. After stating the question, Aquinas gives a series of objections to the view he will go on to defend. Next, he briefly states his own view (these paragraphs always begin_ 'sed contra,' _'On the contrary') before explaining it (_'respondeo dicendum,' _'I answer that') and then replying to the objections. One needs to be careful in quoting from Aquinas---obviously what he writes in the Objections, for example, does not reflect his own view. (Some of the objections and replies have been omitted here.)_
+_Aquinas's_ Summa _is organized into Questions, which in turn are made up of Articles, each defined by a particular question. After stating the question, Aquinas gives a series of objections to the view he will go on to defend. Next, he briefly states his own view (these paragraphs always begin_ 'sed contra,' _'on the contrary') before explaining it (_'respondeo dicendum,' _'I answer that') and then replying to the objections. One needs to be careful in quoting from Aquinas---obviously what he writes in the Objections, for example, does not reflect his own view. (Some of the objections and replies have been omitted here.)_
 
 <!--_The following passages concern the mind's relation to the things it knows and thinks about, chiefly, material beings. (Articles [One](#question-eighty-four-article-one-whether-the-soul-knows-bodies-through-the-intellect) and [Three](#article-three) constitute an attack on the rationalism of Plato.)_-->
 
@@ -642,7 +641,7 @@ _Aquinas's_ Summa _is organized into Questions, which in turn are made up of Art
 
 Science is in the intellect. If, therefore, the intellect does not know bodies, it follows that there is no science of bodies; and thus perishes natural science, which treats of mobile bodies.
 
-_I answer that,_ It should be said in order to elucidate this question, that the early philosophers, who inquired into the natures of things, thought there was nothing in the world save bodies. And because they observed that all bodies are mobile, and considered them to be ever in a state of flux, they were of the opinion that we can have no certain knowledge of the true nature of things. For what is in a continual state of flux, cannot be grasped with any degree of certitude, for it passes away ere the mind can form a judgment thereon: according to the saying of Heraclitus, that 'it is not possible twice to touch a drop of water in a passing torrent,' as the Philosopher relates (Metaph. IV, Did. Iii, 5).
+_I answer that,_ It should be said in order to elucidate this question, that the early philosophers, who inquired into the natures of things, thought there was nothing in the world save bodies. And because they observed that all bodies are mobile, and considered them to be ever in a state of flux, they were of the opinion that we can have no certain knowledge of the true nature of things. For what is in a continual state of flux, cannot be grasped with any degree of certitude, for it passes away ere the mind can form a judgment thereon: according to the saying of Heraclitus, that 'it is not possible twice to touch a drop of water in a passing torrent,' as the Philosopher relates (Metaph. IV, Did. III, 5).
 
 After these came Plato, who, wishing to save the certitude of our knowledge of truth through the intellect, maintained that, besides these corporeal things, there is another genus of beings, separate from matter and movement, which beings he called species or 'ideas' [or 'Forms'], by participation of which each one of these singular and sensible things is said to be either a man, or a horse, or the like. Wherefore he said that sciences and definitions, and whatever appertains to the act of the intellect, are not referred to these sensible bodies, but to those immaterial and separate beings: so that according to this the soul does not understand corporeal things, but only their separate species.
 
@@ -680,9 +679,9 @@ _On the contrary,_ The intelligible species is to the intellect what the sensibl
 
 _I answer that,_ Some have asserted that our intellectual faculties know only the impression made on them; as, for example, that sense is cognizant only of the impression made on its own organ. According to this theory, the intellect understands only its own impression, namely, the intelligible species which it has received, so that this species is what is understood.
 
-This is, however, manifestly false for two reasons. First, because the things we understand are the objects of science; therefore if what we understand is merely the intelligible species in the soul, it would follow that every science would not be concerned with objects outside the soul, but only with the intelligible species within the soul; thus, according to the teaching of the Platonists all science is about ideas, which they held to be actually understood [[Question Eighty-four, Article One](#question-eighty-four-article-one-whether-the-soul-knows-bodies-through-the-intellect)]. Secondly, it is untrue, because it would lead to the opinion of the ancients who maintained that 'whatever seems, is true' [Aristotle, _Metaph._ iii. 5], and that consequently contradictories are true simultaneously. For if the faculty knows its own impression only, it can judge of that only. Now a thing seems according to the impression made on the cognitive faculty. Consequently the cognitive faculty will always judge of its own impression as such; and so every judgment will be true: for instance, if taste perceived only its own impression, when anyone with a healthy taste perceives that honey is sweet, he would judge truly; and if anyone with a corrupt taste perceives that honey is bitter, this would be equally true; for each would judge according to the impression on his taste. Thus every opinion would be equally true; in fact, every sort of apprehension.
+This is, however, manifestly false for two reasons. First, because the things we understand are the objects of science; therefore if what we understand is merely the intelligible species in the soul, it would follow that every science would not be concerned with objects outside the soul, but only with the intelligible species within the soul; thus, according to the teaching of the Platonists all science is about ideas, which they held to be actually understood [[Question Eighty-four, Article One](#question-eighty-four-article-one-whether-the-soul-knows-bodies-through-the-intellect)]. Secondly, it is untrue, because it would lead to the opinion of the ancients who maintained that 'whatever seems, is true' [Aristotle, _Metaph._ III. 5], and that consequently contradictories are true simultaneously. For if the faculty knows its own impression only, it can judge of that only. Now a thing seems according to the impression made on the cognitive faculty. Consequently the cognitive faculty will always judge of its own impression as such; and so every judgment will be true: for instance, if taste perceived only its own impression, when anyone with a healthy taste perceives that honey is sweet, he would judge truly; and if anyone with a corrupt taste perceives that honey is bitter, this would be equally true; for each would judge according to the impression on his taste. Thus every opinion would be equally true; in fact, every sort of apprehension.
 
-Therefore it must be said that the intelligible species is related to the intellect as that by which it understands: which is proved thus. There is a twofold action (Metaph. Ix, Did. Viii, 8), one which remains in the agent; for instance, to see and to understand; and another which passes into an external object; for instance, to heat and to cut; and each of these actions proceeds in virtue of some form. And as the form from which proceeds an act tending to something external is the likeness of the object of the action, as heat in the heater is a likeness of the thing heated; so the form from which proceeds an action remaining in the agent is the likeness of the object. Hence that by which the sight sees is the likeness of the visible thing; and the likeness of the thing understood, that is, the intelligible species, is the form by which the intellect understands.
+Therefore it must be said that the intelligible species is related to the intellect as that by which it understands: which is proved thus. There is a twofold action (Metaph. IX, Did. VIII, 8), one which remains in the agent; for instance, to see and to understand; and another which passes into an external object; for instance, to heat and to cut; and each of these actions proceeds in virtue of some form. And as the form from which proceeds an act tending to something external is the likeness of the object of the action, as heat in the heater is a likeness of the thing heated; so the form from which proceeds an action remaining in the agent is the likeness of the object. Hence that by which the sight sees is the likeness of the visible thing; and the likeness of the thing understood, that is, the intelligible species, is the form by which the intellect understands.
 
 But since the intellect reflects upon itself, by such reflection it understands both its own act of intelligence, and the species by which it understands. Thus the intelligible species is that which is understood secondarily; but that which is primarily understood is the object, of which the species is the likeness. This also appears from the opinion of the ancient philosophers, who said that 'like is known by like.' For they said that the soul knows the earth outside itself, by the earth within itself; and so of the rest. If, therefore, we take the species of the earth instead of the earth, according to Aristotle (De Anima iii, 8), who says 'that a stone is not in the soul, but only the likeness of the stone'; it follows that the soul knows external things by means of its intelligible species.
 
@@ -776,7 +775,7 @@ There is, however, some difference between them in the mode of conception; for i
 
 ***
 
-_In the following two sections, Descartes is confronting the problem of transference: how can one body produce motion in another? (See Aquinas's treatment of this [above](#section-seven).) Is the answer Descartes gives here compatible with occasionalism? How might he react to Aquinas's answer?_
+_In the following two sections, Descartes is confronting the problem of transference: how can one body produce motion in another? (See Aquinas's treatment of this in [Chapter Sixty-nine, Section Seven](#section-seven).) Is the answer Descartes gives here compatible with occasionalism? How might he react to Aquinas's answer?_
 
 ### Part Two, Section Twenty-four: What motion is, taking the term in its common use
 
