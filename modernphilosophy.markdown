@@ -627,7 +627,7 @@ Upon consideration, these arguments are not difficult.
 
 (@) At the end of [Chapter Sixty-nine](#chapter-sixty-nine-of-the-opinion-of-those-who-withdraw-from-natural-things-their-proper-actions) ('Some Doctors of the Moorish Law'), Aquinas addresses a difficulty raised by the defenders of occasionalism. (This difficulty will become important later on, especially when we look at Locke.) What is the difficulty, and how does Aquinas propose to solve it? 
 
-(@) How do God and creatures 'cooperate' to produce effects? God produces\_\_\_\_\_, while creatures \_\_\_\_\_\_\_\_\_\_. Give an analogy.
+(@) How do God and creatures 'cooperate' to produce effects? What does God do, and what do creatures do? Give an analogy.
 
 ### Aquinas' _Summa Theologicae, Prima Pars_
 
