@@ -107,11 +107,19 @@ Validity says nothing at all about whether the premises or conclusion are in fac
 
 It's impossible for Premises 1 and 2 to be true while the conclusion is false. So this is a valid argument. But it's missing another virtue we look for in arguments: we want them to be valid _and_ to have true premises. That is, we want **sound arguments**. The argument above is valid but not sound, since Premise 2 is false.
 
+***
+
 (@) If an argument is valid and sound, what can you tell about the conclusion?
+
+***
 
 Let's go back to the boxing argument. Run our test on it: is it possible for Premise 1---'boxing is a dangerous activity'---to be true, while the conclusion---'boxing should be banned'---is false?  If it is possible, what does that tell you about the validity or invalidity of the argument?
 
+***
+
 (@) There is something missing from the boxing argument. What is it? What could we add to make the argument valid? Is the argument, repaired in this way, sound?
+
+***
 
 **Objection**
 :	An objection is an argument designed to show that a position is false. If theism (the claim that God exists) is our position, we would have to consider the objection that a benevolent deity would not allow innocent people to suffer.
@@ -135,8 +143,12 @@ The first distinction is between claims that are **necessary** and those that ar
 	iii. It is necessary that God exists.
 
 	The first premise claims that there is at least one possible state of affairs in which God exists.  The second premise claims that God has the property of existing in all possible states of affairs. These two premises entail that if God exists in even one possible state of affairs, then God exists in all possible states of affairs. That is, if it is possible that God exists, then it is necessary that God exists.
+	
+***
 
 (@) The modal argument just given for God's existence is a valid argument.  Is it a sound argument?
+
+***
 	
 **Possible**
 :	A claim is possible (that is, possibly true) if it holds in at least one possible state of affairs. For example, I don't have green hair. But that doesn't mean that it's _necessary_ that I don't have green hair. I could have decided yesterday to dye my hair.  If I could have decided to dye my hair, then there's a possible state of affairs in which I do have green hair.  So while I _actually_ don't have green hair, I _possibly_ do have green hair.
@@ -163,7 +175,11 @@ There's another important distinction between kinds of claims.  This distinction
 
 Homer Simpson provides a nice example of someone who doesn't appreciate this difference. As he's about to break into a liquor store, Marge says, 'but Homer, that would be wrong.' Homer replies, 'if we agree, Marge, what are we arguing about?'
 
+***
+
 (@) Look again at the boxing argument above. What kind of premise did you have to insert in order to make it valid, a descriptive or a normative one?
+
+***
 
 **Burden of proof**
 :	Debates that arise in philosophy often require us to decide who has the burden of proof. If a position violates our intuitions or asks us to accept a larger set of claims than we otherwise would be willing to accept, the person holding that claim has the burden of proof. For example: if I claim that, despite all appearances, all humans are selfish, I have the burden of proof: it is up to me to prove to you that people are selfish. If I can't do this, then I have lost. If I argue that, despite appearances, Fess Parker follows me everywhere I go, I have the burden of proof. If I cannot meet it, we have to conclude that my view is false. It's not up to you to prove me wrong: it's up to me to prove my position true.
@@ -176,6 +192,8 @@ Homer Simpson provides a nice example of someone who doesn't appreciate this dif
 If you're not getting the opposing position right, you can't argue against it. A core philosophical skill is being able to state an opposing position as carefully and persuasively as your own.
 
 This is a skill we'll cultivate in this class, as we'll inevitably read philosophers with whom we disagree.
+
+***
 
 (@) Which of the following claims are analytic, and which are synthetic?
 
@@ -201,8 +219,12 @@ A **kind** is a group or set of substances, properties, or states of affairs. So
 
 Other kinds are **unnatural**: they don't share enough features, or enough of the right kind of feature, in order to qualify as a natural kind.
 
+***
+
 (@) List three things that form an **unnatural kind**: 
 (@) One of David Letterman's best bits was a list of 'Top 10 Rejected Oprah Themes.' Among them was: _Problems of Guys Named Don_. Why is this a bad idea for a talk-show theme?
+
+***
 
 On the Aristotelian picture, an **essence** (a.k.a. 'species,' 'form,' 'substantial form') has the following three features:
 
@@ -227,7 +249,11 @@ The **hard determinist** holds that since determinism is true, we cannot have fr
 
 The **libertarian** holds that since determinism is false, we can have free will.
 
+***
+
 (@) The hard determinist and libertarian agree about the consequences of determinism.  What do they both think must be the case _if_ determinism is true?
+
+***
 
 The **compatibilist** or **soft determinist** claims that determinism and free will are compatible. This position denies the inference above.
 
@@ -290,11 +316,11 @@ These are logically equivalent. The converse, however, is not: if _x_ is possibl
 
 # Background to Modern Philosophy
 
-Somewhat misleadingly, the 'modern' period refers to the seventeenth and eighteenth centuries. For our purposes, it actually covers about a hundred and forty years, from the publication of René Descartes's _Meditations_ in 1641 to that of Kant's _Critique of Pure Reason_ in 1781.
+_Somewhat misleadingly, the 'modern' period refers to the seventeenth and eighteenth centuries. For our purposes, it actually covers about a hundred and forty years, from the publication of René Descartes's_ Meditations _in 1641 to that of Kant's_ Critique of Pure Reason _in 1781._
 
-The modern period begins with the rejection of the dominant philosophy of the day, Aristotelianism. And of course the rejection is not complete: core Aristotelian notions, especially substance, live on in the moderns. For both these reasons, very little of the moderns' work will make sense unless it is seen against this scholastic background.
+_The modern period begins with the rejection of the dominant philosophy of the day, Aristotelianism. And of course the rejection is not complete: core Aristotelian notions, especially substance, live on in the moderns. For both these reasons, very little of the moderns' work will make sense unless it is seen against this scholastic background._
 
-What was taught in the 'schools' in the early seventeenth century was not a monolithic body of doctrine. Nevertheless, we can point to some core beliefs, most of which have a foundation in Aristotle's own writings. We begin with some of Aristotle's texts before jumping ahead nearly 1,500 years, to Thomas Aquinas's (1225--1274) synthesis of Christian and Aristotelian thought. While Aquinas's system was only one of many available to the seventeenth century Aristotelian, philosophers of the four intervening centuries defined themselves against it, just as Descartes was to do.
+_What was taught in the 'schools' in the early seventeenth century was not a monolithic body of doctrine. Nevertheless, we can point to some core beliefs, most of which have a foundation in Aristotle's own writings. We begin with some of Aristotle's texts before jumping ahead nearly 1,500 years, to Thomas Aquinas's (1225--1274) synthesis of Christian and Aristotelian thought. While Aquinas's system was only one of many available to the seventeenth century Aristotelian, philosophers of the four intervening centuries defined themselves against it, just as Descartes was to do._
 
 _(Textual note: the standard edition of Aristotle's works is_ The Complete Works of Aristotle, _edited by Jonathan Barnes. For Aquinas, see_ Basic Writings of St. Thomas Aquinas, _edited by Anton Pegis.)_
 
