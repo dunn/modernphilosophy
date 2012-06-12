@@ -2,7 +2,7 @@
 
 _Modern Philosophy_ is a free textbook created by [Walter Ott](https://filebox.vt.edu/users/ottw/ott.htm).  It combines public-domain primary sources with supplementary material and study questions. Everything not in the public domain is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
-This version of Ott's text is written in [Markdown](http://daringfireball.net/projects/markdown/).  Markdown is a plain-text syntax that allows for easy conversion to other file formats.  Using [pandoc](http://johnmacfarlane.net/pandoc/), _Modern Philosophy_ can be easily converted to HTML, PDF, EPUB, and [many other formats](http://johnmacfarlane.net/pandoc/README.html#options).
+This modified version of Ott's text is written in [Markdown](http://daringfireball.net/projects/markdown/).  Markdown is a plain-text syntax that allows for easy conversion to other file formats.  Using [pandoc](http://johnmacfarlane.net/pandoc/), _Modern Philosophy_ can be easily converted to HTML, PDF, EPUB, and [many other formats](http://johnmacfarlane.net/pandoc/README.html#options).
 
 _(Note: this text uses a number of [pandoc-exclusive extensions](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown) to the standard Markdown syntax.)_
 
