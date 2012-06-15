@@ -10,7 +10,12 @@ _(Note: this text uses a number of [pandoc-exclusive extensions](http://johnmacf
 
 Several conversions of the Markdown text are available online.  However, they may not reflect the latest changes made to the text.
 
-- The [HTML version](http://uweb.ucsb.edu/~adunn/modernphilosophy.html) is hosted on my personal website.
+- The
+  [HTML version](http://uweb.ucsb.edu/~adunn/modernphilosophy.html) is
+  hosted on my personal website.
+  - Although the HTML version is perfectly readable without styling,
+    pandoc allows a CSS file to be linked to the HTML output.  When
+    running pandoc, use the `-c` option: `pandoc -c path/to/file.css`.
 
 - The [EPUB version](http://uweb.ucsb.edu/~adunn/modernphilosophy.epub) is available for download.
 

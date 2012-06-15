@@ -12,7 +12,7 @@ I am indebted to Antonia LoLordo and Lydia Patton for helpful comments and sugge
 
 This is a work in progress. I welcome suggestions for improvements---cuts, additions, typos, etc. Send them to me at <ottw@vt.edu>.
 
-This is a modified version of the text written in [Markdown](http://daringfireball.net/projects/markdown/) (with [pandoc-exclusive extensions](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown)) by Alexander Dunn. Using the free utility [pandoc](http://johnmacfarlane.net/pandoc/), this version can be easily converted to HTML, PDF, EPUB, and [many other formats](http://johnmacfarlane.net/pandoc/README.html#options).  This version is hosted on [GitHub](https://github.com/grumble/modernphilosophy); please copy and edit it, and feel free to submit your changes to the public repository.
+This modified version of the text was written in [Markdown](http://daringfireball.net/projects/markdown/) (with [pandoc-exclusive extensions](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown)) by [Alexander Dunn](http://uweb.ucsb.edu/~adunn). Using the free utility [pandoc](http://johnmacfarlane.net/pandoc/), this version can be easily converted to HTML, PDF, EPUB, and [many other formats](http://johnmacfarlane.net/pandoc/README.html#options).  This version is hosted on [GitHub](https://github.com/grumble/modernphilosophy); please copy and edit it, and feel free to submit your changes to the public repository.
 
 _(Made possible by the Virginia Tech Philosophy Department and a Virginia Tech CIDER grant.)_
 
@@ -4214,26 +4214,47 @@ I term this idea cosmological, because it always takes its object from the world
 
 It is here that the usefulness of a system of categories shows itself so plainly and unmistakably, that, even were there not several other proofs of it, this alone would quite sufficiently demonstrate its indispensableness in the system of pure Reason. There are not more than four of these transcendent ideas, as many as there are classes of categories; but each of them is only concerned with the absolute completion of a series of conditions to a given conditioned. In accordance with these cosmological ideas there are four dialectical assertions of pure Reason, which, inasmuch as they are dialectical, show that to each one is opposed a contradictory assumption, on equally plausible principles of pure Reason; and this is a conflict no metaphysical art of the subtlest distinction can avoid, but which compels philosophers to go back to the primary sources of pure Reason. The above antinomy, which is not arbitrarily invented, but has its basis in the nature of human Reason, and is hence unavoidable and never-ending, contains the following four theses together with their antitheses:
 
---------------------------------------------------------------
-  		Thesis						Antithesis
----		-------------------			--------------------------
- 1		The world has a			 	The world is
-		_beginning_ in 			 	_infinite_ in
-		time and space				time and space
+------------------------------
+  		Thesis				  
+---		-------------------	  
+ 1		The world has a		  
+		_beginning_ in 		  
+		time and space		  
 			 
- 2		Everything in the			There is nothing
-		world consists of			simple, but everything
-		_simple_ [parts].			is _composite_.
+ 2		Everything in the	  
+		world consists of	  
+		_simple_ [parts].	  
 			 
- 3		There are in the			There is no
-		world causes through		freedom, but all
-		_freedom_.					is _Nature_
+ 3		There are in the	  
+		world causes through  
+		_freedom_.			  
 			
- 4		In the series of			There is nothing	
-		world-causes there			necessary, but in
-		exists a _necessary_		this series _all_
-		being.						_is contingent_.
---------------------------------------------------------------
+ 4		In the series of	  
+		world-causes there	  
+		exists a _necessary_  
+		being.				  
+------------------------------
+
+--------------------------------
+		Antithesis				  
+---	    ----------------------
+ 1  	The world is			  
+	 	_infinite_ in			  
+		time and space			  
+                                
+ 2  	There is nothing		  
+		simple, but everything	  
+		is _composite_.			  
+                                
+ 3      There is no				  
+		freedom, but all		  
+		is _Nature_				  
+                                
+ 4      There is nothing		  
+		necessary, but in		  
+		this series _all_		  
+		_is contingent_.		  
+--------------------------------
 
 ## Section Fifty-two: "The Cosmological Idea", Continued
 
