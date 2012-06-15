@@ -515,7 +515,8 @@ dl {
 /* more than list items. */
 li {
   margin: 0;
-  width: 580px; }
+  width: 580px;
+  list-style-type: disc; }
   li p {
     margin: 1em auto auto 0;
     width: 560px; }

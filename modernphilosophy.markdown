@@ -1,6 +1,6 @@
 % _Modern Philosophy_: A Workbook with Source Material
 % Walter Ott
-% 11 June 2012
+% 15 June 2012
 
 # Preface
 
