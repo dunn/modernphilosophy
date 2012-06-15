@@ -8,6 +8,8 @@
 /* NORMALIZATION */
 /* ============= */
 /**/
+/* this imported stylesheet ensures that everything is rendered
+/* consistently across browsers. */
 /* normalize.css 2012-03-11T12:53 UTC - http://github.com/necolas/normalize.css */
 /* =============================================================================
    HTML5 display definitions
@@ -430,15 +432,22 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
+/* END NORMALIZE */
 /**/
 /* =============== */
 /* GLOBAL SETTINGS */
 /* =============== */
 /**/
+/* these are the stylings for _Modern Philosophy_ HTML version.  this
+/* stylesheet can be used for other HTML documents produced by pandoc,
+/* but some of the stylings (the table elements) are designed
+/* specifically for this HTML document. */
+/**/
+/* so that the table of contents (and other wide elements) are not
+/* made too thin, the width of the content is not set in the body.
+/* but `text-align: center` ensures that other elements that have a
+/* `width` specified will be centered in the viewport. */
 body {
-  /* centers everything */
-  /* other elements are */
-  /* justified, etc. */
   margin: 4em 0;
   text-align: center;
   font-size: 100%;
@@ -475,6 +484,8 @@ p {
   margin: auto;
   line-height: 125%; }
 
+/* the styling for `p + p` ensures that there is space between any two
+/* paragraphs */
 p + p {
   margin-top: 1em; }
 
@@ -484,6 +495,11 @@ blockquote {
 /* ===== */
 /* LISTS */
 /* ===== */
+/**/
+/* this set of stylings feels very blunt.  the aim is to ensure that
+/* no lists extend beyond the edge of the surrounding paragraphs,
+/* but the numbers are inexact and I suspect there is a more elegant
+/* way of doing all this. */
 ol,
 ul,
 dt,
@@ -493,6 +509,10 @@ dl {
   margin: .75em auto .75em auto;
   line-height: 125%; }
 
+/**/
+/* this restricts the width of list items and paragraphs within list
+/* items.  for some reason, embedded paragraphs appear to stick out
+/* more than list items. */
 li {
   margin: 0;
   width: 580px; }
@@ -500,13 +520,22 @@ li {
     margin: 1em auto auto 0;
     width: 560px; }
 
+/**/
+/* covering all the bases: this restricts the width of list items
+/* embedded in ordered lists embedded in list items (embedded in
+/* ordered lists).  this might be completely unnecessary. */
 ol li ol li {
   width: 560px; }
 
+/**/
+/* This brings list numbers/bullets within the width of the list item
+/* itself, to make width policing easier. */
 li,
 dd {
   list-style-position: inside; }
 
+/**/
+/* this restricts the width of paragraphs embedded in definitions. */
 dd {
   margin: 0;
   text-align: justify; }
@@ -519,16 +548,30 @@ dd {
 /* ====== */
 /* TABLES */
 /* ====== */
+/**/
+/* the tables produced by pandoc are difficult to style because the
+/* `td` elements have inline styling.  depending on how the pandoc
+/* tables are produced, the `td` elements will have `text-align:
+/* right`, `left`, or `center`.  it's therefore up to the creator of
+/* the markdown file to correctly align their table elements.  the
+/* following styling is specifically designed to style Kant's table of
+/* thesis and antitheses */
+/**/
+/* `margin: auto` and a width specification brings the table into the
+/* center of the viewport. the `td` is for Kant's tables. */
 table {
   margin: 1em auto auto auto;
-  width: 600px;
-  text-align: left; }
+  width: 400px; }
+  table td {
+    padding: .5em 1em .5em 0; }
 
 /**/
 /* ============ */
 /* CLASS AND ID */
 /* ============ */
 /**/
+/* these are stylings specific to different IDs and classes.  these
+/* classes are used by all HTML documents made with pandoc. */
 .title {
   line-height: 100%;
   margin-bottom: .375em; }

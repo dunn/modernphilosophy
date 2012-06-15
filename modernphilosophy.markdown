@@ -4215,45 +4215,45 @@ I term this idea cosmological, because it always takes its object from the world
 It is here that the usefulness of a system of categories shows itself so plainly and unmistakably, that, even were there not several other proofs of it, this alone would quite sufficiently demonstrate its indispensableness in the system of pure Reason. There are not more than four of these transcendent ideas, as many as there are classes of categories; but each of them is only concerned with the absolute completion of a series of conditions to a given conditioned. In accordance with these cosmological ideas there are four dialectical assertions of pure Reason, which, inasmuch as they are dialectical, show that to each one is opposed a contradictory assumption, on equally plausible principles of pure Reason; and this is a conflict no metaphysical art of the subtlest distinction can avoid, but which compels philosophers to go back to the primary sources of pure Reason. The above antinomy, which is not arbitrarily invented, but has its basis in the nature of human Reason, and is hence unavoidable and never-ending, contains the following four theses together with their antitheses:
 
 ------------------------------
-  		Thesis				  
----		-------------------	  
- 1		The world has a		  
-		_beginning_ in 		  
-		time and space		  
+ \	Thesis				  
+--  -------------------	  
+ 1  The world has a		  
+	_beginning_ in 		  
+	time and space		  
 			 
- 2		Everything in the	  
-		world consists of	  
-		_simple_ [parts].	  
+ 2	Everything in the	  
+	world consists of	  
+	_simple_ [parts].	  
 			 
- 3		There are in the	  
-		world causes through  
-		_freedom_.			  
+ 3	There are in the	  
+	world causes through  
+	_freedom_.			  
 			
- 4		In the series of	  
-		world-causes there	  
-		exists a _necessary_  
-		being.				  
+ 4	In the series of	  
+	world-causes there	  
+	exists a _necessary_  
+	being.				  
 ------------------------------
 
 --------------------------------
-		Antithesis				  
----	    ----------------------
- 1  	The world is			  
-	 	_infinite_ in			  
-		time and space			  
+ \  Antithesis				  
+--  ----------------------
+ 1 	The world is			  
+	_infinite_ in			  
+	time and space			  
                                 
- 2  	There is nothing		  
-		simple, but everything	  
-		is _composite_.			  
+ 2 	There is nothing		  
+	simple, but everything	  
+	is _composite_.			  
                                 
- 3      There is no				  
-		freedom, but all		  
-		is _Nature_				  
-                                
- 4      There is nothing		  
-		necessary, but in		  
-		this series _all_		  
-		_is contingent_.		  
+ 3  There is no				  
+	freedom, but all		  
+	is _Nature_				  
+                               
+ 4  There is nothing		  
+	necessary, but in		  
+	this series _all_		  
+	_is contingent_.		  
 --------------------------------
 
 ## Section Fifty-two: "The Cosmological Idea", Continued
