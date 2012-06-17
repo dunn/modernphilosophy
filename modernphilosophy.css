@@ -448,7 +448,8 @@ table {
 /* but `text-align: center` ensures that other elements that have a
 /* `width` specified will be centered in the viewport. */
 body {
-  margin: 4em 0;
+  width: 600px;
+  margin: 4em auto;
   text-align: center;
   font-size: 100%;
   -webkit-text-size-adjust: 100%;
@@ -456,31 +457,28 @@ body {
   line-height: 100%; }
 
 h1 {
-  width: 600px;
   margin: 1.25em auto .5em auto;
   line-height: 100%; }
 
 h2 {
-  width: 600px;
   margin: 1.25em auto .5em auto;
   line-height: 150%; }
 
 h3 {
-  width: 600px;
   margin: 1.25em auto .5em auto;
   line-height: 150%; }
 
 h4 {
-  width: 600px;
   margin: 1.25em auto .5em auto;
   line-height: 150%; }
 
-hr {
-  width: 600px; }
+h5 {
+  margin: 1.25em auto .5em auto;
+  font-size: 100%;
+  line-height: 150%; }
 
 p {
   text-align: justify;
-  width: 600px;
   margin: auto;
   line-height: 125%; }
 
@@ -505,47 +503,30 @@ ul,
 dt,
 dl {
   text-align: left;
-  width: 600px;
-  margin: .75em auto .75em auto;
+  margin: .75em auto;
   line-height: 125%; }
+  ol li,
+  ol li p,
+  ul li,
+  ul li p,
+  dt li,
+  dt li p,
+  dl li,
+  dl li p {
+    list-style-position: inside;
+    margin: 1em 15px 0 -15px; }
 
-/**/
-/* this restricts the width of list items and paragraphs within list
-/* items.  for some reason, embedded paragraphs appear to stick out
-/* more than list items. */
-li {
-  margin: 0;
-  width: 580px;
-  list-style-type: disc; }
-  li p {
-    margin: 1em auto auto 0;
-    width: 560px; }
-
-/**/
-/* covering all the bases: this restricts the width of list items
-/* embedded in ordered lists embedded in list items (embedded in
-/* ordered lists).  this might be completely unnecessary. */
-ol li ol li {
-  width: 560px; }
-
-/**/
-/* This brings list numbers/bullets within the width of the list item
-/* itself, to make width policing easier. */
-li,
-dd {
-  list-style-position: inside; }
-
-/**/
-/* this restricts the width of paragraphs embedded in definitions. */
 dd {
   margin: 0;
   text-align: justify; }
   dd p {
-    margin: auto auto auto 50px;
-    width: 550px; }
+    margin: auto auto auto 50px; }
   dd p + p {
     margin-top: 1em; }
+  dd li {
+    margin-left: 40px; }
 
+/**/
 /* ====== */
 /* TABLES */
 /* ====== */
@@ -586,5 +567,135 @@ nav,
 #TOC nav,
 #TOC li {
   text-align: left;
-  width: 600px;
-  margin: auto; }
+  margin: auto;
+  list-style-type: disc; }
+
+/**/
+/* ============= */
+/* MEDIA QUERIES */
+/* ============= */
+/**/
+/* these stylings apply only when the viewing media meets certain
+/* conditions */
+@media screen and (max-width: 650px) {
+  body {
+    width: 500px;
+    margin: 4em auto;
+    text-align: center;
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    line-height: 100%; }
+
+  h1 {
+    margin: 1.25em auto .5em auto;
+    line-height: 100%; }
+
+  h2 {
+    margin: 1.25em auto .5em auto;
+    line-height: 150%; }
+
+  h3 {
+    margin: 1.25em auto .5em auto;
+    line-height: 150%; }
+
+  h4 {
+    margin: 1.25em auto .5em auto;
+    line-height: 150%; }
+
+  h5 {
+    margin: 1.25em auto .5em auto;
+    font-size: 100%;
+    line-height: 150%; }
+
+  p {
+    text-align: justify;
+    margin: auto;
+    line-height: 125%; }
+
+  /* the styling for `p + p` ensures that there is space between any two
+  /* paragraphs */
+  p + p {
+    margin-top: 1em; }
+
+  blockquote {
+    margin: 1em auto; }
+
+  /* ===== */
+  /* LISTS */
+  /* ===== */
+  /**/
+  /* this set of stylings feels very blunt.  the aim is to ensure that
+  /* no lists extend beyond the edge of the surrounding paragraphs,
+  /* but the numbers are inexact and I suspect there is a more elegant
+  /* way of doing all this. */
+  ol,
+  ul,
+  dt,
+  dl {
+    text-align: left;
+    margin: .75em auto;
+    line-height: 125%; }
+    ol li, ol li p,
+    ul li,
+    ul li p,
+    dt li,
+    dt li p,
+    dl li,
+    dl li p {
+      list-style-position: inside;
+      margin: 1em 15px 0 -15px; }
+
+  dd {
+    margin: 0;
+    text-align: justify; }
+    dd p {
+      margin: auto auto auto 50px; }
+    dd p + p {
+      margin-top: 1em; }
+    dd li {
+      margin-left: 40px; }
+
+  /**/
+  /* ====== */
+  /* TABLES */
+  /* ====== */
+  /**/
+  /* the tables produced by pandoc are difficult to style because the
+  /* `td` elements have inline styling.  depending on how the pandoc
+  /* tables are produced, the `td` elements will have `text-align:
+  /* right`, `left`, or `center`.  it's therefore up to the creator of
+  /* the markdown file to correctly align their table elements.  the
+  /* following styling is specifically designed to style Kant's table of
+  /* thesis and antitheses */
+  /**/
+  /* `margin: auto` and a width specification brings the table into the
+  /* center of the viewport. the `td` is for Kant's tables. */
+  table {
+    margin: 1em auto auto auto;
+    width: 333.333px; }
+    table td {
+      padding: .5em 1em .5em 0; }
+
+  /**/
+  /* ============ */
+  /* CLASS AND ID */
+  /* ============ */
+  /**/
+  /* these are stylings specific to different IDs and classes.  these
+  /* classes are used by all HTML documents made with pandoc. */
+  .title {
+    line-height: 100%;
+    margin-bottom: .375em; }
+
+  .author,
+  .date {
+    line-height: 150%; }
+
+  nav,
+  #TOC,
+  #TOC nav,
+  #TOC li {
+    text-align: left;
+    margin: auto;
+    list-style-type: disc; } }
