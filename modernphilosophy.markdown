@@ -423,13 +423,23 @@ We also speak of a thing's nature as being exhibited in the process of growth by
 
 Now that we have established these distinctions, we must proceed to consider causes, their character and number. Knowledge is the object of our inquiry, and men do not think they know a thing till they have grasped the 'why' of it (which is to grasp its primary cause). So clearly we too must do this as regards both coming to be and passing away and every kind of physical change, in order that, knowing their principles, we may try to refer to these principles each of our problems.
 
-In one sense, then, (1) that out of which a thing comes to be and which persists, is called 'cause,' e.g. The bronze of the statue, the silver of the bowl, and the genera of which the bronze and the silver are species. In another sense (2) the form or the archetype, i.e. The statement of the essence, and its genera, are called 'causes' (e.g. Of the octave the relation of 2:1, and generally number), and the parts in the definition. Again (3) the primary source of the change or coming to rest; e.g. The man who gave advice is a cause, the father is cause of the child, and generally what makes of what is made and what causes change of what is changed. Again (4) in the sense of end or 'that for the sake of which' a thing is done, e.g. Health is the cause of walking about. ('Why is he walking about?' we say. 'To be healthy,' and, having said that, we think we have assigned the cause.) The same is true also of all the intermediate steps which are brought about through the action of something else as means towards the end, e.g. Reduction of flesh, purging, drugs, or surgical instruments are means towards health. All these things are 'for the sake of' the end, though they differ from one another in that some are activities, others instruments. This then perhaps exhausts the number of ways in which the term 'cause' is used.
+In one sense, then, (1) that out of which a thing comes to be and which persists, is called 'cause,' e.g., the bronze of the statue, the silver of the bowl, and the genera of which the bronze and the silver are species. In another sense (2) the form or the archetype, i.e., the statement of the essence, and its genera, are called 'causes' (e.g. Of the octave the relation of 2:1, and generally number), and the parts in the definition. Again (3) the primary source of the change or coming to rest; e.g., the man who gave advice is a cause, the father is cause of the child, and generally what makes of what is made and what causes change of what is changed. Again (4) in the sense of end or 'that for the sake of which' a thing is done, e.g., health is the cause of walking about. ('Why is he walking about?' we say. 'To be healthy,' and, having said that, we think we have assigned the cause.) The same is true also of all the intermediate steps which are brought about through the action of something else as means towards the end, e.g., reduction of flesh, purging, drugs, or surgical instruments are means towards health. All these things are 'for the sake of' the end, though they differ from one another in that some are activities, others instruments. This then perhaps exhausts the number of ways in which the term 'cause' is used.
 
 ***
 
 (@) What is Aristotle's method in this text? Does it have anything in common with that of the _Categories_?
 
-(@) In [Book Two, Chapter Three](#book-two-chapter-three), Aristotle lists his 'four' causes; the translator has numbered them. Match these numbers to the shorthand phrases below, by which they have come to be known: formal (\_\_), final (\_\_), material (\_\_), efficient (3).
+(@) In [Book Two, Chapter Three](#book-two-chapter-three), Aristotle lists his 'four' causes; the translator has numbered them. These causes have come to be known as
+
+    i. Formal
+    
+    ii. Final
+    
+    iii. Material
+    
+    iv. Efficient
+    
+    Try to identify which number corresponds to which of these causes.
 
 _The Greek word translated as 'cause' here is 'aitios'; the Greek word can mean either cause or explanation. Which of Aristotle's four aitia most closely maps our own notion of a cause?_
 
