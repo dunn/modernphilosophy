@@ -14,7 +14,7 @@ This is a work in progress. I welcome suggestions for improvements---cuts, addit
 
 This modified version of the text was written in [Markdown](http://daringfireball.net/projects/markdown/) (with [pandoc-exclusive extensions](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown)) by [Alexander Dunn](http://uweb.ucsb.edu/~adunn). Using the free utility [pandoc](http://johnmacfarlane.net/pandoc/), this version can be easily converted to HTML, PDF, EPUB, and [many other formats](http://johnmacfarlane.net/pandoc/README.html#options).  This version is hosted on [GitHub](https://github.com/grumble/modernphilosophy); please copy and edit it, and feel free to submit your changes to the public repository.
 
-_(Made possible by the Virginia Tech Philosophy Department and a Virginia Tech CIDER grant.)_
+_(Made possible by the [Virginia Tech Philosophy Department](http://www.phil.vt.edu/) and a Virginia Tech [CIDER](http://www.cider.vt.edu/) grant.)_
 
 ## Sources
 Unless otherwise noted, all texts are in the public domain. If you know otherwise, please email me (<ottw@vt.edu>). All other material is the author's and is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
