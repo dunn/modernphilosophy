@@ -109,7 +109,7 @@ It's impossible for Premises 1 and 2 to be true while the conclusion is false. S
 
 ***
 
-(@) If an argument is valid and sound, what can you tell about the conclusion?
+(@) _If an argument is valid and sound, what can you tell about the conclusion?_
 
 ***
 
@@ -117,7 +117,7 @@ Let's go back to the boxing argument. Run our test on it: is it possible for Pre
 
 ***
 
-(@) There is something missing from the boxing argument. What is it? What could we add to make the argument valid? Is the argument, repaired in this way, sound?
+(@) _There is something missing from the boxing argument. What is it? What could we add to make the argument valid? Is the argument, repaired in this way, sound?_
 
 ***
 
@@ -146,7 +146,7 @@ The first distinction is between claims that are **necessary** and those that ar
 	
 ***
 
-(@) The modal argument just given for God's existence is a valid argument.  Is it a sound argument?
+(@) _The modal argument just given for God's existence is a valid argument.  Is it a sound argument?_
 
 ***
 	
@@ -177,7 +177,7 @@ Homer Simpson provides a nice example of someone who doesn't appreciate this dif
 
 ***
 
-(@) Look again at the boxing argument above. What kind of premise did you have to insert in order to make it valid, a descriptive or a normative one?
+(@) _Look again at the boxing argument above. What kind of premise did you have to insert in order to make it valid, a descriptive or a normative one?_
 
 ***
 
@@ -195,7 +195,7 @@ This is a skill we'll cultivate in this class, as we'll inevitably read philosop
 
 ***
 
-(@) Which of the following claims are analytic, and which are synthetic?
+(@) _Which of the following claims are analytic, and which are synthetic?_
 
 	i. Any black cat is black.
 	ii. There is life on other planets.
@@ -221,8 +221,8 @@ Other kinds are **unnatural**: they don't share enough features, or enough of th
 
 ***
 
-(@) List three things that form an **unnatural kind**: 
-(@) One of David Letterman's best bits was a list of 'Top 10 Rejected Oprah Themes.' Among them was: _Problems of Guys Named Don_. Why is this a bad idea for a talk-show theme?
+(@) _List three things that form an **unnatural kind**._
+(@) _One of David Letterman's best bits was a list of 'Top 10 Rejected Oprah Themes.' Among them was 'Problems of Guys Named Don'. Why is this a bad idea for a talk-show theme?_
 
 ***
 
@@ -251,7 +251,7 @@ The **libertarian** holds that since determinism is false, we can have free will
 
 ***
 
-(@) The hard determinist and libertarian agree about the consequences of determinism.  What do they both think must be the case _if_ determinism is true?
+(@) _The hard determinist and libertarian agree about the consequences of determinism.  What do they both think must be the case_ if _determinism is true?_
 
 ***
 
@@ -355,13 +355,13 @@ The most distinctive mark of substance appears to be that, while remaining numer
 
 ***
 
-(@) Give three examples each of primary substances and secondary substances.\
+(@) _Give three examples each of primary substances and secondary substances._
 
-(@) What makes something a (primary) substance? How many criteria does Aristotle give, and what are they?\
+(@) _What makes something a (primary) substance? How many criteria does Aristotle give, and what are they?_
 
-(@) Why does Aristotle think that if primary substances did not exist, nothing else could?\
+(@) _Why does Aristotle think that if primary substances did not exist, nothing else could?_
 
-(@) To think about: what is Aristotle's method in this text? How does he go about discovering the most basic features of the world?
+(@) _To think about: what is Aristotle's method in this text? How does he go about discovering the most basic features of the world?_
 
 ## Aristotle's _Physics_
 
@@ -395,7 +395,7 @@ _Assuming this principle---in any change, there must be something that endures t
 
 _But now consider a substance itself coming to be (i.e., instead of coming-to-be-F, consider coming-to-be period.) There must be a substratum here as well; but it cannot be a substance (since this is not a case of some substance taking on a new property, but coming into existence in the first place.) This is_ prime matter, _matter lacking all form._
 
-(@) We never experience prime matter; how, then, does Aristotle think we can come to know it? (See the previous paragraph of Aristotle's text)\
+(@) _We never experience prime matter; how, then, does Aristotle think we can come to know it? (See the previous paragraph of Aristotle's text)_
 
 
 ### Book Two, Chapter One
@@ -427,9 +427,9 @@ In one sense, then, (1) that out of which a thing comes to be and which persists
 
 ***
 
-(@) What is Aristotle's method in this text? Does it have anything in common with that of the _Categories_?
+(@) _What is Aristotle's method in this text? Does it have anything in common with that of the_ Categories_?_
 
-(@) In [Book Two, Chapter Three](#book-two-chapter-three), Aristotle lists his 'four' causes; the translator has numbered them. These causes have come to be known as
+(@) _In [Book Two, Chapter Three](#book-two-chapter-three), Aristotle lists his 'four' causes; the translator has numbered them. These causes have come to be known as_
 
     i. Formal
     
@@ -453,9 +453,9 @@ _She will have lots and lots of other properties besides her essence. Some of th
 
 _We can now see another role that prime matter---matter denuded of all forms---plays for Aristotle. Can you see how the principle that all forms inhere in matter might make trouble, and what prime matter is supposed to be doing?_
 
-(@) Why does Aristotle think there is such a thing as nature, in his sense? What then does he make of artificial things, like a bed? Do they _not_ have natures?
+(@) _Why does Aristotle think there is such a thing as nature, in his sense? What then does he make of artificial things, like a bed? Do they_ not _have natures?_
 
-(@) Aristotle argues that form has a better claim on being 'nature'---an internal principle of change---than does matter. What is his argument for this?
+(@) _Aristotle argues that form has a better claim on being 'nature'---an internal principle of change---than does matter. What is his argument for this?_
 
 ##  Aristotle's _Posterior Analytics_
 
@@ -517,7 +517,7 @@ Thus it is clear that we must get to know the primary premises by induction [epa
 
 ***
 
-(@) One of these arguments is a demonstration; the other is merely a deduction. Which is which, and why?
+(@) _One of these arguments is a demonstration; the other is merely a deduction. Which is which, and why?_
 
 > **Argument 1**
 >
@@ -531,9 +531,9 @@ Thus it is clear that we must get to know the primary premises by induction [epa
 >
 > 2. Everyone wearing shoes has sweaty toes. Therefore, everyone in modern philosophy has sweaty toes.
 
-(@) What would a completed science look like, according to Aristotle? How is it different from contemporary science?
+(@) _What would a completed science look like, according to Aristotle? How is it different from contemporary science?_
 
-(@) Aristotle says that we go about getting our first principles by induction (_epagoge_ in Greek). What does he mean by this?
+(@) _Aristotle says that we go about getting our first principles by induction (_epagoge _in Greek). What does he mean by this?_
 
 ## Thomas Aquinas (1225--1274)
 
@@ -549,9 +549,9 @@ _Our first reading is a short statement of Aquinas's views on the cosmological a
 
 (iii) The first cause is God.
 
-_Like all_ _a posteriori_  arguments---_arguments from experience---this one has a problem in the move from (ii) to (iii). Why not think that the first cause is the Jonas brothers, or a clam? Why should we believe that the first cause still exists? Aquinas himself runs into these problems. Thus a later philosopher, John Duns Scotus, argues that Aquinas's famous 'five ways' might prove the existence of five distinct beings._
+_Like all_ a posteriori _arguments---arguments from experience---this one has a problem in the move from (ii) to (iii). Why not think that the first cause is the Jonas brothers, or a clam? Why should we believe that the first cause still exists? Aquinas himself runs into these problems. Thus a later philosopher, John Duns Scotus, argues that Aquinas's famous 'five ways' might prove the existence of five distinct beings._
 
-(@) As a good justification empiricist, Aquinas is committed to proving God's existence from experience; he cannot evade Duns Scotus's objections. Nevertheless, Aquinas does not think the cosmological argument is a good one. Can you see what goes wrong in premises 1 and 2?
+(@) _As a good justification empiricist, Aquinas is committed to proving God's existence from experience; he cannot evade Duns Scotus's objections. Nevertheless, Aquinas does not think the cosmological argument is a good one. Can you see what goes wrong in premises 1 and 2?_
 
 _Aquinas has other criticisms of his own, criticisms that would apply even to the most sophisticated versions of the cosmological argument. These tell us much about how Aquinas conceives of causation._
 
@@ -633,11 +633,11 @@ Upon consideration, these arguments are not difficult.
 
 ***
 
-(@) Why does Aquinas reject 'occasionalism,' the doctrine that God is the only true cause? Give what you take to be his best argument. 
+(@) _Why does Aquinas reject 'occasionalism,' the doctrine that God is the only true cause? Give what you take to be his best argument._
 
-(@) At the end of [Chapter Sixty-nine](#chapter-sixty-nine-of-the-opinion-of-those-who-withdraw-from-natural-things-their-proper-actions) ('Some Doctors of the Moorish Law'), Aquinas addresses a difficulty raised by the defenders of occasionalism. (This difficulty will become important later on, especially when we look at Locke.) What is the difficulty, and how does Aquinas propose to solve it? 
+(@) _At the end of [Chapter Sixty-nine](#chapter-sixty-nine-of-the-opinion-of-those-who-withdraw-from-natural-things-their-proper-actions) ('Some Doctors of the Moorish Law'), Aquinas addresses a difficulty raised by the defenders of occasionalism. (This difficulty will become important later on, especially when we look at Locke.) What is the difficulty, and how does Aquinas propose to solve it?_
 
-(@) How do God and creatures 'cooperate' to produce effects? What does God do, and what do creatures do? Give an analogy.
+(@) _How do God and creatures 'cooperate' to produce effects? What does God do, and what do creatures do? Give an analogy._
 
 ### Aquinas' _Summa Theologicae, Prima Pars_
 
@@ -663,7 +663,7 @@ But there is no necessity for this. For even in sensible things it is to be obse
 
 ***
 
-(@) Aquinas gives two arguments against Plato. What are they?
+(@) _Aquinas gives two arguments against Plato. What are they?_
 
 #### Question Eight-five, Article One: Whether Our Intellect Understands Corporeal and Material Things by Abstraction from Phantasms?
 
@@ -681,7 +681,7 @@ For if we understood or said that color is not in a colored body, or that it is 
 
 ***
 
-(@) Aquinas distinguishes two things one might mean by 'abstraction.' Which does Aquinas endorse, and why?
+(@) _Aquinas distinguishes two things one might mean by 'abstraction.' Which does Aquinas endorse, and why?_
 
 #### Question Eighty-five, Article Two: Whether the Intelligible Species Abstracted from the Phantasm Is Related to Our Intellect As That Which Is Understood?
 
@@ -705,13 +705,13 @@ _This is a crucial passage for understanding Aquinas's views. Consider two posit
 **Indirect realism ('representationalism')**
 :	In perception and thought, the mind is only indirectly connected to the things it perceives and thinks about; what it immediately perceives or thinks about is only a mental entity, which in turn represents the thing in the world.
 
-(@) Which view does Aquinas endorse? Why?
+(@) _Which view does Aquinas endorse? Why?_
 
 # René Descartes (1596--1650)
 
 _It is important to keep in mind that Descartes's strictly philosophical works are but a tiny portion of his overall output. Desmond Clarke's insistence that Descartes was a 'practicing scientist who, somewhat unfortunately, wrote a few short and relatively unimportant philosophical essays' is a useful corrective, although it's not quite true._
 
-_One of Descartes's earliest works (1629-33) is_ The World _(also known as the_ Treatise on Light_). Descartes decided not to publish it in light of Galileo's run-in with the church over the Copernican hypothesis. In 1637, Descartes published the_ Discourse on Method, _which includes a summary of parts of this early work._
+_One of Descartes's earliest works (1629-33) is_ The World _(also known as the_ Treatise on Light_)_. _Descartes decided not to publish it in light of Galileo's run-in with the church over the Copernican hypothesis. In 1637, Descartes published the_ Discourse on Method, _which includes a summary of parts of this early work._
 
 _Descartes published the_ Meditations _in Latin in 1641; a French translation soon followed. Some of Descartes's friends circulated the manuscript and collected objections to the work, to which Descartes replied._
 
@@ -803,11 +803,11 @@ But if, instead of occupying ourselves with that which has no foundation, unless
 
 ***
 
-(@) When are two things are really distinct? How can we know that they are distinct?
+(@) _When are two things are really distinct? How can we know that they are distinct?_
 
-(@) What kind of distinction holds between a substance and its essence---real, conceptual (a distinction of reason), or modal?
+(@) _What kind of distinction holds between a substance and its essence---real, conceptual (a distinction of reason), or modal?_
 
-(@) Aristotle gave several criteria for substance-hood. What criterion does Descartes give? Is it the same as Aristotle's?
+(@) _Aristotle gave several criteria for substance-hood. What criterion does Descartes give? Is it the same as Aristotle's?_
 
 ## Descartes' _Meditations on First Philosophy_ (1641)
 
@@ -865,9 +865,9 @@ But this undertaking is arduous, and a certain indolence insensibly leads me bac
 
 ***
 
-(@) In this _Meditation_, Descartes presents three skeptical arguments. There is a common pattern: in each case, rather than reacting directly to the skeptical argument and trying to overthrow it, the meditator retreats to some apparently more solid ground, until, at the end of the meditation, \_\_\_\_\_.
+(@) _In this meditation, Descartes presents three skeptical arguments. There is a common pattern: in each case, rather than reacting directly to the skeptical argument and trying to overthrow it, the meditator retreats to some apparently more solid ground, until, at the end of the meditation, \_\_\_\_._
 
-(@) What are the skeptical arguments? How effective are they?
+(@) _What are the skeptical arguments? How effective are they?_
 	
 	1. _Premise:_ Sometimes the senses deceive us.
 	
@@ -875,9 +875,9 @@ But this undertaking is arduous, and a certain indolence insensibly leads me bac
 
 	What is wrong with this argument? Is there a way to grant the premise while denying the conclusion?
 	
-	2. _Premise:_ Sometimes, while dreaming, \_\_\_\_.
+	2. _Premise:_ Sometimes, while dreaming, \_\_\_.
 	
-		_Conclusion:_ Therefore, right now I cannot tell \_\_\_\_.\
+		_Conclusion:_ Therefore, right now I cannot tell \_\_\_.\
 	
 	This is what we might call the 'literal' dream argument. Can you think of any way to respond? (You might want to come back to this after having read the [Sixth Meditation](#sixth-meditation-of-the-existence-of-material-things-and-of-the-real-distinction-between-the-mind-and-body-of-man). But there's a more threatening version of this argument---the 'metaphorical dream argument':
 	
@@ -885,9 +885,9 @@ But this undertaking is arduous, and a certain indolence insensibly leads me bac
 	
 		_Conclusion (Alternate):_ I have no reason to think that my entire experience isn't like a dream, in that it corresponds to nothing outside of me.
 	
-	3. _Premise:_ There might be an omnipotent being, capable of making all my inferences \_\_\_\_\_, even when I think \_\_\_\_\_\_\_\_\_\_.
+	3. _Premise:_ There might be an omnipotent being, capable of making all my inferences \_\_\_\_\_, even when I think \_\_\_\_\_\_\_\_\_.
 	
-		_Conclusion:_ I cannot trust my own powers of \_\_\_\_\_\_\_\_\_\_.
+		_Conclusion:_ I cannot trust my own powers of \_\_\_\_\_\_\_\_\_.
 	
 	Which of these arguments is most important? Which of the three 'areas of retreat' does it threaten? 
 
@@ -935,33 +935,33 @@ But, in conclusion, I find I have insensibly reverted to the point I desired; fo
 
 ***
 
-(@) Who is the meditator? What kinds of views does she hold, as she begins her meditations?
+(@) _Who is the meditator? What kinds of views does she hold, as she begins her meditations?_
 
-(@) Descartes thinks that many of the beliefs and thoughts we attribute merely to the senses depend on the intellect. How does the example of the automata ('artificial machines') show this?
+(@) _Descartes thinks that many of the beliefs and thoughts we attribute merely to the senses depend on the intellect. How does the example of the automata ('artificial machines') show this?_
 
-(@) What would Descartes make of the scholastic doctrine of existentialism?
+(@) _What would Descartes make of the scholastic doctrine of existentialism?_
 
-(@) What is the essence of the wax? What would a scholastic make of Descartes's conclusion?
+(@) _What is the essence of the wax? What would a scholastic make of Descartes's conclusion?_
 
-(@) How does the wax argument work? (Look back at the ['stone' argument](#part-two-section-eleven-how-space-is-not-in-reality-different-from-corporeal-substance) from the _Principles_) Try to reconstruct the wax argument below.
+(@) _How does the wax argument work? (Look back at the_ [_'stone' argument_](#part-two-section-eleven-how-space-is-not-in-reality-different-from-corporeal-substance) _from the_ Principles_.)_ _Try to reconstruct the wax argument below._
 
 > _Premise 1:_ At a given time---call it 5pm---the wax has a set of determinate properties, including determinate size, shape, taste, color, and so on.
 >
-> _Premise 2:_ At a later time---say, 5:05 pm, the wax \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> _Premise 2:_ At a later time---say, 5:05 pm, the wax \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 >
-> _Conclusion:_ The essence of the wax---and of all material things---is nothing but \_\_\_\_\_\_.
+> _Conclusion:_ The essence of the wax---and of all material things---is nothing but \_\_\_\_\_.
 
 ### Third Meditation: Of God: That He Exists
 
-(@) In this Meditation, Descartes continues to use his own view of the order of knowledge, which the skeptical arguments help to establish: contra existentialism, Cartesian essentialism holds that one cannot know that something exists without first \_\_\_\_\_\_\_\_\_\_\_\_\_\_. Descartes uses some scholastic jargon in this Meditation, which can be very misleading. Watch out for these phrases; they mean roughly the opposite of what it sounds like they should mean.
+(@) _In this meditation, Descartes continues to use his own view of the order of knowledge, which the skeptical arguments help to establish: contra existentialism, Cartesian essentialism holds that one cannot know that something exists without first \_\_\_\_\_\_\_\_\_\_\_\_\_. Descartes uses some scholastic jargon in this Meditation, which can be very misleading. Watch out for these phrases; they mean roughly the opposite of what it sounds like they should mean._
 
-	The 'formal reality' of a thing is just its reality or existence. Descartes thinks there is a hierarchy of reality: as he explains to Hobbes (in the Replies to the third Objections), God is at the top, followed by created substances, and finally their modes. God exists more fully than anything else does, simply because created substances depend for their existence on \_\_\_\_\_, and modes depend on \_\_\_\_\_\_\_\_\_\_.
+	The 'formal reality' of a thing is just its reality or existence. Descartes thinks there is a hierarchy of reality: as he explains to Hobbes (in the Replies to the third Objections), God is at the top, followed by created substances, and finally their modes. God exists more fully than anything else does, simply because created substances depend for their existence on \_\_\_\_\_, and modes depend on \_\_\_\_\_\_\_\_\_.
 	
-(@) Formal reality is to be contrasted with 'objective reality,' the reality or being a thing has in virtue of what it represents. All ideas are modes of the mind; so they all have the same degree of formal reality. But they can differ in objective reality, because they can represent \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+(@) _Formal reality is to be contrasted with 'objective reality,' the reality or being a thing has in virtue of what it represents. All ideas are modes of the mind; so they all have the same degree of formal reality. But they can differ in objective reality, because they can represent \_\_\_\_\_\_\_\_\_\_\_\_\_\_._
 	
 	What else, besides ideas, has objective reality?
 
-	But this doesn't mean that Descartes is an idealist, someone who thinks that only ideas exist. God, created substances, and their modes, all have some degree of \_\_\_\_\_ reality.
+	But this doesn't mean that Descartes is an idealist, someone who thinks that only ideas exist. God, created substances, and their modes, all have some degree of \_\_\_\_ reality.
 
 ***
 	
@@ -1029,17 +1029,17 @@ But before I examine this with more attention, and pass on to the consideration 
 
 ***
 
-(@) What are the three classes of ideas the meditator speaks of? Some ideas at least seem to be innate; others seem to be \_\_\_\_\_\_ or \_\_\_\_\_\_.
+(@) _What are the three classes of ideas the meditator speaks of? Some ideas at least seem to be innate; others seem to be \_\_\_\_\_\_ or \_\_\_\_\_._
 
-(@) The main argument here shows that at least one idea has to fall into one of the three classes above. Which idea is it, and what class does it fall into?
+(@) _The main argument here shows that at least one idea has to fall into one of the three classes above. Which idea is it, and what class does it fall into?_
 
-(@) Descartes uses a causal principle here: the cause must have at least as much reality as the effect. What's the justification for this?
+(@) _Descartes uses a causal principle here: the cause must have at least as much reality as the effect. What's the justification for this?_
 
-(@) Applied to ideas, the principle says that there must be at least as much \_\_\_\_\_\_ reality in the cause of an idea as there is \_\_\_\_\_\_\_\_\_\_\_\_ in the idea itself. (See the synopsis of this meditation for an example.)
+(@) _Applied to ideas, the principle says that there must be at least as much \_\_\_\_\_\_ reality in the cause of an idea as there is \_\_\_\_\_\_\_\_\_\_\_ in the idea itself. (See the synopsis of this meditation for an example.)_
 
 	Given this principle, what can we say about the idea of God?
 	
-(@) Descartes gives a second argument for God's existence, based on the nature of time and his existence at this moment. How is Descartes's argument different from a traditional cosmological argument? Finally, do you think this is really an independent argument, or does it in some way rely on the argument from the idea of God? 
+(@) _Descartes gives a second argument for God's existence, based on the nature of time and his existence at this moment. How is Descartes's argument different from a traditional cosmological argument? Finally, do you think this is really an independent argument, or does it in some way rely on the argument from the idea of God?_
 
 ### Fourth Meditation: Of Truth and Error
 
@@ -1054,7 +1054,7 @@ _The Meditator's overall argument for EP works roughly like this:_
 >
 > _Premise 2:_ God exists.
 >
-> _Premise 3:_ God is not a \_\_\_\_\_\_.
+> _Premise 3:_ God is not a \_\_\_\_\_.
 >
 > _Conclusion:_ The Epistemic Principle is true.
 
@@ -1100,15 +1100,15 @@ And certainly this can be no other than what I have now explained: for as often 
 
 ***
 
-(@) What is the main problem the Meditator must answer here? 
+(@) _What is the main problem the Meditator must answer here?_
 
-(@) How does she answer it?
+(@) _How does she answer it?_
 
-(@) How can we avoid error?
+(@) _How can we avoid error?_
 
 ### Fifth Meditation: Of the Essence of Material Things; and, Again, of God; That He Exists
 
-_According to Descartes's essentialism, before we can close the book on skepticism about the external world, we have to know clearly and distinctly \_\_\_\_\_\_\_. So that's what we'll achieve in this Meditation; we'll also get a clearer understanding of the relationship between substance and essence, and another argument that God exists._
+_According to Descartes's essentialism, before we can close the book on skepticism about the external world, we have to know clearly and distinctly \_\_\_\_\_\_. So that's what we'll achieve in this Meditation; we'll also get a clearer understanding of the relationship between substance and essence, and another argument that God exists._
 
 ***
 
@@ -1134,13 +1134,13 @@ And thus I very clearly see that the certitude and truth of all science depends 
 
 ***
 
-(@) What is Descartes's second argument for the existence of God?
+(@) _What is Descartes's second argument for the existence of God?_
 
-(@) What advantages does it have over _a posteriori_ arguments?
+(@) _What advantages does it have over_ a posteriori _arguments?_
 
-(@) Why couldn't the Meditator give an _a posteriori_ argument, like the argument for design?
+(@) _Why couldn't the Meditator give an_ a posteriori _argument, like the argument for design?_
 
-(@) What key presupposition(s) does the ontological argument make?
+(@) _What key presupposition(s) does the ontological argument make?_
 
 ### Sixth Meditation: Of the Existence of Material Things, and of the Real Distinction Between the Mind and Body of Man
 
@@ -1202,19 +1202,19 @@ And certainly this consideration is of great service, not only in enabling me to
 
 ***
 
-(@) Descartes believes that, in addition to sensation and imagination, minds have an intellect, which does not depend on these other faculties. What is his argument for this?
+(@) _Descartes believes that, in addition to sensation and imagination, minds have an intellect, which does not depend on these other faculties. What is his argument for this?_
 
-(@) In this meditation, Descartes gives his famous modal argument for the real distinction between mind and body. (It's in the paragraph that starts 'And, firstly, because I know that all which I clearly and distinctly conceive.') First, have a look at the selections from the Principles above. What is a real distinction?
+(@) _In this meditation, Descartes gives his famous modal argument for the real distinction between mind and body. (It's in the paragraph that starts 'And, firstly, because I know that all which I clearly and distinctly conceive.') First, have a look at the selections from the Principles above. What is a real distinction?_
 
-	_A_ and _B_ are really distinct when and only when \_\_\_\_\_\_\_\_\_. So the conclusion of Descartes's argument is not that mind and body do exist separately, but only that \_\_\_\_\_\_\_\_\_. (Similarly, water and dirt are really distinct, even when they combine to form mud.) Reconstruct Descartes's argument:
+	A _and_ B _are really distinct when and only when \_\_\_\_\_\_\_\_\_. So the conclusion of Descartes's argument is not that mind and body do exist separately, but only that \_\_\_\_\_\_\_\_. (Similarly, water and dirt are really distinct, even when they combine to form mud.) Reconstruct Descartes's argument:_
 	
-	_Premise 1:_ Everything I clearly and distinctly conceive is \_\_\_\_\_\_\_\_\_.
+	_Premise 1:_ Everything I clearly and distinctly conceive is \_\_\_\_\_\_\_\_.
 	
-	_Premise 2:_ I can clearly and distinctly conceive of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+	_Premise 2:_ I can clearly and distinctly conceive of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 	
-	_Conclusion:_ Mind and body are really distinct substances; that is, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+	_Conclusion:_ Mind and body are really distinct substances; that is, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-(@) The Meditator has finally gotten her world back---she now has an argument to prove that there is an external world. To which of the skeptical arguments in Meditation One is this a reply?  Reconstruct the argument in your own way.
+(@) _The Meditator has finally gotten her world back---she now has an argument to prove that there is an external world. To which of the skeptical arguments in Meditation One is this a reply?  Reconstruct the argument in your own way._
 
 ### Objections and Replies to the Meditations
 
@@ -1241,7 +1241,7 @@ And certainly this consideration is of great service, not only in enabling me to
 
 ***
 	
-(@) Which premise of the Sixth Meditation argument for the real distinction does Arnauld challenge? What is the problem with it?
+(@) _Which premise of the Sixth Meditation argument for the real distinction does Arnauld challenge? What is the problem with it?_
 
 ***
 
@@ -1259,7 +1259,7 @@ And certainly this consideration is of great service, not only in enabling me to
 
 ***
 	
-_Descartes clearly argues for the Epistemic Principle (everything I clearly and distinctly perceive is true), which is not to be confused with the Conceivability Principle (everything I clearly and distinctly conceive is_ possible_). Arnauld's argument is that he cannot use the existence of God to prove the EP, since he must rely on the EP to prove \_\_\_\_\_\_\_._
+_Descartes clearly argues for the Epistemic Principle (everything I clearly and distinctly perceive is true), which is not to be confused with the Conceivability Principle (everything I clearly and distinctly conceive is_ possible_). Arnauld's argument is that he cannot use the existence of God to prove the EP, since he must rely on the EP to prove \_\_\_\_\_\_._
 
 ***
 
@@ -1270,7 +1270,7 @@ _Descartes clearly argues for the Epistemic Principle (everything I clearly and 
 
 ***
 	
-(@) One of the most controversial areas of Descartes scholarship concerns this 'Cartesian circle'. What exactly do you think Descartes is saying in his reply to Arnauld? Why does Descartes think he is not guilty of committing himself to a vicious circle?
+(@) _One of the most controversial areas of Descartes scholarship concerns this 'Cartesian circle'. What exactly do you think Descartes is saying in his reply to Arnauld? Why does Descartes think he is not guilty of committing himself to a vicious circle?_
 
 # Baruch Spinoza (1632--1677)
 
@@ -1467,13 +1467,13 @@ _Spinoza now argues that extended substance is not in fact divisible. We can see
 
 ***
 
->> (@) What would Spinoza make of Descartes's argument for the real distinction between mind and body? Is there some premise or assumption he would reject?
+>> (@) _What would Spinoza make of Descartes's argument for the real distinction between mind and body? Is there some premise or assumption he would reject?_
 >> 
->> (@) Complete this sketch of Spinoza's argument for monism by filling in the relevant propositions or axiom (e.g., P5 for Proposition 5). Note that this is only one way to reconstruct the argument.
+>> (@) _Complete this sketch of Spinoza's argument for monism by filling in the relevant propositions or axiom (e.g., P5 for Proposition 5). Note that this is only one way to reconstruct the argument._
 >> 
 >> 	_Proposition 3:_ No substance can act on or create a substance with a different attribute.
 >> 
->> 	Argument: Substances with different attributes 'have nothing in common with each other' and so cannot be understood through each other; but (by Axiom \_\_\_) they cannot then be causally connected.
+>> 	Argument: Substances with different attributes 'have nothing in common with each other' and so cannot be understood through each other; but (by Axiom \_\_) they cannot then be causally connected.
 >> 	
 >> 	_Proposition 5:_ No two substances can share an attribute.
 >> 	
@@ -1487,11 +1487,11 @@ _Spinoza now argues that extended substance is not in fact divisible. We can see
 >> 	
 >> 	Not (a), since it's no part of the attribute of thought that there be 20 instances of it.
 >> 	
->> 	Not (b), by \_\_\_\_\_. So our supposition is false: there is only one mind, and only one instance for any given attribute.
+>> 	Not (b), by \_\_\_\_. So our supposition is false: there is only one mind, and only one instance for any given attribute.
 >> 	
 >> 	_Proposition 6:_ One substance cannot be created (or destroyed) by another.
 >> 	
->> 	Argument: suppose one substance creates another. They will either (a) share an attribute or (b) not. Not (a), by \_\_\_\_\_. Not (b), by \_\_\_\_\_.
+>> 	Argument: suppose one substance creates another. They will either (a) share an attribute or (b) not. Not (a), by \_\_\_\_\_. Not (b), by \_\_\_\_.
 >> 	
 >> 	_Proposition 7:_ Each substance exists necessarily.
 >> 	
@@ -1501,9 +1501,9 @@ _Spinoza now argues that extended substance is not in fact divisible. We can see
 >> 	
 >> 	They will either (a) share an attribute or (b) not.
 >> 	
->> 	Not (a), by \_\_\_\_\_.
+>> 	Not (a), by \_\_\_\_.
 >> 	
->> 	Not (b), since it does not make sense for a substance to be limited by something \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. How could thought be limited by extension, or vice versa?
+>> 	Not (b), since it does not make sense for a substance to be limited by something \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. How could thought be limited by extension, or vice versa?
 >> 	
 >> 	_Proposition 9:_ The more attributes something has, the more reality it has.
 >> 	
@@ -1517,19 +1517,19 @@ _Spinoza now argues that extended substance is not in fact divisible. We can see
 >> 
 >> 	Not (a), because that would hold only if he were logically self-contradictory.
 >> 
->> 	Not (b), by \_\_\_\_\_.
+>> 	Not (b), by \_\_\_\_.
 >> 	
 >> 	_Proposition 14:_ Only God exists.
 >> 	
 >> 	If there were a substance other than God, it would either (a) share an attribute or (b) not.
 >> 	
->> 	Not (a), by \_\_\_\_\_.
+>> 	Not (a), by \_\_\_\_.
 >> 	
 >> 	Not (b): if it doesn't share an attribute, if it's a different kind of thing, then God would not be absolutely infinite (i.e., possessing an infinity of attributes).
 >> 	
->> (@) Objection: Spinoza's God is material (among other things). But matter is divisible; to be divided is to be imperfect, subject to destruction.
+>> (@) _Objection: Spinoza's God is material (among other things). But matter is divisible; to be divided is to be imperfect, subject to destruction._
 >> 
->> 	_Reply:_ Matter isn't divisible, although it is presented to our imagination as if it were. This means that no substance is divisible; if it were, it would be divided into \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, which is impossible (given \_\_\_\_\_).
+>> 	_Reply:_ Matter isn't divisible, although it is presented to our imagination as if it were. This means that no substance is divisible; if it were, it would be divided into \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, which is impossible (given \_\_\_\_).
 
 ***
 	
@@ -1649,15 +1649,15 @@ Such are the misconceptions I have undertaken to note; if there are any more of 
 
 ***
 
-(@) Why does Spinoza object to the anthropomorphic conception of God?
+(@) _Why does Spinoza object to the anthropomorphic conception of God?_
 
-(@) What does Spinoza think of the argument from design?
+(@) _What does Spinoza think of the argument from design?_
 
-(@) How does Spinoza reply to the problem of evil? Would this reply appeal to traditional theists?
+(@) _How does Spinoza reply to the problem of evil? Would this reply appeal to traditional theists?_
 
-(@) What are we, according to Spinoza? Are we substances or modes? What consequences does Spinoza's view have for the notion of immortality?
+(@) _What are we, according to Spinoza? Are we substances or modes? What consequences does Spinoza's view have for the notion of immortality?_
 
-(@) Can you guess why this work is called _The Ethics_?
+(@) _Can you guess why this work is called_ The Ethics_?_
 
 # John Locke's (1632--1704) _Essay Concerning Human Understanding_ (1689)
 
@@ -1703,11 +1703,11 @@ The commonwealth of learning is not at this time without master-builders, whose 
 
 ***
 
-(@) What is Locke's main project in the Essay?
+(@) _What is Locke's main project in the Essay?_
 
-(@) What's the point of pursuing it? What advantages does he expect to obtain from it?
+(@) _What's the point of pursuing it? What advantages does he expect to obtain from it?_
 
-(@) What is distinctive about Locke's project? What would Locke think of the method of, say, Spinoza?
+(@) _What is distinctive about Locke's project? What would Locke think of the method of, say, Spinoza?_
 
 ## Against Innate Knowledge
 
@@ -1731,9 +1731,9 @@ By this it may be tried whether there be any innate ideas in the mind before imp
 
 ***
 
-(@) Why is Locke concerned to deny the doctrine of innate principles? Can you connect this with Locke's project?
+(@) _Why is Locke concerned to deny the doctrine of innate principles? Can you connect this with Locke's project?_
 
-(@) Can you extract an argument from these texts that might apply to innate ideas (as opposed to principles)? There seem to be three possible ways to cash out what it means to say that an idea is innate. It might be innate as a capacity; it might always be present to the mind; or it might be lodged in the memory. What does Locke think is wrong with this last option (memory)? (See esp. Chapter 4, Section 20 above---hint: Locke seems to think there's something contradictory about innateness.)
+(@) _Can you extract an argument from these texts that might apply to innate ideas (as opposed to principles)? There seem to be three possible ways to cash out what it means to say that an idea is innate. It might be innate as a capacity; it might always be present to the mind; or it might be lodged in the memory. What does Locke think is wrong with this last option (memory)? (See esp. Chapter 4, Section 20 above---hint: Locke seems to think there's something contradictory about innateness.)_
 
 > _Premise 1:_ An innate idea is in the memory.
 >
@@ -1767,7 +1767,7 @@ _Locke thinks that sensation and reflection are our only sources of ideas. We sh
 
 ***
 
-(@) How does Locke respond to Descartes's [argument](#sixth-meditation-of-the-existence-of-material-things-and-of-the-real-distinction-between-the-mind-and-body-of-man) for the distinction between the intellect and the imagination? Who is right?
+(@) _How does Locke respond to Descartes's [argument](#sixth-meditation-of-the-existence-of-material-things-and-of-the-real-distinction-between-the-mind-and-body-of-man) for the distinction between the intellect and the imagination? Who is right?_
 
 ## Simple ideas
 
@@ -1779,11 +1779,11 @@ Though the qualities that affect our senses are, in the things themselves, so un
 
 ***
 
-(@) Classify these ideas, according to the above system (II.iii.1):
-	(i) the idea of blue \_\_\_\_\_\_\_\_\_\_\_\_
-	(ii) the idea of square \_\_\_\_\_\_\_\_\_\_\_\_
-	(iii) the idea of hoping \_\_\_\_\_\_\_\_\_\_\_\_
-	(iv) the idea of straight \_\_\_\_\_\_\_\_\_\_\_\_
+(@) _Classify these ideas, according to the above system (II.iii.1):_
+	(i) the idea of blue \_\_\_\_\_\_\_\_\_\_\_
+	(ii) the idea of square \_\_\_\_\_\_\_\_\_\_\_
+	(iii) the idea of hoping \_\_\_\_\_\_\_\_\_\_\_
+	(iv) the idea of straight \_\_\_\_\_\_\_\_\_\_\_
 	
 	As we'll see, some ideas turn out to be ideas of powers rather than of qualities. So we'll need a story about how we get our idea of power as a building block, before we can move on to the primary/secondary quality distinction.
 	
@@ -1801,11 +1801,11 @@ Though the qualities that affect our senses are, in the things themselves, so un
 
 ***
 	
-(@) Is the idea of power a simple idea or not? What turns on this?
+(@) _Is the idea of power a simple idea or not? What turns on this?_
 
-(@) How does the mind form an idea of power?
+(@) _How does the mind form an idea of power?_
 
-(@) Why does sensation not give us an idea of active power?
+(@) _Why does sensation not give us an idea of active power?_
 
 ## Primary and Secondary Qualities
 
@@ -1851,9 +1851,9 @@ _How does Locke argue for his three theses? Let's start with (i): ideas of secon
 
 _Recall Aquinas's picture of (bodily) causation: one object (e.g., fire) produces in another the same kind of quality it has in itself (e.g., heat). Why does Locke think that there isn't really any heat in the first object? Let's take a case where fire produces a sensation of heat in a person. If our sensation of heat resembled any quality in the object, that quality would have to be the cause of the heat that it produces._
 
-(@) Why does Locke reject this? (see especially II.viii.11 above).
+(@) _Why does Locke reject this? (see especially II.viii.11 above)._
 
-(@) Locke argues for a further thesis:
+(@) _Locke argues for a further thesis:_
 
 (ii) secondary qualities depend on primary
 
@@ -1863,7 +1863,7 @@ _Recall Aquinas's picture of (bodily) causation: one object (e.g., fire) produce
 	
 	But as Locke points out, ideas of secondary qualities depend not just on the objects; they also depend on the perceivers.
 	
-(@) Think of as many different ways to change the color of this room as you can.
+(@) _Think of as many different ways to change the color of this room as you can._
 
 ## Complex Ideas
 
@@ -1881,7 +1881,7 @@ _So far, we've dealt only with simple ideas. But our experience doesn't_ seem _t
 
 ***
 
-(@) List the ideas necessary to construct an idea of a substance like Helga (a dog).
+(@) _List the ideas necessary to construct an idea of a substance like Helga (a dog)._
 
 ## Substance/substratum
 
@@ -1897,7 +1897,7 @@ _Our simple ideas represent qualities; to think of a substance like a dog, howev
 
 ***
 
-(@) It's vital to see that by 'substance' Locke means here 'substratum': that in which properties inhere. This notion is akin to Aristotle's notion of prime matter. Why might one say that Locke has a love/hate relationship with substratum?
+(@) _It's vital to see that by 'substance' Locke means here 'substratum': that in which properties inhere. This notion is akin to Aristotle's notion of prime matter. Why might one say that Locke has a love/hate relationship with substratum?_
 
 ## Natural kinds
 
@@ -1931,7 +1931,7 @@ Or else it means, that fixedness, not being a part of the definition of 'gold', 
 
 ***
 
-(@) In this passage, Locke argues that all general claims about kinds (e.g., 'gold is fixed') are either trivial or uncertain. Using the gold example, explain each of these alternatives. In what way can it be taken as trivial? As uncertain? 
+(@) _In this passage, Locke argues that all general claims about kinds (e.g., 'gold is fixed') are either trivial or uncertain. Using the gold example, explain each of these alternatives. In what way can it be taken as trivial? As uncertain?_
 
 ## Body
 
@@ -1963,15 +1963,15 @@ But men in love with their opinions may not only suppose what is in question, bu
 
 ***
 
-(@) Locke begins with an argument from experience. How does it work? We can think of it as a _reductio ad absurdum:_
+(@) _Locke begins with an argument from experience. How does it work? We can think of it as a_ reductio ad absurdum_:_
 
 > _Premise 1:_ The soul's essence is to think (Descartes's view) 
 >
-> _Premise 2:_ Given 1, it follows that the soul \_\_\_\_\_\_\_\_ (since this is part of what it is to be an essential property) 
+> _Premise 2:_ Given 1, it follows that the soul \_\_\_\_\_\_\_ (since this is part of what it is to be an essential property) 
 >
-> _Premise 3:_ But experience shows \_\_\_\_\_\_\_\_. 
+> _Premise 3:_ But experience shows \_\_\_\_\_\_\_. 
 >
-> _Conclusion:_ \_\_\_\_\_\_\_\_.
+> _Conclusion:_ \_\_\_\_\_\_\_.
 
 _Now, Locke realizes that the Cartesian will not leave things at that; he will insist that minds think even during sleep, though they do not remember it. Locke thinks this move has a heavy price:_
 
@@ -1981,7 +1981,7 @@ _Now, Locke realizes that the Cartesian will not leave things at that; he will i
 
 ***
 
-(@) What price does Locke think Descartes must pay, in order to hang on to his claim that the soul always thinks?
+(@) _What price does Locke think Descartes must pay, in order to hang on to his claim that the soul always thinks?_
 
 ***
 
@@ -1995,7 +1995,7 @@ _Now, Locke realizes that the Cartesian will not leave things at that; he will i
 
 ***
 
-(@) Locke is here raising the problem of transference: how can one body give its motion to another? See [Aquinas, _Summa Contra Gentiles_ Chapter Sixty-nine, Section Seven](#section-seven), and Descartes's _Principles_ (Part II, sections xxiv-v). How would each react to what Locke says here?
+(@) _Locke is here raising the problem of transference: how can one body give its motion to another? See_ [_Aquinas_, Summa Contra Gentiles Chapter Sixty-nine, Section Seven](#section-seven), _and Descartes's_ Principles _(Part II, sections xxiv-v). How would each react to what Locke says here?_
 
 ***
 
@@ -2043,9 +2043,9 @@ _Can Locke make good on his claim that 'all the great ends of religion and moral
 
 ***
 
-(@) What is Locke's sortal relativity thesis?
+(@) _What is Locke's sortal relativity thesis?_
 
-(@) Given this, what makes something the same:
+(@) _Given this, what makes something the same:_
 	i. Atom over time?
 	ii. Mass of atoms?
 	iii. Plant?
@@ -2053,9 +2053,9 @@ _Can Locke make good on his claim that 'all the great ends of religion and moral
 	v. Man?
 	vi. Person?
 	
-(@) What does Descartes think accounts for personal identity over time?
+(@) _What does Descartes think accounts for personal identity over time?_
 
-(@) What does Locke think is wrong with Descartes's answer?
+(@) _What does Locke think is wrong with Descartes's answer?_
 
 ## The Limits of Knowledge
 
@@ -2065,7 +2065,7 @@ _It now makes sense to turn to Locke's official discussion of the limits of know
 
 (From IV.i.1---_Our Knowledge conversant about our Ideas only_) Since the mind, in all its thoughts and reasonings, hath no other immediate object but its own ideas, which it alone does or can contemplate, it is evident that our knowledge is only conversant about them.
 
-(From IV.i.2---_Knowledge is the perception of the agreement or disagreement of two ideas. **knowledge** then seems to me to be nothing but **the perception of the connexion of and agreement, or disagreement and repugnancy of any of our ideas**. In this alone it consists. Where this perception is, there is knowledge, and where it is not, there, though we may fancy, guess, or believe, yet we always come short of knowledge. For when we know that white is not black, what do we else but perceive, that these two ideas do not agree? when we possess ourselves with the utmost security of the demonstration, that the three angles of a triangle are equal to two right ones, what do we more but perceive, that equality to two right ones does necessarily agree to, and is inseparable from, the three angles of a triangle?
+(From IV.i.2---_Knowledge is the perception of the agreement or disagreement of two ideas_) **Knowledge** then seems to me to be nothing but **the perception of the connexion of and agreement, or disagreement and repugnancy of any of our ideas**. In this alone it consists. Where this perception is, there is knowledge, and where it is not, there, though we may fancy, guess, or believe, yet we always come short of knowledge. For when we know that white is not black, what do we else but perceive, that these two ideas do not agree? when we possess ourselves with the utmost security of the demonstration, that the three angles of a triangle are equal to two right ones, what do we more but perceive, that equality to two right ones does necessarily agree to, and is inseparable from, the three angles of a triangle?
 
 (From IV.i.3---_This Agreement or Disagreement may be any of four sorts_) But to understand a little more distinctly wherein this agreement or disagreement consists, I think we may reduce it all to these four sorts:
 	i. **identity**, or **diversity**. 
@@ -2117,9 +2117,9 @@ iii. Sensitive knowledge of the particular existence of finite beings without us
 
 ***
 
-(@) What is the difference between knowledge and 'real' knowledge?
+(@) _What is the difference between knowledge and 'real' knowledge?_
 
-(@) How can we know whether we have 'real' knowledge or not?
+(@) _How can we know whether we have 'real' knowledge or not?_
 
 ## God
 
@@ -2141,7 +2141,7 @@ _Scholars disagree on just how Locke means to respond to skepticism. But it cert
 
 ***
 
-(@) Locke's argument for God's existence, as presented in these passages, looks pretty weak. What's wrong with it?
+(@) _Locke's argument for God's existence, as presented in these passages, looks pretty weak. What's wrong with it?_
 
 # George Berkeley (1685--1753)
 
@@ -2165,7 +2165,7 @@ _The Introduction to the_ Principles _attacks abstract ideas. As you go, it is w
 >>
 >> Sections 135-156: Spirits/Minds, incl. God
 
-_(Textual note: The standard edition of Berkeley's_ Works _is that of Luce and Jessop. Modern editions are plentiful; Desmond Clarke's anthology with Cambridge is especially useful. Berkeley's_ Notebooks _(sometimes called the 'Philosophical Commentaries'), probably written in 1707-10, provide a fascinating insight into the development of Berkeley's thought. These are available in Luce and Jessop and in Michael Ayers's anthology of Berkeley's works, though not in Clarke's.)_
+_(Textual note: The standard edition of Berkeley's_ Works _is that of Luce and Jessop. Modern editions are plentiful; Desmond Clarke's anthology with Cambridge is especially useful. Berkeley's_ Notebooks _(sometimes called the 'Philosophical Commentaries'), probably written in 1707--10, provide a fascinating insight into the development of Berkeley's thought. These are available in Luce and Jessop and in Michael Ayers's anthology of Berkeley's works, though not in Clarke's.)_
 
 ## _A Treatise Concerning the Principles of Human Knowledge_ (1710)
 
@@ -2181,7 +2181,7 @@ The cause of this is thought to be the obscurity of things, or the natural weakn
 
 ***
 
-(@) The view Berkeley sets out in [Section Two](#introduction-section-two) is not his, as indicated by the passive voice ('...is thought to be...', 'It is said...') Whose view, then, is he discussing?
+(@) _The view Berkeley sets out in [Section Two](#introduction-section-two) is not his, as indicated by the passive voice ('...is thought to be...', 'It is said...') Whose view, then, is he discussing?_
 
 ### Introduction, Section Three
 
@@ -2257,20 +2257,20 @@ We have, I think, shewn the impossibility of Abstract Ideas. We have considered 
 
 ***
 
-(@) 'We have first raised a dust and then complain that we cannot see.' ([Section Three](#introduction-section-three). Who is 'we'? What is the dust?
+(@) _'We have first raised a dust and then complain that we cannot see.' ([Section Three](#introduction-section-three). Who is 'we'? What is the dust?_
 
-(@) What are Berkeley's targets?
+(@) _What are Berkeley's targets?_
 	Abstraction 1: Taking a simple idea (of a determinate shape, for example) and paring it off from the other ideas with which it came into the mind.
 	
 	Abstraction 2: Taking a bunch of complex ideas (of extended objects, for example) and isolating what's common to them (extension as a determinable; human being as a kind).
 	
 	By contrast, what is Abstraction 3, and why is it fine?
 	
-(@) There are two big puzzles posed by the introduction. First, what exactly is the argument against abstract ideas supposed to be? It looks as if [Section Ten](#introduction-section-ten) goes something like this:
+(@) _There are two big puzzles posed by the introduction. First, what exactly is the argument against abstract ideas supposed to be? It looks as if [Section Ten](#introduction-section-ten) goes something like this:_
 
 	i. I (Berkeley) cannot abstract in sense 1 and 2. 
-	ii. \_\_\_\_\_\_\_\_\_
-	iii. \_\_\_\_\_\_\_\_\_
+	ii. \_\_\_\_\_\_\_\_
+	iii. \_\_\_\_\_\_\_\_
 	iv. Therefore, no one can abstract in senses 1 and 2.
 	
 	What weaknesses do you see in this argument? 
@@ -2299,17 +2299,17 @@ We have, I think, shewn the impossibility of Abstract Ideas. We have considered 
 	
 	>_Premise 1:_ If _x_ is impossible, then _x_ includes a contradiction.
 	>	
-	>_Premise 2:_ If _x_ includes a contradiction, then \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+	>_Premise 2:_ If _x_ includes a contradiction, then \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 	>	
-	>_Premise 3:_ It follows that if _x_ is impossible, _x_ is \_\_\_\_\_\_\_\_\_.
+	>_Premise 3:_ It follows that if _x_ is impossible, _x_ is \_\_\_\_\_\_\_\_.
 	>	
-	>_Premise 4:_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+	>_Premise 4:_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 	>	
-	>_Conclusion:_ \_\_\_\_\_\_\_\_\_.
+	>_Conclusion:_ \_\_\_\_\_\_\_\_.
 		
 [^alc]: _Works_, Volume Three, 333--334.
 
-(@) The second puzzle: why is Berkeley so worried about abstraction? Keep this question in mind as you read the rest of the _Principles_.
+(@) _The second puzzle: why is Berkeley so worried about abstraction? Keep this question in mind as you read the rest of the_ Principles.
 
 ### Part One, Section One
 
@@ -2411,46 +2411,46 @@ It is very obvious, upon the least inquiry into our thoughts, to know whether it
 
 ***
 
-(@) Berkeley's arguments for immaterialism fall into two classes: (A) those that challenge the intelligibility of materialism, and (B) those that grant its intelligibility but try to show that it is unjustified. Mark each argument below with an 'A' or 'B' as you go.
+(@) _Berkeley's arguments for immaterialism fall into two classes: (A) those that challenge the intelligibility of materialism, and (B) those that grant its intelligibility but try to show that it is unjustified. Mark each argument below with an 'A' or 'B' as you go._
 
-(@) Materialists think that objects can exist unperceived. But to say that an object exists is just to say what? (From [Part One, Section Three](#part-one-section-three).)
+(@) _Materialists think that objects can exist unperceived. But to say that an object exists is just to say what? (From [Part One, Section Three](#part-one-section-three).)_
 
-(@) This argument is from [Part One, Section Four](#part-one-section-four); there's a parallel argument in section 7:
-	i. An object is \_\_\_\_\_\_\_.
+(@) _This argument is from [Part One, Section Four](#part-one-section-four); there's a parallel argument in section 7:_
+	i. An object is \_\_\_\_\_\_.
 	
-	ii. \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+	ii. \_\_\_\_\_\_\_\_\_\_\_\_\_.
 	
 	iii. Therefore, objects are ideas.
 		
-(@) Locke used resemblance to account for the representative powers of ideas of primary qualities. But:
-	i. Likeness Principle: an idea can only be like \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+(@) _Locke used resemblance to account for the representative powers of ideas of primary qualities. But:_
+	i. Likeness Principle: an idea can only be like \_\_\_\_\_\_\_\_\_\_\_\_\_.
 	
-	ii. The only way an idea can represent anything is by virtue of \_\_\_\_\_\_\_ it.
+	ii. The only way an idea can represent anything is by virtue of \_\_\_\_\_\_ it.
 	
 	iii. Therefore, no idea can represent anything but _________________________________________. (From [Part One, Section Eight](#part-one-section-eight).)
 		
-(@) Locke restricts resemblance to ideas of primary qualities and says that secondary qualities exist only in the mind. But:
-	i. This means that I must be able to think of an object that has \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+(@) _Locke restricts resemblance to ideas of primary qualities and says that secondary qualities exist only in the mind. But:_
+	i. This means that I must be able to think of an object that has \_\_\_\_\_\_\_\_\_\_\_\_\_.
 	
-	ii. Given the arguments of the Introduction, we can say that \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+	ii. Given the arguments of the Introduction, we can say that \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 	
 	iii. No object denuded of secondary qualities is even______ ______________________. (From [Part One, Section Ten](#part-one-section-ten).)
 
-(@) Locke says that matter is the substratum that supports the observable qualities of bodies. But in order to think of such a thing, we'd have to first understand what is meant by the word \_\_\_\_\_\_\_ here. And \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. (From [Part One, Section Sixteen](#part-one-section-sixteen).)
+(@) _Locke says that matter is the substratum that supports the observable qualities of bodies. But in order to think of such a thing, we'd have to first understand what is meant by the word \_\_\_\_\_\_\_ here. And \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. (From [Part One, Section Sixteen](#part-one-section-sixteen).)_
 
-(@) Suppose matter exists. How could we be justified in believing in it? Either (1) by sensation (direct experience) or (2) reason (i.e., a demonstration or a logically sound argument).
+(@) _Suppose matter exists. How could we be justified in believing in it? Either (1) by sensation (direct experience) or (2) reason (i.e., a demonstration or a logically sound argument)._
 
-> Against (1): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> Against (1): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 >
-> Against (2): If we could demonstrate the existence of matter, there would have to be a \_\_\_\_\_\_\_\_\_\_\_\_\_\_ between our ideas and the objects they represent. But we can see that there is no such \_\_\_\_\_\_\_\_\_\_\_\_\_\_, simply by noticing that \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. In fact, even the proponents of matter grant that there is no \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ between ideas and their objects.
+> Against (2): If we could demonstrate the existence of matter, there would have to be a \_\_\_\_\_\_\_\_\_\_\_\_\_\_ between our ideas and the objects they represent. But we can see that there is no such \_\_\_\_\_\_\_\_\_\_\_\_\_\_, simply by noticing that \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. In fact, even the proponents of matter grant that there is no \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ between ideas and their objects.
 >
 > Now, a materialist might agree that we cannot prove by demonstration that matter exists. (In fact, this seems to be Descartes's position; see the last paragraph of his Synopsis of the _Meditations_.) Still, the materialist might argue, we can be justified in believing in matter's existence by means of an inference to the best explanation. The best explanation for our experiences is that they are experiences of a real, mind-independent world. How does Berkeley challenge this move? (From Part One, Sections [Eighteen](#part-one-section-eighteen) and [Nineteen](#part-one-section-nineteen).)
 
-(@) _The 'master argument'_---Matter is by definition something that can exist even when no mind is thinking about it. What could be easier than conceiving of something that exists unconceived? (To imagine, conceive, and perceive, are all used here by Berkeley pretty much interchangeably---each means having a given idea in the mind.) But:
+(@) __The 'master argument'_---Matter is by definition something that can exist even when no mind is thinking about it. What could be easier than conceiving of something that exists unconceived? (To imagine, conceive, and perceive, are all used here by Berkeley pretty much interchangeably---each means having a given idea in the mind.) But:_
 
 	i. I think of _x_ existing unperceived. (The materialist's presupposition)
 	
-	ii. But this is the wrong description of what I have thought of, since \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+	ii. But this is the wrong description of what I have thought of, since \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 	iii. Therefore, no one can think of something that exists unperceived.
 	
 	Berkeley says in _Three Dialogues_ that conceiving something unconceived is analogous to 'seeing something unseen.' (From Part One, Sections [22](#part-one-section-twenty-two), [23](#part-one-section-twenty-three), and [24](#part-one-section-twenty-four); see also [Section Five](#part-one-section-five).)
@@ -2524,7 +2524,7 @@ But, say what we can, someone perhaps may be apt to reply, he will still believe
 
 ***
 
-(@) What is the second objection ([Section Forty-one](#part-one-section-forty-one)) Berkeley entertains? Berkeley says that 'the answer is evident from what hath been already said.' What answer can you construct for him, based on the earlier sections of the Principles?
+(@) _What is the second objection ([Section Forty-one](#part-one-section-forty-one)) Berkeley entertains? Berkeley says that 'the answer is evident from what hath been already said.' What answer can you construct for him, based on the earlier sections of the Principles?_
 
 ### Part One, Section Forty-two
 
@@ -2636,7 +2636,7 @@ For my own part, whenever I attempt to frame a simple idea of time, abstracted f
 
 ***
 
-(@) Berkeley seems to agree with Descartes in at least one respect: both think that spirit/mind \_\_\_\_\_\_\_\_\_\_\_\_\_\_ ([Section Ninety-eight](#part-one-section-ninety-eight). But how do their arguments for this claim differ? 
+(@) _Berkeley seems to agree with Descartes in at least one respect: both think that spirit/mind \_\_\_\_\_\_\_\_\_\_\_\_\_ ([Section Ninety-eight](#part-one-section-ninety-eight). But how do their arguments for this claim differ?_
 
 ### Part One, Section Ninety-nine
 
@@ -2648,9 +2648,9 @@ After what has been premised, I think we may lay down the following conclusions.
 
 ***
 
-(@) Recall Aquinas's argument in [_Summa Contra Gentiles_, Chapter Sixty-nine](#chapter-sixty-nine-of-the-opinion-of-those-who-withdraw-from-natural-things-their-proper-actions). How would he react to Berkeley's view about nature? (See especially [Section Seven](#section-seven))
+(@) _Recall Aquinas's argument in [_Summa Contra Gentiles_, Chapter Sixty-nine](#chapter-sixty-nine-of-the-opinion-of-those-who-withdraw-from-natural-things-their-proper-actions). How would he react to Berkeley's view about nature? (See especially [Section Seven](#section-seven))_
 
-(@) How does Berkeley reply to this argument (see [Section 107](#part-one-section-one-hundred-and-seven))?
+(@) _How does Berkeley reply to this argument (see [Section 107](#part-one-section-one-hundred-and-seven))?_
 
 ### Part One, Section One Hundred and Thirty-nine
 
@@ -2668,17 +2668,17 @@ But, though there be some things which convince us human agents are concerned in
 
 Hence, it is evident that God is known as certainly and immediately as any other mind or spirit whatsoever distinct from ourselves. We may even assert that the existence of God is far more evidently perceived than the existence of men; because the effects of nature are infinitely more numerous and considerable than those ascribed to human agents. There is not any one mark that denotes a man, or effect produced by him, which does not more strongly evince the being of that Spirit who is the Author of Nature. For, it is evident that in affecting other persons the will of man has no other object than barely the motion of the limbs of his body; but that such a motion should be attended by, or excite any idea in the mind of another, depends wholly on the will of the Creator.
 
-(@) Why can't we have an idea of spirit/mind, according to berkeley? Remember his 'likeness principle' from the opening argument of Part One.
+(@) _Why can't we have an idea of spirit/mind, according to berkeley? Remember his 'likeness principle' from the opening argument of Part One._
 
 ***
 
-(@) _The big picture_---Berkeley sets out to undermine 'materialism': what is materialism?
+(@) __The big picture_---Berkeley sets out to undermine 'materialism': what is materialism?_
 
-(@) Berkeley's positive view is captured by the slogan '_esse est percipi aut percipere_'; what does this mean?
+(@) _Berkeley's positive view is captured by the slogan '_esse est percipi aut percipere_'; what does this mean?_
 
-(@) What, according to Berkeley, is the only substance?
+(@) _What, according to Berkeley, is the only substance?_
 
-(@) Why does Berkeley attack the doctrine of abstract ideas?
+(@) _Why does Berkeley attack the doctrine of abstract ideas?_
 
 ## _De Motu_, Section One
 
@@ -2778,11 +2778,11 @@ Let us lay down that the new motion in the body struck is conserved either by th
 
 ***
 
-(@) According to [Section Thirty-five](#de-motu-section-thirty-five), what is the true business of natural science? Of philosophy?
+(@) _According to [Section Thirty-five](#de-motu-section-thirty-five), what is the true business of natural science? Of philosophy?_
 
-(@) What is gravity? Is there a sense in which even asking this question is a mistake?
+(@) _What is gravity? Is there a sense in which even asking this question is a mistake?_
 
-(@) What problem is Berkeley discussing in [Section Sixty-eight](#de-motu-section-sixty-eight)? How does his handling of it differ from Locke's?
+(@) _What problem is Berkeley discussing in [Section Sixty-eight](#de-motu-section-sixty-eight)? How does his handling of it differ from Locke's?_
 
 # David Hume's (1711--1776) _Enquiry Concerning Human Understanding_
 
@@ -2838,13 +2838,13 @@ Here, therefore, is a proposition, which not only seems, in itself, simple and i
 
 ***
 
-(@) What does Hume's **Copy Principle** (CPY) assert about every idea?
+(@) _What does Hume's **Copy Principle** (CPY) assert about every idea?_
 
-(@) Hume gives two arguments for the Copy Principle. What are they? Are they any good?
+(@) _Hume gives two arguments for the Copy Principle. What are they? Are they any good?_
 
-(@) Why does the missing shade of blue seem to be a counterexample to the CPY? Why isn't Hume bothered by it? Why doesn't he just give up the CPY?
+(@) _Why does the missing shade of blue seem to be a counterexample to the CPY? Why isn't Hume bothered by it? Why doesn't he just give up the CPY?_
 
-(@) In [Section Seven](#section-seven-of-the-idea-of-necessary-connexion-part-one), Hume likens the CPY to 'a new microscope' that will bring as much benefit to philosophy as its counterpart did to natural science. Why does he think this?
+(@) _In [Section Seven](#section-seven-of-the-idea-of-necessary-connexion-part-one), Hume likens the CPY to 'a new microscope' that will bring as much benefit to philosophy as its counterpart did to natural science. Why does he think this?_
 
 ## Section Three: Of the Association of Ideas
 
@@ -2858,7 +2858,7 @@ That these principles serve to connect ideas will not, I believe, be much doubte
 
 _[Section Four](#section-four-sceptical-doubts-concerning-the-operations-of-the-understanding-part-one) introduces a new distinction. Just as there are two kinds of perceptions, there are two kinds of 'objects of human reason' or propositions._
 
-(@) What are the two kinds of perceptions?
+(@) _What are the two kinds of perceptions?_
 
 _Some propositions (or declarative sentences, for our purposes) are relations of ideas (ROIs) and some are matters of fact (MOFs). These are objects of human reason or inquiry; not all of them are true. The distinction is based not on whether the proposition is true or not, but rather on what it would take to make the proposition true._
 
@@ -2896,9 +2896,9 @@ Hence we may discover the reason why no philosopher, who is rational and modest,
 
 ***
 
-(@) What is the difference between MOFs and ROIs? For each kind of proposition, say whether it is **analytic** or **synthetic**; **contingent** or **necessary**; justified by demonstration or by appeal to experience.
+(@) _What is the difference between MOFs and ROIs? For each kind of proposition, say whether it is **analytic** or **synthetic**; **contingent** or **necessary**; justified by demonstration or by appeal to experience._
 	
-(@) In which category does a proposition like 'fire causes heat' fall? What is Hume's argument for this? use CP, SP, and CPY, if applicable.
+(@) _In which category does a proposition like 'fire causes heat' fall? What is Hume's argument for this? use CP, SP, and CPY, if applicable._
 
 ## Section Four: Sceptical Doubts Concerning the Operations of the Understanding, Part Two
 
@@ -2926,9 +2926,9 @@ It is certain that the most ignorant and stupid peasants---nay infants, nay even
 
 ***
 
-(@) Only one of the principles of the association of ideas can tell us about any matter of fact.  Which is it?
+(@) _Only one of the principles of the association of ideas can tell us about any matter of fact.  Which is it?_
 
-(@) How do we make the transition from the impression of a \_\_\_\_\_\_\_ to an idea of its \_\_\_\_\_\_\_? Or vice versa?
+(@) _How do we make the transition from the impression of a \_\_\_\_\_\_\_ to an idea of its \_\_\_\_\_\_? Or vice versa?_
 
 (@ind) Hume says he will content himself with proving a negative proposition in [Part Two](#section-four-sceptical-doubts-concerning-the-operations-of-the-understanding-part-two) (see the second paragraph).  What is this negative proposition?
 
@@ -2970,17 +2970,17 @@ _Recall the transition set out in (@ind) above. Hume wants to explain how we mak
 
 _Hume takes his clue from the thought experiment of Adam. Just by looking at water, Adam is unable to figure out that it will quench his thirst. But after he's experienced the constant conjunction of drinking water and having his thirst quenched, he makes the transition from the perception of one to the other very readily. If we can figure out what makes the difference, we'll be able to figure out what mechanism is responsible for the transition._
 
-(@) When (and only when) do we in fact make causal connections between two events?
+(@) _When (and only when) do we in fact make causal connections between two events?_
 
 	There must be some connecting principle that explains our practice of taking past constant conjunctions to be a good guide to the future. What is it?
 	
-(@) How is this a 'skeptical' solution, rather than a plain old solution?
+(@) _How is this a 'skeptical' solution, rather than a plain old solution?_
 
-(@) What is the price to be paid for accepting Hume's skeptical solution? 
+(@) _What is the price to be paid for accepting Hume's skeptical solution?_
 
-(@) How would Berkeley respond to Hume's skepticism about the transition? (See _PHK_, Part One, Sections [Thirty](#part-one-section-thirty) and [Thirty-one](#part-one-section-thirty-one).)
+(@) _How would Berkeley respond to Hume's skepticism about the transition? (See_ PHK_, Part One, Sections [Thirty](#part-one-section-thirty) and [Thirty-one](#part-one-section-thirty-one).)_
 
-(@) Why can't Hume use this response?
+(@) _Why can't Hume use this response?_
 
 _In [Part Two](#section-four-sceptical-doubts-concerning-the-operations-of-the-understanding-part-two) and in the following section on probability, Hume examines the nature of belief. He shows how his principles of association---cause and effect, resemblance, and contiguity in time and place---can be used to explain how our ideas become so enlivened as to qualify as beliefs._
 
@@ -3014,7 +3014,7 @@ The case is the same with the probability of causes, as with that of chance. The
 
 ***
 
-(@) Hume points out that we don't always experience a _constant_ conjunction of any two events; perhaps more often, they go together only sometimes (like frost in January). How does the human mind react to such experiences? Why?
+(@) _Hume points out that we don't always experience a_ constant _conjunction of any two events; perhaps more often, they go together only sometimes (like frost in January). How does the human mind react to such experiences? Why?_
 
 ## Section Seven: Of the Idea of Necessary Connexion, Part One
 
@@ -3076,11 +3076,11 @@ But if we would have a more philosophical confutation of this theory, perhaps th
 
 ***
 
-(@) How does Hume think Locke accounts for the origin of the idea of power? How does he critique (his version of) Locke?
+(@) _How does Hume think Locke accounts for the origin of the idea of power? How does he critique (his version of) Locke?_
 
-(@) How might Locke respond?
+(@) _How might Locke respond?_
 
-(@) Hume says that 'Solidity, extension, motion; these qualities are all complete in themselves, and never point out any other event which may result from them.' Would Aquinas agree? Would Locke?
+(@) _Hume says that 'Solidity, extension, motion; these qualities are all complete in themselves, and never point out any other event which may result from them.' Would Aquinas agree? Would Locke?_
 
 ## Section Seven: Of the Idea of Necessary Connexion, Part Two
 
@@ -3098,9 +3098,9 @@ To recapitulate, therefore, the reasonings of this section: Every idea is copied
 
 ***
 
-(@) One way to think about Hume is to see that he is not so much denying that something exists, or that a concept useful, as replacing that thing or concept with something else. What is his replacement for the traditional concept of necessary connexion, or power?
+(@) _One way to think about Hume is to see that he is not so much denying that something exists, or that a concept useful, as replacing that thing or concept with something else. What is his replacement for the traditional concept of necessary connexion, or power?_
 
-(@) Hume offers two definitions of 'cause.' What are they? Put them in your own words.
+(@) _Hume offers two definitions of 'cause.' What are they? Put them in your own words._
 
 	To think about: Why are there two definitions here? Are they co-extensive? In other words, is every possible state of affairs that counts as a cause and effect relation according to Definition 1 also going to count as such a relation on Definition 2, and vice versa?
 	
@@ -3124,7 +3124,7 @@ But though animals learn many parts of their knowledge from observation, there a
 
 ***
 
-(@) How does Hume's attitude towards animals differ from that of Descartes? What does this attitude suggest about human beings and their place in the universe?
+(@) _How does Hume's attitude towards animals differ from that of Descartes? What does this attitude suggest about human beings and their place in the universe?_
 
 ##Section Eight: Of Liberty and Necessity, Part One
 
@@ -3136,7 +3136,7 @@ I hope, therefore, to make it appear that all men have ever agreed in the doctri
 
 ***
 
-(@) Why has the dispute over freedom of the will not yet been resolved?
+(@) _Why has the dispute over freedom of the will not yet been resolved?_
 
 ***
 
@@ -3174,7 +3174,7 @@ Were a man, whom I know to be honest and opulent, and with whom I live in intima
 
 ***
 
-(@) What is the doctrine of necessity? Why does Hume think that everyone holds this doctrine?
+(@) _What is the doctrine of necessity? Why does Hume think that everyone holds this doctrine?_
 
 ***
 
@@ -3188,7 +3188,7 @@ Whatever definition we may give of liberty, we should be careful to observe two 
 
 ***
 
-(@) How does Hume propose to make the doctrines of necessity and liberty (here, the claim that human beings are usually free) consistent? How does his definition of liberty differ from the definition used by both hard determinists and libertarians?
+(@) _How does Hume propose to make the doctrines of necessity and liberty (here, the claim that human beings are usually free) consistent? How does his definition of liberty differ from the definition used by both hard determinists and libertarians?_
 
 _In Part Two, Hume defends his view of liberty against the objection that it is dangerous to religion and to morality. (This is also a theme of Section Eleven below)._
 
@@ -3222,7 +3222,7 @@ The **second objection** admits not of so easy and satisfactory an answer; nor i
 
 ***
 
-(@) Give each of the two objections Hume examines, and his reply to them.
+(@) _Give each of the two objections Hume examines, and his reply to them._
 
 ##Section Ten: Of Miracles, Part One
 
@@ -3250,9 +3250,9 @@ The plain consequence is (and it is a general maxim worthy of our attention), 't
 
 ***
 
-(@) Define 'miracle'.
+(@) _Define 'miracle'._
 
-(@) We seem to learn of miracles only through what means?
+(@) _We seem to learn of miracles only through what means?_
 
 	By definition, then, a miracle pits our belief in the laws of nature against what?
 	
@@ -3280,11 +3280,11 @@ What we have said of miracles may be applied, without any variation, to propheci
 
 ***
 
-(@) In this [Part Two](#section-ten-of-miracles-part-two), Hume gives four reasons why testimony of miracles should be doubted. Give at least two of these reasons.
+(@) _In this [Part Two](#section-ten-of-miracles-part-two), Hume gives four reasons why testimony of miracles should be doubted. Give at least two of these reasons._
 
-(@) Why does Hume think that the Christian religion 'cannot be believed by a reasonable person' without a miracle?
+(@) _Why does Hume think that the Christian religion 'cannot be believed by a reasonable person' without a miracle?_
 
-(@) Hume is sometimes read as defending 'fideism': the view that religious belief neither needs nor can summon rational support. Do you think this reading is plausible?
+(@) _Hume is sometimes read as defending 'fideism': the view that religious belief neither needs nor can summon rational support. Do you think this reading is plausible?_
 
 ## Section Eleven: Of a Particular Providence and of a Future State
 
@@ -3306,7 +3306,7 @@ Very well [said I]: pray proceed upon these suppositions.
 
 ***
 
-(@) Why is this speech is a speech of Epicurus to the Athenians? What were Epicurus and the Athenians known for?
+(@) _Why is this speech is a speech of Epicurus to the Athenians? What were Epicurus and the Athenians known for?_
 
 ***
 
@@ -3356,13 +3356,13 @@ But there occurs to me (continued I) with regard to your main topic, a difficult
 
 ***
 
-(@) Hume sets out two principles of causal reasoning above: 
+(@) _Hume sets out two principles of causal reasoning above:_
 	i. 'When we infer any particular cause from an effect, we must proportion the one to the other...' Put this in your own words.
-	ii. If you infer from an effect to a cause, you cannot then turn around and conclude that whatever caused the effect will \_\_\_\_\_\_\_\_\_\_.
+	ii. If you infer from an effect to a cause, you cannot then turn around and conclude that whatever caused the effect will \_\_\_\_\_\_\_\_\_.
 	
-(@) Explain how (i) and (ii) undermine the argument for design.
+(@) _Explain how (i) and (ii) undermine the argument for design._
 
-(@) At the end of this section, Hume applies his own theory of causation to the design argument. Briefly explain what he means by 'cause' and then explain how this notion of cause makes trouble for the design argument.
+(@) _At the end of this section, Hume applies his own theory of causation to the design argument. Briefly explain what he means by 'cause' and then explain how this notion of cause makes trouble for the design argument._
 
 ##Section Twelve: Of the Academical or Sceptical Philosophy, Part One
 
@@ -3402,7 +3402,7 @@ Thus the first philosophical objection to the evidence of sense or to the opinio
 
 ***
 
-(@) There are two claims Hume might be making here:
+(@) _There are two claims Hume might be making here:_
 	(i) we have no good reason to believe in the external world;
 	
 	(ii) we cannot even conceive of anything other than perceptions, and thus cannot conceive of an external world.
@@ -3411,11 +3411,11 @@ Thus the first philosophical objection to the evidence of sense or to the opinio
 	
 	How would the Copy Principle affect your answer?
 	
-(@) What is the 'universal and primary opinion of all men' that is 'destroyed by the slightest philosophy'? How does philosophy destroy it?
+(@) _What is the 'universal and primary opinion of all men' that is 'destroyed by the slightest philosophy'? How does philosophy destroy it?_
 
-(@) Use the distinction between **matters of fact** and **relations of ideas** to reconstruct Hume's argument (starting in the paragraph that begins 'by what argument').
+(@) _Use the distinction between **matters of fact** and **relations of ideas** to reconstruct Hume's argument (starting in the paragraph that begins 'by what argument')._
 
-(@) How would Descartes's Meditator answer Hume? How does Hume object to Descartes's view?
+(@) _How would Descartes's Meditator answer Hume? How does Hume object to Descartes's view?_
 
 ##Section Twelve: Of the Academical or Sceptical Philosophy, Part Two
 
@@ -3437,7 +3437,7 @@ For here is the chief and most confounding objection to excessive scepticism, th
 
 ***
 
-(@) In the case of induction, Hume offered a 'skeptical solution' to the problem. Does his position on the external world amount to a skeptical or a straightforward solution? Why?
+(@) _In the case of induction, Hume offered a 'skeptical solution' to the problem. Does his position on the external world amount to a skeptical or a straightforward solution? Why?_
 
 ##Section Twelve: Of the Academical or Sceptical Philosophy, Part Three
 
@@ -3466,7 +3466,7 @@ When we run over libraries, persuaded of these principles, what havoc must we ma
 
 ***
 
-(@) To think about: is Hume's _Enquiry_ just a re-writing of the _Meditations_, without God?
+(@) _To think about: is Hume's_ Enquiry _just a re-writing of the_ Meditations_, without God?_
 
 ## _A Treatise of Human Nature_ (1739), Appendix
 
@@ -3554,9 +3554,9 @@ We have been long accustomed to see old and worn-out branches of knowledge recei
 
 ***
 
-(@) As Kant reads him, what exactly was Hume calling into question?
+(@) _As Kant reads him, what exactly was Hume calling into question?_
 
-(@) Is Hume's problem merely about causation, or does it extend to other concepts? Why, or why not?
+(@) _Is Hume's problem merely about causation, or does it extend to other concepts? Why, or why not?_
 
 ## _Prolegomena_, Introductory Remarks on the Speciality of All Metaphysical Knowledge
 
@@ -3624,7 +3624,7 @@ Now it fortunately happens that, although we cannot accept metaphysics as a real
 
 We have, then, at least some uncontested, synthetic knowledge _a priori_, and do not require to ask whether this is possible, since it is actual, but only---_How it is possible_, in order to be able to deduce from the principle, rendering possible what is already given, the possibility of all the rest.
 
-(@) Kant's 'regressive' method in the _Prolegomena_ can be called a defense of metaphysics by means of a 'companions in virtue' strategy. Kant first identifies a key feature of metaphysical claims---they are synthetic and a priori---and then looks to see whether some more established sciences, whose existence and legitimacy we take for granted, share this feature. What other sciences fall into this category?
+(@) _Kant's 'regressive' method in the_ Prolegomena _can be called a defense of metaphysics by means of a 'companions in virtue' strategy. Kant first identifies a key feature of metaphysical claims---they are synthetic and a priori---and then looks to see whether some more established sciences, whose existence and legitimacy we take for granted, share this feature. What other sciences fall into this category?_
 
 ***
 
@@ -3664,7 +3664,7 @@ Here is a great and established branch of knowledge, already of remarkable compa
 
 ### Section Seven: The First Part, Continued
 
-But we find that all mathematical knowledge has this speciality, that it must present its conception previously in _intuition_, and indeed _a priori_, that is, in an intuition that is not empirical but pure, without which means it cannot make a single step; its judgments therefore are always intuitive, whereas philosophy must be satisfied with _discursive_ judgments out of mere conceptions; for though it can explain its apodictic doctrines by intuition, these can never be derived from such a source. This observation respecting the nature of mathematics, itself furnishes us with a guide as to the first and foremost condition of its possibility, namely, that _some pure intuition_ must be at its foundation, wherein it can present all its conceptions _in concreto_ and _a priori_ at the same time, or as it is termed, construct them. If we can find out this pure intuition together with its possibility, it will be readily explicable how synthetic propositions _a priori_ are possible in pure mathematics, and therefore, also, how this science is itself possible. For just as empirical intuition enables us, without difficulty, to extend synthetically in experience the conception we form of an object of intuition, by new predicates, themselves afforded us by intuition, so will the pure intuition, only with this difference: that in the last case the synthetic judgment _a priori_ is certain and apodictic, while in the first case it is no more than _a posteriori_ and empirically certain, because the latter only contains what is met with in chance empirical intuition, but the former what is necessarily met with in the pure intuition, inasmuch as being intuition _a priori_, it is indissolubly bound up with the conception before all experience or perception of individual things.
+But we find that all mathematical knowledge has this speciality, that it must present its conception previously in _intuition_, and indeed _a priori_, that is, in an intuition that is not empirical but pure, without which means it cannot make a single step; its judgments therefore are always intuitive, whereas philosophy must be satisfied with _discursive_ judgments out of mere conceptions; for though it can explain its apodictic doctrines by intuition, these can never be derived from such a source. This observation respecting the nature of mathematics, itself furnishes us with a guide as to the first and foremost condition of its possibility, namely, that _some pure intuition_ must be at its foundation, wherein it can present all its conceptions _in concreto_ and _a priori_ at the same time, or as it is termed, construct them. If we can find out this pure intuition together with its possibility, it will be readily explicable how synthetic propositions _a priori_ are possible in pure mathematics, and therefore, also, how this science is itself possible. For just as empirical intuition enables us, without difficulty, to extend synthetically in experience the conception we form of an object of intuition, by new predicates, themselves afforded us by intuition, so will the pure intuition, only with this difference: that in the last case the synthetic judgment _a priori_ is certain and apodictic, while in the first case it is no more than _a posteriori_  and empirically certain, because the latter only contains what is met with in chance empirical intuition, but the former what is necessarily met with in the pure intuition, inasmuch as being intuition _a priori_, it is indissolubly bound up with the conception before all experience or perception of individual things.
 
 ### Section Eight: The First Part, Continued
 
@@ -3676,9 +3676,9 @@ Were our intuition of such a nature as to present _things as they are in themsel
 
 ***
 
-(@) What would go wrong if the objects of synthetic _a priori_ knowledge (propositions like 'the shortest distance between two points is a straight line') were supposed to tell us about things as they are in themselves?
+(@) _What would go wrong if the objects of synthetic_ a priori _knowledge (propositions like 'the shortest distance between two points is a straight line') were supposed to tell us about things as they are in themselves?_
 
-(@) What then _do_ such propositions tell us about?
+(@) _What then_ do _such propositions tell us about?_
 
 ### Section Ten: The First Part, Continued
 
@@ -3692,7 +3692,7 @@ The problem of the present section is therefore solved. Pure mathematics is only
 
 ***
 
-(@) What makes mathematics possible? How can we anticipate geometrical features of all objects of possible experience _before_ we experience them?
+(@) _What makes mathematics possible? How can we anticipate geometrical features of all objects of possible experience_ before _we experience them?_
 
 ### Section Twelve: The First Part, Continued
 
@@ -3710,7 +3710,7 @@ What can more resemble my hand or my ear, and be in all points more like, than i
 
 ***
 
-(@) Kant here appeals to 'incongruent counterparts'---objects that are qualitatively identical in all their internal relations (in the case of the hands, the relation between thumb and forefinger, say) and yet cannot be substituted one for another. Can you think of other pairs of incongruent counterparts?
+(@) _Kant here appeals to 'incongruent counterparts'---objects that are qualitatively identical in all their internal relations (in the case of the hands, the relation between thumb and forefinger, say) and yet cannot be substituted one for another. Can you think of other pairs of incongruent counterparts?_
 
 _Kant goes on in the_ Prolegomena _to answer some objections (see his three 'Remarks' below). But before turning to objections, we should look at Kant's arguments for his position from the_ Critique. _In this selection, from the 'Transcendental Aesthetic' of the_ CPR, _Kant lays out four arguments about space._
 
@@ -3728,7 +3728,7 @@ _Kant goes on in the_ Prolegomena _to answer some objections (see his three 'Rem
 
 ***
 
-(@) Kant thinks you can mount exactly parallel arguments for time. Choose one of the four arguments above and re-cast it as an argument about the nature of time.
+(@) _Kant thinks you can mount exactly parallel arguments for time. Choose one of the four arguments above and re-cast it as an argument about the nature of time._
 
 ## The _Prolegomena_, Remark One
 
@@ -3746,7 +3746,7 @@ I should like to know how my assertions must be fashioned, if they are not to co
 
 ***
 
-(@) One of the early criticisms of the _CPR_ was that Kant's view is really just a complicated version of immaterialism; Kant was called 'a Teutonic Berkeley.' why is Kant so sure that his view about space and time---that they are empirically real (i.e., characteristics of all possible objects of experience) but transcendentally ideal (i.e., they do not characterize things as they are in themselves)---does not amount to Berkeleyan idealism?
+(@) _One of the early criticisms of the_ CPR _was that Kant's view is really just a complicated version of immaterialism; Kant was called 'a Teutonic Berkeley.' why is Kant so sure that his view about space and time---that they are empirically real (i.e., characteristics of all possible objects of experience) but transcendentally ideal (i.e., they do not characterize things as they are in themselves)---does not amount to Berkeleyan idealism?_
 
 ## The _Prolegomena_, Remark Three
 
@@ -3766,9 +3766,9 @@ Inasmuch, then, as I leave their reality to the things we intuit to ourselves th
 
 ***
 
-(@) One way previous philosophers (like Locke and Descartes) made sense of the appearance/reality distinction was in terms of those representations that correspond to things in themselves and those that don't. Why isn't Kant entitled to make the distinction in this way?
+(@) _One way previous philosophers (like Locke and Descartes) made sense of the appearance/reality distinction was in terms of those representations that correspond to things in themselves and those that don't. Why isn't Kant entitled to make the distinction in this way?_
 
-(@) How, then, does he propose to make the distinction?
+(@) _How, then, does he propose to make the distinction?_
 
 ## The _Prolegomena_, Section Fourteen: The Main Transcendental Question---Second Part: How is pure Natural Science possible?
 
@@ -3810,7 +3810,7 @@ That the room is warm, the sugar sweet, the wormwood bitter, are merely subjecti
 
 ***
 
-(@) A key distinction is between judgments of perception (JOPs) and judgments of experience (JOEs). Judgments are propositions in which the mind unites intuitions according to a rule (see below). What is the distinction between JOPs and JOEs? what transforms a mere JOP into a JOE?
+(@) _A key distinction is between judgments of perception (JOPs) and judgments of experience (JOEs). Judgments are propositions in which the mind unites intuitions according to a rule (see below). What is the distinction between JOPs and JOEs? what transforms a mere JOP into a JOE?_
 
 ## Section Twenty: The Second Part, Continued
 
@@ -3932,9 +3932,9 @@ Let us now attempt a solution of Hume's problematical conception, namely, the co
 
 ***
 
-(@) What is Kant's solution to Hume's doubts about the concept of cause?
+(@) _What is Kant's solution to Hume's doubts about the concept of cause?_
 
-(@) In the terms we used to describe Hume's own solution to this nexus of problems, is Kant's solution a straightforward solution, a skeptical solution, or something else? Why?
+(@) _In the terms we used to describe Hume's own solution to this nexus of problems, is Kant's solution a straightforward solution, a skeptical solution, or something else? Why?_
 
 ## Section Thirty: The Second Part, Continued
 
@@ -3946,7 +3946,7 @@ The following result of all previous researches follows from the above investiga
 
 ***
 
-(@) What constraint does Kant put on the application of the categories?
+(@) _What constraint does Kant put on the application of the categories?_
 
 _Since Kant's reply to Hume is at the heart of his work, we should look at the argument he mounts against Hume in the_ CPR.
 
@@ -3986,11 +3986,11 @@ _So: the difference between O and E cannot lie in the appearances themselves. In
 
 _It can only derive from the fact that I am subjecting the appearances in (E) to a rule, which I am not applying to (O)._
 
-(@) This rule cannot be derived from experience; in order to have the experience of (E), I first have to deploy the rule. What is that rule?
+(@) _This rule cannot be derived from experience; in order to have the experience of (E), I first have to deploy the rule. What is that rule?_
 
 _So again: where Locke thought we have observation, Kant thinks we have invention._
 
-_We can now say that every event must have a cause. But notice that we've proved it only for \_\_\_\_\_\_\_._
+_We can now say that every event must have a cause. But notice that we've proved it only for \_\_\_\_\_\_._
 
 ***
 
@@ -4048,7 +4048,7 @@ But we must distinguish the empirical laws of Nature, which always presuppose pa
 
 _How is Natural Science possible?_
 
-(@) Step One: Clarifying the problem
+(@) _Step One: Clarifying the problem_
 
 	Natural science, despite appearances, includes a 'pure' (i.e., non-empirical) element. Every science makes two assumptions.  What are they?
 	
@@ -4056,31 +4056,31 @@ _How is Natural Science possible?_
 	
 	Two main competitors: rationalism and (Lockean) empiricism. Neither works. So we need to start over and find a third way. Turn now to JOEs. What makes them possible?
 	
-	But these just are the universal laws of nature (602). That is, the principles upon which all sciences depend also lie at the bottom of all \_\_\_\_\_\_\_\_\_\_, and make _it_ possible.
+	But these just are the universal laws of nature (602). That is, the principles upon which all sciences depend also lie at the bottom of all \_\_\_\_\_\_\_\_\_, and make _it_ possible.
 	
 	So we've really got just one problem here: how can we justify claims that involve the pure concepts of the understanding, claims like cause, effect, substance, etc.?
 	
-(@) Step Two: What did Hume teach us?
+(@) _Step Two: What did Hume teach us?_
 
 	i. These claims cannot be empirical.  Why?
 	
 	ii. But nor can they be analytic.  Why?
 	
-	These are the prongs of hume's fork; for him, every proposition is either a **matter of fact** or a **relation of ideas**. Hume concludes that these principles have only \_\_\_\_\_\_\_\_\_\_ necessity; they are the 'bastard offspring' of \_\_\_\_\_\_\_\_\_\_ impregnated by \_\_\_\_\_\_\_\_\_\_.
+	These are the prongs of hume's fork; for him, every proposition is either a **matter of fact** or a **relation of ideas**. Hume concludes that these principles have only \_\_\_\_\_\_\_\_\_\_ necessity; they are the 'bastard offspring' of \_\_\_\_\_\_\_\_\_\_ impregnated by \_\_\_\_\_\_\_\_\_.
 	
-(@) Step Three: Putting it all together:
+(@) _Step Three: Putting it all together:_
 
-	Hume is right to claim that experience can't justify \_\_\_\_\_\_\_\_\_\_. But he's wrong to think that this means that \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Instead, the concept of cause and effect is a pure \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. That is, it is not something we read off from experience, but something we use to construct experience in the first place. There's no room for skepticism about causation, since to have any experiences at all, I must be uniting \_\_\_\_\_\_\_\_\_\_ in judgments according to the concept of a cause. Like geometry, pure natural science depends on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+	Hume is right to claim that experience can't justify \_\_\_\_\_\_\_\_\_\_. But he's wrong to think that this means that \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Instead, the concept of cause and effect is a pure \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. That is, it is not something we read off from experience, but something we use to construct experience in the first place. There's no room for skepticism about causation, since to have any experiences at all, I must be uniting \_\_\_\_\_\_\_\_\_\_ in judgments according to the concept of a cause. Like geometry, pure natural science depends on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-(@) Step Four: What are the consequences?
+(@) _Step Four: What are the consequences?_
 
-	But just as with geometry, this means that the categories can be applied \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Is Kant saying that things as they are in themselves must be connected by cause and effect, or that they are things at all, in the way a tree is a thing? \_\_\_\_\_\_\_\_\_\_, because \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+	But just as with geometry, this means that the categories can be applied \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Is Kant saying that things as they are in themselves must be connected by cause and effect, or that they are things at all, in the way a tree is a thing? \_\_\_\_\_\_\_\_\_\_, because \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 	
-(@) Another way to see the same point: remember, all judgments require \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Applied to things in themselves, the categories have \_\_\_\_\_\_\_\_\_\_. (See Sections [Thirty](#section-thirty-the-second-part-continued) and [Thirty-four](#section-thirty-four-the-second-part-continued)). When we try to apply the categories to things in themselves, we leave out \_\_\_\_\_\_\_\_\_\_, and so generate only empty logical forms, structure without stuffing.
+(@) _Another way to see the same point: remember, all judgments require \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Applied to things in themselves, the categories have \_\_\_\_\_\_\_\_\_\_. (See Sections [Thirty](#section-thirty-the-second-part-continued) and [Thirty-four](#section-thirty-four-the-second-part-continued)). When we try to apply the categories to things in themselves, we leave out \_\_\_\_\_\_\_\_\_, and so generate only empty logical forms, structure without stuffing._
 
 ***
 
-_So far, we've seen Kant explain how metaphysics' companions in guilt---pure natural science and mathematics---are entitled to use synthetic_ a priori _reasoning. Before we see Kant close the circle and return to metaphysics proper, we should take a look at an important passage from the_ CPR _that tells us a great deal about the limitations Kant is imposing on the application of the categories, and on the kinds of questions we can and cannot ask_
+_So far, we've seen Kant explain how metaphysics' companions in guilt---pure natural science and mathematics---are entitled to use synthetic_ a priori _reasoning. Before we see Kant close the circle and return to metaphysics proper, we should take a look at an important passage from the_ CPR _that tells us a great deal about the limitations Kant is imposing on the application of the categories, and on the kinds of questions we can and cannot ask._
 
 ## The _CPR_, "Deduction of the Pure Concepts of the Understanding"
 
@@ -4094,9 +4094,9 @@ It is quite possible that someone may propose a species of preformation-system o
 
 ***
 
-(@) The problem Kant confronts here is this: why is it that our concepts match experience? Kant says, it's because we construct our experiences. One alternative is empiricism (experience gives us the concepts). What's wrong with this view? 
+(@) _The problem Kant confronts here is this: why is it that our concepts match experience? Kant says, it's because we construct our experiences. One alternative is empiricism (experience gives us the concepts). What's wrong with this view?_
 
-(@) What is the third alternative here? Does it remind you of any view we've encountered before?
+(@) _What is the third alternative here? Does it remind you of any view we've encountered before?_
 
 ***
 
@@ -4136,7 +4136,7 @@ The solution of this problem is as follows: pure Reason has no particular object
 
 ***
 
-(@) What is the difference between an Idea of Reason and a Category of the Understanding? How are they similar?
+(@) _What is the difference between an Idea of Reason and a Category of the Understanding? How are they similar?_
 
 ## Section Forty-five: Preliminary Observation on the Dialectic of pure Reason
 
@@ -4178,7 +4178,7 @@ Before entering on this task, however, the following general remark may help to 
 
 ***
 
-(@) 'It is raining outside; therefore, there is an It that rains.' How is Descartes's cogito inference analogous?
+(@) _'It is raining outside; therefore, there is an It that rains.' How is Descartes's cogito inference analogous?_
 
 ***
 
@@ -4204,7 +4204,7 @@ In the major premise [i] we speak of a being that can be cogitated generally and
 
 That this famous argument is a mere paralogism, will be plain to any one who will consider the general remark which precedes our exposition of the principles of the pure understanding, and the section on noumena. For it was there proved that the conception of a thing, which can exist per se---only as a subject and never as a predicate, possesses no objective reality; that is to say, we can never know whether there exists any object to correspond to the conception; consequently, the conception is nothing more than a conception, and from it we derive no proper knowledge. If this conception is to indicate by the term substance, an object that can be given, if it is to become a cognition, we must have at the foundation of the cognition a permanent intuition, as the indispensable condition of its objective reality. For through intuition alone can an object be given. But in internal intuition there is nothing permanent, for the _ego_ is but the consciousness of my thought. If then, we appeal merely to thought, we cannot discover the necessary condition of the application of the conception of substance---that is, of a subject existing per se---to the subject as a thinking being. And thus the conception of the simple nature of substance, which is connected with the objective reality of this conception, is shown to be also invalid, and to be, in fact, nothing more than the logical qualitative unity of self-consciousness in thought; whilst we remain perfectly ignorant whether the subject is composite or not.
 
-(@) What would Kant make of the argument (in Descartes's [Sixth Meditation](#sixth-meditation-of-the-existence-of-material-things-and-of-the-real-distinction-between-the-mind-and-body-of-man)) for the real distinction between mind and body?
+(@) _What would Kant make of the argument (in Descartes's [Sixth Meditation](#sixth-meditation-of-the-existence-of-material-things-and-of-the-real-distinction-between-the-mind-and-body-of-man)) for the real distinction between mind and body?_
 
 ***
 
@@ -4218,7 +4218,7 @@ I term this idea cosmological, because it always takes its object from the world
 
 ***
 
-(@) In what way does the "Cosmological Idea" remain within the bounds of possible experience? In what way does it go beyond these bounds?
+(@) _In what way does the "Cosmological Idea" remain within the bounds of possible experience? In what way does it go beyond these bounds?_
 
 ## Section Fifty-one: "The Cosmological Idea", Continued
 
@@ -4314,7 +4314,7 @@ As concerns the _fourth_ antinomy, it is solved in the same manner as is the con
 
 ***
 
-(@) In the case of the third and fourth antinomies, the mistake lies in thinking that the propositions are incompatible, when in fact they are. How does Kant make sense of this? How can both propositions in each pair be true?
+(@) _In the case of the third and fourth antinomies, the mistake lies in thinking that the propositions are incompatible, when in fact they are. How does Kant make sense of this? How can both propositions in each pair be true?_
 
 ## Section Fifty-four: "The Cosmological Idea", Continued
 
@@ -4358,7 +4358,7 @@ We are obliged, then, to think of an immaterial essence, an intelligible world, 
 
 ***
 
-(@) If Ideas of Reason cannot be used constitutively---that is, they cannot be taken as showing us the nature of things as they are in themselves---what good are they? Pick one of the Ideas (God, the World, or the Soul), and try to explain how it might be worthwhile, before looking below to see what Kant himself says.
+(@) _If Ideas of Reason cannot be used constitutively---that is, they cannot be taken as showing us the nature of things as they are in themselves---what good are they? Pick one of the Ideas (God, the World, or the Soul), and try to explain how it might be worthwhile, before looking below to see what Kant himself says._
 
 ***
 
@@ -4392,7 +4392,7 @@ And thus I conclude the analytical solution of the problem I had myself proposed
 
 ***
 
-(@) Kant insists on the thinkability---though not on the actuality---of God, of the soul, and of causality through freedom. Is he entitled to this? Think back to the limitations Kant imposed on the use of the Categories earlier in the _Prolegomena_.
+(@) _Kant insists on the thinkability---though not on the actuality---of God, of the soul, and of causality through freedom. Is he entitled to this? Think back to the limitations Kant imposed on the use of the Categories earlier in the_ Prolegomena.
 
 ## Solution of the General Problem of the _Prolegomena_: How is Metaphysics Possible as Science?
 

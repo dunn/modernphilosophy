@@ -403,7 +403,7 @@ nav,
     width: 500px;
     margin: 4em auto;
     text-align: center;
-    font-size: 125%;
+    font-size: 110%;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     line-height: 100%; }
@@ -426,7 +426,7 @@ nav,
 
   h5 {
     margin: 1.25em auto .5em auto;
-    font-size: 125%;
+    font-size: 110%;
     line-height: 150%; }
 
   p {
