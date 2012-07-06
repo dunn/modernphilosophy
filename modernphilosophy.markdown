@@ -3500,25 +3500,25 @@ _Born in Königsberg, Prussia, Immanuel Kant is the only writer included in this
 
 _Here, by section number, is an outline of the_ Prolegomena, _using Kant's own headings. I've also indicated where i've introduced material from the_ CPR.
 
->Introduction
->
->Sections 6--13---How is pure mathematics possible?
->
->From the _CPR_---The Transcendental Aesthetic (Space) 
->
->Sections 14--30---How is pure natural science possible? 
->
->From the CPR---The Second Analogy
->
->Sections 31--39
->
->From the _CPR_---Transcendental Deduction
->
->Sections 40--49---How is metaphysics possible at all?
->
->From CPR---The Paralogisms
->
->Sections 50---60---Conclusion
+- Introduction
+
+- Sections [6](#section-six-the-main-transcendental-questionfirst-part-how-is-pure-mathematics-possible)--[13](#section-thirteen-the-first-part-continued): [How is pure mathematics possible?](#section-six-the-main-transcendental-questionfirst-part-how-is-pure-mathematics-possible)
+
+- From the _CPR_: [The Transcendental Aesthetic (Space)](#the-cpr-the-transcendental-aesthetic-section-one-of-space)
+
+- Sections [14](#the-prolegomena-section-fourteen-the-main-transcendental-questionsecond-part-how-is-pure-natural-science-possible)--[30](#section-thirty-the-second-part-continued): [How is pure natural science possible?](#the-prolegomena-section-fourteen-the-main-transcendental-questionsecond-part-how-is-pure-natural-science-possible)
+
+- From the CPR: [The Second Analogy](#the-cpr-the-second-analogy)
+
+- Sections [31](#the-prolegomena-section-thirty-one-the-second-part-continued)--39
+
+From the _CPR_: [Transcendental Deduction](#the-cpr-deduction-of-the-pure-concepts-of-the-understanding)
+
+- Sections [40](#the-prolegomena-section-forty-the-main-transcendental-questionthird-part-how-is-metaphysics-possible-at-all)--[49](#section-forty-nine-psychological-idea-continued): [How is metaphysics possible at all?](#the-prolegomena-section-forty-the-main-transcendental-questionthird-part-how-is-metaphysics-possible-at-all)
+
+- From CPR: [The Paralogisms](#the-cpr-the-paralogisms-of-pure-reason)
+
+- Sections [50](#the-prolegomena-section-fifty-the-cosmological-idea)--[60](#section-sixty-conclusion-continued): [Conclusion](#the-prolegomena-section-fifty-the-cosmological-idea)
 
 _(Textual note: the standard translations of Kant's work are in the Cambridge Edition of the_ Works of Immanuel Kant in Translation. _Norman Kemp Smith's translation of the_ Critique of Pure Reason _is still very useful, however.)_
 
