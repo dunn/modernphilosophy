@@ -2932,23 +2932,23 @@ It is certain that the most ignorant and stupid peasants---nay infants, nay even
 
 (@) _How do we make the transition from the impression of a \_\_\_\_\_\_\_ to an idea of its \_\_\_\_\_\_? Or vice versa?_
 
-(@ind) Hume says he will content himself with proving a negative proposition in [Part Two](#section-four-sceptical-doubts-concerning-the-operations-of-the-understanding-part-two) (see the second paragraph).  What is this negative proposition?
+(@ind) _Hume says he will content himself with proving a negative proposition in [Part Two](#section-four-sceptical-doubts-concerning-the-operations-of-the-understanding-part-two) (see the second paragraph).  What is this negative proposition?_
 
-	Here's one way to represent the inference/transition:
+	_Here's one way to represent the inference/transition:_
 
 	i. I have found in the past that all instances of A (say, fire) have been followed by instances of B (say, heat).
 		
 	ii. I predict that future A's will be followed by B's.
 		
-	If the move from 1 to 2 is a rational, justified inference, it would have to be either demonstrative reasoning or reasoning from experience.
+	_If the move from 1 to 2 is a rational, justified inference, it would have to be either demonstrative reasoning or reasoning from experience._
 	
 	i. Why can't it be demonstrative reasoning?
 	
 	ii. Why can't it be reasoning from experience?
 	
-	_Objection:_ What's missing here is a further premise, viz., Premise 1.5 The future will be like the past. What is the problem with adding this premise?
+	**Objection:** _What's missing here is a further premise, viz., Premise 1.5 The future will be like the past. What is the problem with adding this premise?_
 	
-	_Objection:_ Why can't I conclude at least that it's probable that the sun will rise tomorrow? (To answer this, you might try re-writing the mini-argument above, with the conclusion restricted to probability. Does the inference become justified, once its conclusion is qualified?)
+	**Objection:** _Why can't I conclude at least that it's probable that the sun will rise tomorrow? (To answer this, you might try re-writing the mini-argument above, with the conclusion restricted to probability. Does the inference become justified, once its conclusion is qualified?)_
 	
 ## Section Five: Sceptical Solution of these Doubts, Part One
 
@@ -2974,7 +2974,7 @@ _Hume takes his clue from the thought experiment of Adam. Just by looking at wat
 
 (@) _When (and only when) do we in fact make causal connections between two events?_
 
-	There must be some connecting principle that explains our practice of taking past constant conjunctions to be a good guide to the future. What is it?
+	_There must be some connecting principle that explains our practice of taking past constant conjunctions to be a good guide to the future. What is it?_
 	
 (@) _How is this a 'skeptical' solution, rather than a plain old solution?_
 
@@ -3104,7 +3104,7 @@ To recapitulate, therefore, the reasonings of this section: Every idea is copied
 
 (@) _Hume offers two definitions of 'cause.' What are they? Put them in your own words._
 
-	To think about: Why are there two definitions here? Are they co-extensive? In other words, is every possible state of affairs that counts as a cause and effect relation according to Definition 1 also going to count as such a relation on Definition 2, and vice versa?
+	_To think about: Why are there two definitions here? Are they co-extensive? In other words, is every possible state of affairs that counts as a cause and effect relation according to Definition 1 also going to count as such a relation on Definition 2, and vice versa?_
 	
 ## Section Nine: Of the Reason of Animals
 
@@ -3256,9 +3256,9 @@ The plain consequence is (and it is a general maxim worthy of our attention), 't
 
 (@) _We seem to learn of miracles only through what means?_
 
-	By definition, then, a miracle pits our belief in the laws of nature against what?
+	_By definition, then, a miracle pits our belief in the laws of nature against what?_
 	
-	Which belief wins, and why?
+	_Which belief wins, and why?_
 	
 ##Section Ten: Of Miracles, Part One
 
@@ -3405,13 +3405,13 @@ Thus the first philosophical objection to the evidence of sense or to the opinio
 ***
 
 (@) _There are two claims Hume might be making here:_
-	(i) we have no good reason to believe in the external world;
+	(i) We have no good reason to believe in the external world;
 	
-	(ii) we cannot even conceive of anything other than perceptions, and thus cannot conceive of an external world.
+	(ii) We cannot even conceive of anything other than perceptions, and thus cannot conceive of an external world.
 	
-	Is he making one of these, or both?
+	_Is he making one of these, or both?_
 	
-	How would the Copy Principle affect your answer?
+	_How would the Copy Principle affect your answer?_
 	
 (@) _What is the 'universal and primary opinion of all men' that is 'destroyed by the slightest philosophy'? How does philosophy destroy it?_
 
