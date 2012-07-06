@@ -1467,69 +1467,70 @@ _Spinoza now argues that extended substance is not in fact divisible. We can see
 
 ***
 
->> (@) _What would Spinoza make of Descartes's argument for the real distinction between mind and body? Is there some premise or assumption he would reject?_
->> 
->> (@) _Complete this sketch of Spinoza's argument for monism by filling in the relevant propositions or axiom (e.g., P5 for Proposition 5). Note that this is only one way to reconstruct the argument._
->> 
->> 	_Proposition 3:_ No substance can act on or create a substance with a different attribute.
->> 
->> 	Argument: Substances with different attributes 'have nothing in common with each other' and so cannot be understood through each other; but (by Axiom \_\_) they cannot then be causally connected.
->> 	
->> 	_Proposition 5:_ No two substances can share an attribute.
->> 	
->> 	For any given attribute, there is only one instance. If there are multiple substances, then, they must each have a different attribute.
->> 	
->> 	Argument: If there were more than one instance of a given attribute, there would have to be an explanation for why there are exactly that number of beings sharing the attribute and no more (by Axiom 3, the Principle of Sufficient Reason).
->> 	
->> 	Suppose there were 20 minds. There would have to be an explanation for why there are 20 and not 21 or 19 or 666.
->> 	
->> 	Dilemma: does this explanation (a) come from the attribute itself, or (b) from outside the substance altogether?
->> 	
->> 	Not (a), since it's no part of the attribute of thought that there be 20 instances of it.
->> 	
->> 	Not (b), by \_\_\_\_. So our supposition is false: there is only one mind, and only one instance for any given attribute.
->> 	
->> 	_Proposition 6:_ One substance cannot be created (or destroyed) by another.
->> 	
->> 	Argument: suppose one substance creates another. They will either (a) share an attribute or (b) not. Not (a), by \_\_\_\_\_. Not (b), by \_\_\_\_.
->> 	
->> 	_Proposition 7:_ Each substance exists necessarily.
->> 	
->> 	_Proposition 8:_ Each substance is infinite.
->> 	
->> 	Argument: suppose a given substance is finite. This means it is limited by something else (e.g., my hand is finite in space, since it has spatial boundaries, beyond which there are other objects.)
->> 	
->> 	They will either (a) share an attribute or (b) not.
->> 	
->> 	Not (a), by \_\_\_\_.
->> 	
->> 	Not (b), since it does not make sense for a substance to be limited by something \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. How could thought be limited by extension, or vice versa?
->> 	
->> 	_Proposition 9:_ The more attributes something has, the more reality it has.
->> 	
->> 	Spinoza denies the Cartesian claim that distinct attributes entail distinct substances. He might mean 'reality' here in an almost quantitative sense: something that is both thought and extension is more real than a substance whose only attribute is thought.
->> 	
->> 	_Proposition 11:_ God (by definition a substance possessing infinite attributes) exists.
->> 	
->> 	God is by definition a being who is absolutely infinite; he is not merely infinite after his kind (as the series of positive integers is, or as mental substance might be). He is infinite in every possible way, which means he is a single substance that contains all attributes. (There are an infinity of these, but we only know two, thought and extension.)
->> 	
->> 	Argument: Suppose God didn't exist. The explanation for this would have to come either from (a) within God or (b) outside him.
->> 
->> 	Not (a), because that would hold only if he were logically self-contradictory.
->> 
->> 	Not (b), by \_\_\_\_.
->> 	
->> 	_Proposition 14:_ Only God exists.
->> 	
->> 	If there were a substance other than God, it would either (a) share an attribute or (b) not.
->> 	
->> 	Not (a), by \_\_\_\_.
->> 	
->> 	Not (b): if it doesn't share an attribute, if it's a different kind of thing, then God would not be absolutely infinite (i.e., possessing an infinity of attributes).
->> 	
->> (@) _Objection: Spinoza's God is material (among other things). But matter is divisible; to be divided is to be imperfect, subject to destruction._
->> 
->> 	_Reply:_ Matter isn't divisible, although it is presented to our imagination as if it were. This means that no substance is divisible; if it were, it would be divided into \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, which is impossible (given \_\_\_\_).
+(@) _What would Spinoza make of Descartes's argument for the real distinction between mind and body? Is there some premise or assumption he would reject?_
+
+(@) _Complete this sketch of Spinoza's argument for monism by filling in the relevant propositions or axiom (e.g., P5 for Proposition 5). Note that this is only one way to reconstruct the argument._
+
+    _Proposition 3:_ No substance can act on or create a substance with a different attribute.
+
+    Argument: Substances with different attributes 'have nothing in common with each other' and so cannot be understood through each other; but (by Axiom \_\_) they cannot then be causally connected.
+
+    _Proposition 5:_ No two substances can share an attribute.
+
+    For any given attribute, there is only one instance. If there are multiple substances, then, they must each have a different attribute.
+
+    Argument: If there were more than one instance of a given attribute, there would have to be an explanation for why there are exactly that number of beings sharing the attribute and no more (by Axiom 3, the Principle of Sufficient Reason).
+
+    Suppose there were 20 minds. There would have to be an explanation for why there are 20 and not 21 or 19 or 666.
+
+    Dilemma: does this explanation (a) come from the attribute itself, or (b) from outside the substance altogether?
+
+    Not (a), since it's no part of the attribute of thought that there be 20 instances of it.
+
+    Not (b), by \_\_\_\_. So our supposition is false: there is only one mind, and only one instance for any given attribute.
+
+    _Proposition 6:_ One substance cannot be created (or destroyed) by another.
+
+    Argument: suppose one substance creates another. They will either (a) share an attribute or (b) not. Not (a), by \_\_\_\_\_. Not (b), by \_\_\_\_.
+
+    _Proposition 7:_ Each substance exists necessarily.
+
+    _Proposition 8:_ Each substance is infinite.
+
+    Argument: suppose a given substance is finite. This means it is limited by something else (e.g., my hand is finite in space, since it has spatial boundaries, beyond which there are other objects.)
+
+    They will either (a) share an attribute or (b) not.
+
+    Not (a), by \_\_\_\_.
+
+    Not (b), since it does not make sense for a substance to be limited by something \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. How could thought be limited by extension, or vice versa?
+
+    _Proposition 9:_ The more attributes something has, the more reality it has.
+ 	
+ 	Spinoza denies the Cartesian claim that distinct attributes entail distinct substances. He might mean 'reality' here in an almost quantitative sense: something that is both thought and extension is more real than a substance whose only attribute is thought.
+ 	
+ 	_Proposition 11:_ God (by definition a substance possessing infinite attributes) exists.
+ 	
+ 	God is by definition a being who is absolutely infinite; he is not merely infinite after his kind (as the series of positive integers is, or as mental substance might be). He is infinite in every possible way, which means he is a single substance that contains all attributes. (There are an infinity of these, but we only know two, thought and extension.)
+ 	
+ 	Argument: Suppose God didn't exist. The explanation for this would have to come either from (a) within God or (b) outside him.
+ 
+ 	Not (a), because that would hold only if he were logically self-contradictory.
+ 
+ 	Not (b), by \_\_\_\_.
+ 	
+ 	_Proposition 14:_ Only God exists.
+ 	
+ 	If there were a substance other than God, it would either (a) share an attribute or (b) not.
+ 	
+ 	Not (a), by \_\_\_\_.
+ 	
+ 	Not (b): if it doesn't share an attribute, if it's a different kind of thing, then God would not be absolutely infinite (i.e., possessing an infinity of attributes).
+
+
+(@) _Objection: Spinoza's God is material (among other things). But matter is divisible; to be divided is to be imperfect, subject to destruction._
+
+    _Reply:_ Matter isn't divisible, although it is presented to our imagination as if it were. This means that no substance is divisible; if it were, it would be divided into \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, which is impossible (given \_\_\_\_).
 
 ***
 	
@@ -1855,7 +1856,7 @@ _Recall Aquinas's picture of (bodily) causation: one object (e.g., fire) produce
 
 (@) _Locke argues for a further thesis:_
 
-(ii) secondary qualities depend on primary
+(ii) Secondary qualities depend on primary
 
 	Why think that the color of an object (i.e., the color ideas it produces in us) depends on its primary qualities? (Hint: use II.viii.20)
 	

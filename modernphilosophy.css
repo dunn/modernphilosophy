@@ -317,8 +317,8 @@ p {
 p + p {
   margin-top: 1em; }
 
-blockquote {
-  margin: 1em auto; }
+blockquote p + p {
+  margin-top: 1em; }
 
 /* ===== */
 /* LISTS */
@@ -442,8 +442,8 @@ nav,
   p + p {
     margin-top: 1em; }
 
-  blockquote {
-    margin: 1em auto; }
+  blockquote p + p {
+    margin-top: 1em; }
 
   /* ===== */
   /* LISTS */
@@ -558,8 +558,8 @@ nav,
   p + p {
     margin-top: 1em; }
 
-  blockquote {
-    margin: 1em auto; }
+  blockquote p + p {
+    margin-top: 1em; }
 
   /* ===== */
   /* LISTS */
