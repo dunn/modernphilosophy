@@ -177,20 +177,23 @@ pre {
   white-space: pre-wrap;
   word-wrap: break-word; }
 
+/* ==========
+/* The quote styles don't work with pandoc's --smart mode */
+/* ========== */
 /*
  * 1. Addresses CSS quotes not supported in IE6/7
  * 2. Addresses quote property not supported in S4
  */
 /* 1 */
-q {
-  quotes: none; }
-
+/* q {
+/*     quotes: none;
+/* }*/
 /* 2 */
-q:before,
-q:after {
-  content: '';
-  content: none; }
-
+/* q:before,
+/* q:after {
+/*     content: '';
+/*     content: none;
+/* }*/
 small {
   font-size: 75%; }
 
