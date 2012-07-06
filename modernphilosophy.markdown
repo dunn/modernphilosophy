@@ -2261,11 +2261,12 @@ We have, I think, shewn the impossibility of Abstract Ideas. We have considered 
 (@) _'We have first raised a dust and then complain that we cannot see.' ([Section Three](#introduction-section-three). Who is 'we'? What is the dust?_
 
 (@) _What are Berkeley's targets?_
-	Abstraction 1: Taking a simple idea (of a determinate shape, for example) and paring it off from the other ideas with which it came into the mind.
+
+	_Abstraction 1:_ Taking a simple idea (of a determinate shape, for example) and paring it off from the other ideas with which it came into the mind.
 	
-	Abstraction 2: Taking a bunch of complex ideas (of extended objects, for example) and isolating what's common to them (extension as a determinable; human being as a kind).
+	_Abstraction 2:_ Taking a bunch of complex ideas (of extended objects, for example) and isolating what's common to them (extension as a determinable; human being as a kind).
 	
-	By contrast, what is Abstraction 3, and why is it fine?
+	_By contrast, what is Abstraction 3, and why is it fine?_
 	
 (@) _There are two big puzzles posed by the introduction. First, what exactly is the argument against abstract ideas supposed to be? It looks as if [Section Ten](#introduction-section-ten) goes something like this:_
 
@@ -2274,27 +2275,27 @@ We have, I think, shewn the impossibility of Abstract Ideas. We have considered 
 	iii. \_\_\_\_\_\_\_\_
 	iv. Therefore, no one can abstract in senses 1 and 2.
 	
-	What weaknesses do you see in this argument? 
+	_What weaknesses do you see in this argument?_
 	
-	In a later work (_Alciphron, or the Minute Philosopher_, 1732), Berkeley offers a different argument against abstract ideas. In this dialogue, Euphranor is Berkeley's spokesman; Alciphron is supposed to represent Locke's views:
+	_In a later work (_Alciphron, or the Minute Philosopher_, 1732), Berkeley offers a different argument against abstract ideas. In this dialogue, Euphranor is Berkeley's spokesman; Alciphron is supposed to represent Locke's views:_
 	
-	_Euphranor:_ Pray, Alciphron, which are those things you would call absolutely impossible?
+	>_Euphranor:_ Pray, Alciphron, which are those things you would call absolutely impossible?
 	
-	_Alciphron:_ Such as include a contradiction.
+	>_Alciphron:_ Such as include a contradiction.
 	
-	_Euphranor:_ Can you frame an idea of what includes a contradiction?
+	>_Euphranor:_ Can you frame an idea of what includes a contradiction?
 
-	_Alciphron:_ I cannot.
+	>_Alciphron:_ I cannot.
 
-	_Euphranor:_ Consequently, whatever is absolutely impossible you cannot form an idea of.
+	>_Euphranor:_ Consequently, whatever is absolutely impossible you cannot form an idea of.
 
-	_Alciphron:_ This I grant.
+	>_Alciphron:_ This I grant.
 
-	_Euphranor:_  But can a colour or triangle, such as you describe their abstract general ideas, really exist?
+	>_Euphranor:_  But can a colour or triangle, such as you describe their abstract general ideas, really exist?
 
-	_Alciphron:_ It is absolutely impossible such things should exist in nature.
+	>_Alciphron:_ It is absolutely impossible such things should exist in nature.
 
-	_Euphranor:_  Should it not follow, then, that they cannot exist in your mind, or, in other words, that you cannot conceive or frame an idea of them?[^alc]
+	>_Euphranor:_  Should it not follow, then, that they cannot exist in your mind, or, in other words, that you cannot conceive or frame an idea of them?[^alc]
 
 	Reconstruct Euphranor's argument:
 	
@@ -2441,20 +2442,20 @@ It is very obvious, upon the least inquiry into our thoughts, to know whether it
 
 (@) _Suppose matter exists. How could we be justified in believing in it? Either (1) by sensation (direct experience) or (2) reason (i.e., a demonstration or a logically sound argument)._
 
-> Against (1): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
->
-> Against (2): If we could demonstrate the existence of matter, there would have to be a \_\_\_\_\_\_\_\_\_\_\_\_\_\_ between our ideas and the objects they represent. But we can see that there is no such \_\_\_\_\_\_\_\_\_\_\_\_\_\_, simply by noticing that \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. In fact, even the proponents of matter grant that there is no \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ between ideas and their objects.
->
-> Now, a materialist might agree that we cannot prove by demonstration that matter exists. (In fact, this seems to be Descartes's position; see the last paragraph of his Synopsis of the _Meditations_.) Still, the materialist might argue, we can be justified in believing in matter's existence by means of an inference to the best explanation. The best explanation for our experiences is that they are experiences of a real, mind-independent world. How does Berkeley challenge this move? (From Part One, Sections [Eighteen](#part-one-section-eighteen) and [Nineteen](#part-one-section-nineteen).)
+    Against (1): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-(@) __The 'master argument'_---Matter is by definition something that can exist even when no mind is thinking about it. What could be easier than conceiving of something that exists unconceived? (To imagine, conceive, and perceive, are all used here by Berkeley pretty much interchangeably---each means having a given idea in the mind.) But:_
+    Against (2): If we could demonstrate the existence of matter, there would have to be a \_\_\_\_\_\_\_\_\_\_\_\_\_\_ between our ideas and the objects they represent. But we can see that there is no such \_\_\_\_\_\_\_\_\_\_\_\_\_\_, simply by noticing that \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. In fact, even the proponents of matter grant that there is no \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ between ideas and their objects.
+
+    _Now, a materialist might agree that we cannot prove by demonstration that matter exists. (In fact, this seems to be Descartes's position; see the last paragraph of his Synopsis of the_ Meditations._) Still, the materialist might argue, we can be justified in believing in matter's existence by means of an inference to the best explanation. The best explanation for our experiences is that they are experiences of a real, mind-independent world. How does Berkeley challenge this move? (From Part One, Sections [Eighteen](#part-one-section-eighteen) and [Nineteen](#part-one-section-nineteen).)_
+
+(@) _The 'master argument'---Matter is by definition something that can exist even when no mind is thinking about it. What could be easier than conceiving of something that exists unconceived? (To imagine, conceive, and perceive, are all used here by Berkeley pretty much interchangeably---each means having a given idea in the mind.) But:_
 
 	i. I think of _x_ existing unperceived. (The materialist's presupposition)
 	
 	ii. But this is the wrong description of what I have thought of, since \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 	iii. Therefore, no one can think of something that exists unperceived.
 	
-	Berkeley says in _Three Dialogues_ that conceiving something unconceived is analogous to 'seeing something unseen.' (From Part One, Sections [22](#part-one-section-twenty-two), [23](#part-one-section-twenty-three), and [24](#part-one-section-twenty-four); see also [Section Five](#part-one-section-five).)
+	_Berkeley says in_ Three Dialogues _that conceiving something unconceived is analogous to 'seeing something unseen.' (From Part One, Sections [22](#part-one-section-twenty-two), [23](#part-one-section-twenty-three), and [24](#part-one-section-twenty-four); see also [Section Five](#part-one-section-five).)_
 
 ### Part One, Section Twenty-five
 
@@ -2649,7 +2650,7 @@ After what has been premised, I think we may lay down the following conclusions.
 
 ***
 
-(@) _Recall Aquinas's argument in [_Summa Contra Gentiles_, Chapter Sixty-nine](#chapter-sixty-nine-of-the-opinion-of-those-who-withdraw-from-natural-things-their-proper-actions). How would he react to Berkeley's view about nature? (See especially [Section Seven](#section-seven))_
+(@) _Recall Aquinas's argument in_ [Summa Contra Gentiles, _Chapter Sixty-nine_](#chapter-sixty-nine-of-the-opinion-of-those-who-withdraw-from-natural-things-their-proper-actions). _How would he react to Berkeley's view about nature? (See especially [Section Seven](#section-seven))_
 
 (@) _How does Berkeley reply to this argument (see [Section 107](#part-one-section-one-hundred-and-seven))?_
 
@@ -2669,13 +2670,13 @@ But, though there be some things which convince us human agents are concerned in
 
 Hence, it is evident that God is known as certainly and immediately as any other mind or spirit whatsoever distinct from ourselves. We may even assert that the existence of God is far more evidently perceived than the existence of men; because the effects of nature are infinitely more numerous and considerable than those ascribed to human agents. There is not any one mark that denotes a man, or effect produced by him, which does not more strongly evince the being of that Spirit who is the Author of Nature. For, it is evident that in affecting other persons the will of man has no other object than barely the motion of the limbs of his body; but that such a motion should be attended by, or excite any idea in the mind of another, depends wholly on the will of the Creator.
 
-(@) _Why can't we have an idea of spirit/mind, according to berkeley? Remember his 'likeness principle' from the opening argument of Part One._
-
 ***
 
-(@) __The big picture_---Berkeley sets out to undermine 'materialism': what is materialism?_
+(@) _Why can't we have an idea of spirit/mind, according to Berkeley? Remember his 'likeness principle' from the opening argument of Part One._
 
-(@) _Berkeley's positive view is captured by the slogan '_esse est percipi aut percipere_'; what does this mean?_
+(@) _The big picture: Berkeley sets out to undermine 'materialism': what is materialism?_
+
+(@) _Berkeley's positive view is captured by the slogan_ 'esse est percipi aut percipere'; _what does this mean?_
 
 (@) _What, according to Berkeley, is the only substance?_
 
