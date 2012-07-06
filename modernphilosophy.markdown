@@ -3626,7 +3626,7 @@ Now it fortunately happens that, although we cannot accept metaphysics as a real
 
 We have, then, at least some uncontested, synthetic knowledge _a priori_, and do not require to ask whether this is possible, since it is actual, but only---_How it is possible_, in order to be able to deduce from the principle, rendering possible what is already given, the possibility of all the rest.
 
-(@) _Kant's 'regressive' method in the_ Prolegomena _can be called a defense of metaphysics by means of a 'companions in virtue' strategy. Kant first identifies a key feature of metaphysical claims---they are synthetic and a priori---and then looks to see whether some more established sciences, whose existence and legitimacy we take for granted, share this feature. What other sciences fall into this category?_
+(@) _Kant's 'regressive' method in the_ Prolegomena _can be called a defense of metaphysics by means of a 'companions in virtue' strategy. Kant first identifies a key feature of metaphysical claims---they are synthetic and_ a priori---_and then looks to see whether some more established sciences, whose existence and legitimacy we take for granted, share this feature. What other sciences fall into this category?_
 
 ***
 
@@ -3980,7 +3980,7 @@ _Recall Locke on power (_Essay, _II.xxi). For Locke, we first notice changes in 
 
 _Consider two sets of appearances: (O) those that we take to be of a house, and (E) those we take to be of a log being consumed by fire. Is the difference between these something we, as it were, just see? Is it there to be discovered in experience?_
 
-What will Kant say? Why? (See 689.)
+_What will Kant say? Why? (See 689.)_
 
 _**Moral**: a succession of appearances is not necessarily an appearance of succession._
 
@@ -4052,15 +4052,15 @@ _How is Natural Science possible?_
 
 (@) _Step One: Clarifying the problem_
 
-	Natural science, despite appearances, includes a 'pure' (i.e., non-empirical) element. Every science makes two assumptions.  What are they?
+	_Natural science, despite appearances, includes a 'pure' (i.e., non-empirical) element. Every science makes two assumptions.  What are they?_
 	
-	These assumptions are pre-conditions for even engaging in science in the first place.
+	_These assumptions are pre-conditions for even engaging in science in the first place._
 	
-	Two main competitors: rationalism and (Lockean) empiricism. Neither works. So we need to start over and find a third way. Turn now to JOEs. What makes them possible?
+	_Two main competitors: rationalism and (Lockean) empiricism. Neither works. So we need to start over and find a third way. Turn now to JOEs. What makes them possible?_
 	
-	But these just are the universal laws of nature (602). That is, the principles upon which all sciences depend also lie at the bottom of all \_\_\_\_\_\_\_\_\_, and make _it_ possible.
+	_But these just are the universal laws of nature (602). That is, the principles upon which all sciences depend also lie at the bottom of all \_\_\_\_\_\_\_\_\_, and make_ it _possible._
 	
-	So we've really got just one problem here: how can we justify claims that involve the pure concepts of the understanding, claims like cause, effect, substance, etc.?
+	_So we've really got just one problem here: how can we justify claims that involve the pure concepts of the understanding, claims like cause, effect, substance, etc.?_
 	
 (@) _Step Two: What did Hume teach us?_
 
@@ -4068,15 +4068,15 @@ _How is Natural Science possible?_
 	
 	ii. But nor can they be analytic.  Why?
 	
-	These are the prongs of hume's fork; for him, every proposition is either a **matter of fact** or a **relation of ideas**. Hume concludes that these principles have only \_\_\_\_\_\_\_\_\_\_ necessity; they are the 'bastard offspring' of \_\_\_\_\_\_\_\_\_\_ impregnated by \_\_\_\_\_\_\_\_\_.
+	_These are the prongs of Hume's fork; for him, every proposition is either a **matter of fact** or a **relation of ideas**. Hume concludes that these principles have only \_\_\_\_\_\_\_\_\_\_ necessity; they are the 'bastard offspring' of \_\_\_\_\_\_\_\_\_\_ impregnated by \_\_\_\_\_\_\_\_\_._
 	
 (@) _Step Three: Putting it all together:_
 
-	Hume is right to claim that experience can't justify \_\_\_\_\_\_\_\_\_\_. But he's wrong to think that this means that \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Instead, the concept of cause and effect is a pure \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. That is, it is not something we read off from experience, but something we use to construct experience in the first place. There's no room for skepticism about causation, since to have any experiences at all, I must be uniting \_\_\_\_\_\_\_\_\_\_ in judgments according to the concept of a cause. Like geometry, pure natural science depends on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+	_Hume is right to claim that experience can't justify \_\_\_\_\_\_\_\_\_\_. But he's wrong to think that this means that \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Instead, the concept of cause and effect is a pure \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. That is, it is not something we read off from experience, but something we use to construct experience in the first place. There's no room for skepticism about causation, since to have any experiences at all, I must be uniting \_\_\_\_\_\_\_\_\_\_ in judgments according to the concept of a cause. Like geometry, pure natural science depends on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_._
 
 (@) _Step Four: What are the consequences?_
 
-	But just as with geometry, this means that the categories can be applied \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Is Kant saying that things as they are in themselves must be connected by cause and effect, or that they are things at all, in the way a tree is a thing? \_\_\_\_\_\_\_\_\_\_, because \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+	_But just as with geometry, this means that the categories can be applied \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Is Kant saying that things as they are in themselves must be connected by cause and effect, or that they are things at all, in the way a tree is a thing? \_\_\_\_\_\_\_\_\_\_, because \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_._
 	
 (@) _Another way to see the same point: remember, all judgments require \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Applied to things in themselves, the categories have \_\_\_\_\_\_\_\_\_\_. (See Sections [Thirty](#section-thirty-the-second-part-continued) and [Thirty-four](#section-thirty-four-the-second-part-continued)). When we try to apply the categories to things in themselves, we leave out \_\_\_\_\_\_\_\_\_, and so generate only empty logical forms, structure without stuffing._
 
@@ -4206,9 +4206,9 @@ In the major premise [i] we speak of a being that can be cogitated generally and
 
 That this famous argument is a mere paralogism, will be plain to any one who will consider the general remark which precedes our exposition of the principles of the pure understanding, and the section on noumena. For it was there proved that the conception of a thing, which can exist per se---only as a subject and never as a predicate, possesses no objective reality; that is to say, we can never know whether there exists any object to correspond to the conception; consequently, the conception is nothing more than a conception, and from it we derive no proper knowledge. If this conception is to indicate by the term substance, an object that can be given, if it is to become a cognition, we must have at the foundation of the cognition a permanent intuition, as the indispensable condition of its objective reality. For through intuition alone can an object be given. But in internal intuition there is nothing permanent, for the _ego_ is but the consciousness of my thought. If then, we appeal merely to thought, we cannot discover the necessary condition of the application of the conception of substance---that is, of a subject existing per se---to the subject as a thinking being. And thus the conception of the simple nature of substance, which is connected with the objective reality of this conception, is shown to be also invalid, and to be, in fact, nothing more than the logical qualitative unity of self-consciousness in thought; whilst we remain perfectly ignorant whether the subject is composite or not.
 
-(@) _What would Kant make of the argument (in Descartes's [Sixth Meditation](#sixth-meditation-of-the-existence-of-material-things-and-of-the-real-distinction-between-the-mind-and-body-of-man)) for the real distinction between mind and body?_
-
 ***
+
+(@) _What would Kant make of the argument (in Descartes's [Sixth Meditation](#sixth-meditation-of-the-existence-of-material-things-and-of-the-real-distinction-between-the-mind-and-body-of-man)) for the real distinction between mind and body?_
 
 _We now return to the_ Prolegomena. _Having finished with the Idea of the self as substance, Kant moves on to the Idea of the world of experience as a whole._
 
