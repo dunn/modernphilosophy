@@ -1,6 +1,6 @@
 % _Modern Philosophy_: A Workbook with Source Material
 % Walter Ott
-% 17 June 2012
+% 7 July 2012
 
 # Preface
 
@@ -2429,7 +2429,7 @@ It is very obvious, upon the least inquiry into our thoughts, to know whether it
 	
 	ii. The only way an idea can represent anything is by virtue of \_\_\_\_\_\_ it.
 	
-	iii. Therefore, no idea can represent anything but _________________________________________. (From [Part One, Section Eight](#part-one-section-eight).)
+	iii. Therefore, no idea can represent anything but \_\_\_\_\_\_. (From [Part One, Section Eight](#part-one-section-eight).)
 		
 (@) _Locke restricts resemblance to ideas of primary qualities and says that secondary qualities exist only in the mind. But:_
 	i. This means that I must be able to think of an object that has \_\_\_\_\_\_\_\_\_\_\_\_\_.
