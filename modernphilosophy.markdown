@@ -2452,7 +2452,7 @@ It is very obvious, upon the least inquiry into our thoughts, to know whether it
 
 	i. I think of _x_ existing unperceived. (The materialist's presupposition)
 	
-	ii. But this is the wrong description of what I have thought of, since \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+	ii. But this is the wrong description of what I have thought of, since \_\_\_\_\_\_\_\_\_\_\_.
 	iii. Therefore, no one can think of something that exists unperceived.
 	
 	_Berkeley says in_ Three Dialogues _that conceiving something unconceived is analogous to 'seeing something unseen.' (From Part One, Sections [22](#part-one-section-twenty-two), [23](#part-one-section-twenty-three), and [24](#part-one-section-twenty-four); see also [Section Five](#part-one-section-five).)_

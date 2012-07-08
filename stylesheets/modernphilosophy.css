@@ -1,9 +1,9 @@
 /*  Stylesheet for _Modern Philosophy_ */
 /*  modernphilosophy.scss */
 /**/
-/*  this stylesheet was produced with SASS
+/*  this stylesheet was created with SASS
 /*  the original .scss file is available at
-/*  http://uweb.ucsb.edu/~adunn/modernphilosophy.scss /*
+/*  http://uweb.ucsb.edu/~adunn/modernphilosophy/sass/modernphilosophy.scss /*
 /**/
 /*  This stylesheet may be used for any purpose whatever. */
 /**/
@@ -335,95 +335,290 @@ table {
 /* made too thin, the width of the content is not set in the body.
 /* but `text-align: center` ensures that other elements that have a
 /* `width` specified will be centered in the viewport. */
-/* line 57, ../sass/modernphilosophy.scss */
+/* line 103, ../sass/modernphilosophy.scss */
 body {
-  width: 600px;
-  font-size: 115%;
-  line-height: 100%;
   margin: 4em auto;
   text-align: center;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
+  width: 600px;
+  font-size: 115%;
+  line-height: 100%;
 }
 @media screen and (max-device-width: 800px) {
-  /* line 57, ../sass/modernphilosophy.scss */
+  /* line 103, ../sass/modernphilosophy.scss */
   body {
     width: 600px;
+  }
+}
+@media screen and (max-device-width: 350px) {
+  /* line 103, ../sass/modernphilosophy.scss */
+  body {
+    width: 700px;
+  }
+}
+@media screen and (max-width: 700px) {
+  /* line 103, ../sass/modernphilosophy.scss */
+  body {
+    width: 500px;
+  }
+}
+@media screen and (max-width: 525px) {
+  /* line 103, ../sass/modernphilosophy.scss */
+  body {
+    width: 400px;
+  }
+}
+@media screen and (max-device-width: 800px) {
+  /* line 103, ../sass/modernphilosophy.scss */
+  body {
     font-size: 150%;
+  }
+}
+@media screen and (max-device-width: 350px) {
+  /* line 103, ../sass/modernphilosophy.scss */
+  body {
+    font-size: 200%;
+  }
+}
+@media screen and (max-width: 700px) {
+  /* line 103, ../sass/modernphilosophy.scss */
+  body {
+    font-size: 115%;
+  }
+}
+@media screen and (max-width: 525px) {
+  /* line 103, ../sass/modernphilosophy.scss */
+  body {
+    font-size: 115%;
+  }
+}
+@media screen and (max-device-width: 800px) {
+  /* line 103, ../sass/modernphilosophy.scss */
+  body {
+    line-height: 100%;
+  }
+}
+@media screen and (max-device-width: 350px) {
+  /* line 103, ../sass/modernphilosophy.scss */
+  body {
+    line-height: 100%;
+  }
+}
+@media screen and (max-width: 700px) {
+  /* line 103, ../sass/modernphilosophy.scss */
+  body {
+    line-height: 100%;
+  }
+}
+@media screen and (max-width: 525px) {
+  /* line 103, ../sass/modernphilosophy.scss */
+  body {
     line-height: 100%;
   }
 }
 
-/* line 72, ../sass/modernphilosophy.scss */
+/* line 113, ../sass/modernphilosophy.scss */
 h1 {
   margin: 1.25em auto .5em auto;
   line-height: 100%;
 }
 @media screen and (max-device-width: 800px) {
-  /* line 72, ../sass/modernphilosophy.scss */
+  /* line 113, ../sass/modernphilosophy.scss */
+  h1 {
+    line-height: 100%;
+  }
+}
+@media screen and (max-device-width: 350px) {
+  /* line 113, ../sass/modernphilosophy.scss */
+  h1 {
+    line-height: 100%;
+  }
+}
+@media screen and (max-width: 700px) {
+  /* line 113, ../sass/modernphilosophy.scss */
+  h1 {
+    line-height: 100%;
+  }
+}
+@media screen and (max-width: 525px) {
+  /* line 113, ../sass/modernphilosophy.scss */
   h1 {
     line-height: 100%;
   }
 }
 
-/* line 80, ../sass/modernphilosophy.scss */
+/* line 118, ../sass/modernphilosophy.scss */
 h2 {
   margin: 1.25em auto .5em auto;
   line-height: 150%;
 }
 @media screen and (max-device-width: 800px) {
-  /* line 80, ../sass/modernphilosophy.scss */
+  /* line 118, ../sass/modernphilosophy.scss */
+  h2 {
+    line-height: 150%;
+  }
+}
+@media screen and (max-device-width: 350px) {
+  /* line 118, ../sass/modernphilosophy.scss */
+  h2 {
+    line-height: 150%;
+  }
+}
+@media screen and (max-width: 700px) {
+  /* line 118, ../sass/modernphilosophy.scss */
+  h2 {
+    line-height: 150%;
+  }
+}
+@media screen and (max-width: 525px) {
+  /* line 118, ../sass/modernphilosophy.scss */
   h2 {
     line-height: 150%;
   }
 }
 
-/* line 88, ../sass/modernphilosophy.scss */
+/* line 123, ../sass/modernphilosophy.scss */
 h3 {
   margin: 1.25em auto .5em auto;
   line-height: 150%;
 }
 @media screen and (max-device-width: 800px) {
-  /* line 88, ../sass/modernphilosophy.scss */
+  /* line 123, ../sass/modernphilosophy.scss */
+  h3 {
+    line-height: 150%;
+  }
+}
+@media screen and (max-device-width: 350px) {
+  /* line 123, ../sass/modernphilosophy.scss */
+  h3 {
+    line-height: 150%;
+  }
+}
+@media screen and (max-width: 700px) {
+  /* line 123, ../sass/modernphilosophy.scss */
+  h3 {
+    line-height: 150%;
+  }
+}
+@media screen and (max-width: 525px) {
+  /* line 123, ../sass/modernphilosophy.scss */
   h3 {
     line-height: 150%;
   }
 }
 
-/* line 96, ../sass/modernphilosophy.scss */
+/* line 128, ../sass/modernphilosophy.scss */
 h4 {
   margin: 1.25em auto .5em auto;
   line-height: 150%;
 }
 @media screen and (max-device-width: 800px) {
-  /* line 96, ../sass/modernphilosophy.scss */
+  /* line 128, ../sass/modernphilosophy.scss */
+  h4 {
+    line-height: 150%;
+  }
+}
+@media screen and (max-device-width: 350px) {
+  /* line 128, ../sass/modernphilosophy.scss */
+  h4 {
+    line-height: 150%;
+  }
+}
+@media screen and (max-width: 700px) {
+  /* line 128, ../sass/modernphilosophy.scss */
+  h4 {
+    line-height: 150%;
+  }
+}
+@media screen and (max-width: 525px) {
+  /* line 128, ../sass/modernphilosophy.scss */
   h4 {
     line-height: 150%;
   }
 }
 
-/* line 104, ../sass/modernphilosophy.scss */
+/* line 133, ../sass/modernphilosophy.scss */
 h5 {
   margin: 1.25em auto .5em auto;
-  font-size: 115%;
   line-height: 150%;
+  font-size: 115%;
 }
 @media screen and (max-device-width: 800px) {
-  /* line 104, ../sass/modernphilosophy.scss */
+  /* line 133, ../sass/modernphilosophy.scss */
   h5 {
-    font-size: 150%;
     line-height: 150%;
   }
 }
+@media screen and (max-device-width: 350px) {
+  /* line 133, ../sass/modernphilosophy.scss */
+  h5 {
+    line-height: 150%;
+  }
+}
+@media screen and (max-width: 700px) {
+  /* line 133, ../sass/modernphilosophy.scss */
+  h5 {
+    line-height: 150%;
+  }
+}
+@media screen and (max-width: 525px) {
+  /* line 133, ../sass/modernphilosophy.scss */
+  h5 {
+    line-height: 150%;
+  }
+}
+@media screen and (max-device-width: 800px) {
+  /* line 133, ../sass/modernphilosophy.scss */
+  h5 {
+    font-size: 150%;
+  }
+}
+@media screen and (max-device-width: 350px) {
+  /* line 133, ../sass/modernphilosophy.scss */
+  h5 {
+    font-size: 200%;
+  }
+}
+@media screen and (max-width: 700px) {
+  /* line 133, ../sass/modernphilosophy.scss */
+  h5 {
+    font-size: 115%;
+  }
+}
+@media screen and (max-width: 525px) {
+  /* line 133, ../sass/modernphilosophy.scss */
+  h5 {
+    font-size: 115%;
+  }
+}
 
-/* line 114, ../sass/modernphilosophy.scss */
+/* line 139, ../sass/modernphilosophy.scss */
 p {
   text-align: justify;
   margin: auto;
   line-height: 125%;
 }
 @media screen and (max-device-width: 800px) {
-  /* line 114, ../sass/modernphilosophy.scss */
+  /* line 139, ../sass/modernphilosophy.scss */
+  p {
+    line-height: 125%;
+  }
+}
+@media screen and (max-device-width: 350px) {
+  /* line 139, ../sass/modernphilosophy.scss */
+  p {
+    line-height: 125%;
+  }
+}
+@media screen and (max-width: 700px) {
+  /* line 139, ../sass/modernphilosophy.scss */
+  p {
+    line-height: 125%;
+  }
+}
+@media screen and (max-width: 525px) {
+  /* line 139, ../sass/modernphilosophy.scss */
   p {
     line-height: 125%;
   }
@@ -431,12 +626,12 @@ p {
 
 /* the styling for `p + p` ensures that there is space between any two
 /* paragraphs */
-/* line 126, ../sass/modernphilosophy.scss */
+/* line 148, ../sass/modernphilosophy.scss */
 p + p {
   margin-top: 1em;
 }
 
-/* line 131, ../sass/modernphilosophy.scss */
+/* line 153, ../sass/modernphilosophy.scss */
 blockquote p + p {
   margin-top: 1em;
 }
@@ -447,7 +642,7 @@ blockquote p + p {
 /**/
 /* this set of stylings feels very blunt; the numbers are inexact and
 /* I suspect there is a more elegant way of doing all this. */
-/* line 146, ../sass/modernphilosophy.scss */
+/* line 168, ../sass/modernphilosophy.scss */
 ol,
 ul,
 dt,
@@ -457,7 +652,7 @@ dl {
   line-height: 125%;
 }
 @media screen and (max-device-width: 800px) {
-  /* line 146, ../sass/modernphilosophy.scss */
+  /* line 168, ../sass/modernphilosophy.scss */
   ol,
   ul,
   dt,
@@ -465,7 +660,34 @@ dl {
     line-height: 125%;
   }
 }
-/* line 154, ../sass/modernphilosophy.scss */
+@media screen and (max-device-width: 350px) {
+  /* line 168, ../sass/modernphilosophy.scss */
+  ol,
+  ul,
+  dt,
+  dl {
+    line-height: 125%;
+  }
+}
+@media screen and (max-width: 700px) {
+  /* line 168, ../sass/modernphilosophy.scss */
+  ol,
+  ul,
+  dt,
+  dl {
+    line-height: 125%;
+  }
+}
+@media screen and (max-width: 525px) {
+  /* line 168, ../sass/modernphilosophy.scss */
+  ol,
+  ul,
+  dt,
+  dl {
+    line-height: 125%;
+  }
+}
+/* line 173, ../sass/modernphilosophy.scss */
 ol li,
 ol li p,
 ul li,
@@ -477,7 +699,7 @@ dl li p {
   margin: 1em 10px auto auto;
 }
 @media screen and (max-device-width: 800px) {
-  /* line 154, ../sass/modernphilosophy.scss */
+  /* line 173, ../sass/modernphilosophy.scss */
   ol li,
   ol li p,
   ul li,
@@ -490,20 +712,20 @@ dl li p {
   }
 }
 
-/* line 162, ../sass/modernphilosophy.scss */
+/* line 181, ../sass/modernphilosophy.scss */
 dd {
   text-align: justify;
 }
-/* line 164, ../sass/modernphilosophy.scss */
+/* line 183, ../sass/modernphilosophy.scss */
 dd p + p {
   margin-top: 1em;
 }
-/* line 167, ../sass/modernphilosophy.scss */
+/* line 186, ../sass/modernphilosophy.scss */
 dd li {
   margin-left: 60px;
 }
 @media screen and (max-device-width: 800px) {
-  /* line 167, ../sass/modernphilosophy.scss */
+  /* line 186, ../sass/modernphilosophy.scss */
   dd li {
     margin-left: 60px;
   }
@@ -524,18 +746,18 @@ dd li {
 /**/
 /* `margin: auto` and a width specification brings the table into the
 /* center of the viewport. the `td` is for Kant's tables. */
-/* line 189, ../sass/modernphilosophy.scss */
+/* line 208, ../sass/modernphilosophy.scss */
 table {
   margin: 1em auto auto auto;
   width: 400px;
 }
 @media screen and (max-device-width: 800px) {
-  /* line 189, ../sass/modernphilosophy.scss */
+  /* line 208, ../sass/modernphilosophy.scss */
   table {
     width: 400px;
   }
 }
-/* line 195, ../sass/modernphilosophy.scss */
+/* line 214, ../sass/modernphilosophy.scss */
 table td {
   padding: .5em 1em .5em 0;
 }
@@ -547,25 +769,46 @@ table td {
 /**/
 /* these are stylings specific to different IDs and classes.  these
 /* classes are used by all HTML documents made with pandoc. */
-/* line 207, ../sass/modernphilosophy.scss */
+/* line 226, ../sass/modernphilosophy.scss */
 .title {
   margin-bottom: .375em;
 }
 
-/* line 216, ../sass/modernphilosophy.scss */
+/* line 235, ../sass/modernphilosophy.scss */
 .author,
 .date {
   line-height: 150%;
 }
 @media screen and (max-device-width: 800px) {
-  /* line 216, ../sass/modernphilosophy.scss */
+  /* line 235, ../sass/modernphilosophy.scss */
+  .author,
+  .date {
+    line-height: 150%;
+  }
+}
+@media screen and (max-device-width: 350px) {
+  /* line 235, ../sass/modernphilosophy.scss */
+  .author,
+  .date {
+    line-height: 150%;
+  }
+}
+@media screen and (max-width: 700px) {
+  /* line 235, ../sass/modernphilosophy.scss */
+  .author,
+  .date {
+    line-height: 150%;
+  }
+}
+@media screen and (max-width: 525px) {
+  /* line 235, ../sass/modernphilosophy.scss */
   .author,
   .date {
     line-height: 150%;
   }
 }
 
-/* line 226, ../sass/modernphilosophy.scss */
+/* line 242, ../sass/modernphilosophy.scss */
 nav,
 #TOC,
 #TOC nav,

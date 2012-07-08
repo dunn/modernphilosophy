@@ -1,9 +1,9 @@
 /*  Stylesheet for _Modern Philosophy_ */
 /*  modernphilosophy.scss */
 /**/
-/*  this stylesheet was produced with SASS
+/*  this stylesheet was created with SASS
 /*  the original .scss file is available at
-/*  http://uweb.ucsb.edu/~adunn/modernphilosophy.scss /*
+/*  http://uweb.ucsb.edu/~adunn/modernphilosophy/sass/modernphilosophy.scss /*
 /**/
 /*  This stylesheet may be used for any purpose whatever. */
 
@@ -54,70 +54,92 @@ $phone-line: 100%;
 /* made too thin, the width of the content is not set in the body.
 /* but `text-align: center` ensures that other elements that have a
 /* `width` specified will be centered in the viewport. */
-body {
-  width: $base-width;
-  font-size: $base-text;
-  line-height: $base-line;
+// mixin to adjust widths relative to media
+@mixin query-width($width-mod: 0px) {
+    width: $base-width - $width-mod;
     @media screen and (max-device-width: 800px) {
-      width: $tablet-width;
-      font-size: $tablet-text;
-      line-height: $tablet-line;
+      width: $tablet-width - $width-mod;
 	}
+    @media screen and (max-device-width: 350px) {
+      width: $phone-width - $width-mod;
+	}
+    @media screen and (max-width: 700px) {
+      width: 500px - $width-mod;
+	}
+    @media screen and (max-width: 525px) {
+      width: 400px - $width-mod;
+	}
+}
+@mixin query-text($text-mod: 1.25) {
+    font-size: $text-mod * $base-text;
+    @media screen and (max-device-width: 800px) {
+      font-size: $text-mod * $tablet-text;
+	}
+    @media screen and (max-device-width: 350px) {
+      font-size: $text-mod * $phone-text;
+	}
+    @media screen and (max-width: 700px) {
+      font-size: $text-mod * $base-text;
+	}
+    @media screen and (max-width: 525px) {
+      font-size: $text-mod * $base-text;
+	}
+}
+@mixin query-line($line-mod: 1) {
+    line-height: $line-mod * $base-line;
+    @media screen and (max-device-width: 800px) {
+      line-height: $line-mod * $tablet-line;
+	}
+    @media screen and (max-device-width: 350px) {
+      line-height: $line-mod * $phone-line;
+	}
+    @media screen and (max-width: 700px) {
+      line-height: $line-mod * $base-line;
+	}
+    @media screen and (max-width: 525px) {
+      line-height: $line-mod * $base-line;
+	}
+}
+body {
   margin: 4em auto;
   text-align: center;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
+  @include query-width(0);
+  @include query-text(1);
+  @include query-line(1);
 }
 
 h1 {
     margin: 1.25em auto .5em auto;
-    line-height: $base-line;
-    @media screen and (max-device-width: 800px) {
-      line-height: $tablet-line;
-	}
+    @include query-line(1);     
 }
 
 h2 {
     margin: 1.25em auto .5em auto;
-    line-height: 1.5 * $base-line;
-    @media screen and (max-device-width: 800px) {
-      line-height: 1.5 * $tablet-line;
-	}
+    @include query-line(1.5);     
 }
 
 h3 {
     margin: 1.25em auto .5em auto;
-    line-height: 1.5 * $base-line; 
-    @media screen and (max-device-width: 800px) {
-      line-height: 1.5 * $tablet-line;
-	}
+    @include query-line(1.5);     
 }
 
 h4 {
     margin: 1.25em auto .5em auto;
-    line-height: 1.5 * $base-line;
-    @media screen and (max-device-width: 800px) {
-      line-height: 1.5 * $tablet-line;
-	}
+    @include query-line(1.5);     
 }
 
 h5 {
-  margin: 1.25em auto .5em auto;
-  font-size: $base-text;
-  line-height: 1.5 * $base-line;
-    @media screen and (max-device-width: 800px) {
-      font-size: $tablet-text;
-      line-height: 1.5 * $tablet-line;
-	}
+    margin: 1.25em auto .5em auto;
+    @include query-line(1.5);     
+    @include query-text(1);
 }
 
 p {
     text-align: justify;
     margin: auto;
-    line-height: 1.25 * $base-line;
-    @media screen and (max-device-width: 800px) {
-      line-height: 1.25 * $tablet-line;
-	}
+    @include query-line(1.25);     
 }
 
 /* the styling for `p + p` ensures that there is space between any two
@@ -146,10 +168,7 @@ dt,
 dl {
   text-align: left;
   margin: .75em auto;
-  line-height: 1.25 * $base-line;
-    @media screen and (max-device-width: 800px) {
-      line-height: 1.25 * $tablet-line;
-	}
+  @include query-line(1.25);
     li,
     li p {
         margin: 1em ($base-width / 60) auto auto;
@@ -214,10 +233,7 @@ table {
 
 .author,
 .date {
-    line-height: 1.5 * $base-line;
-      @media screen and (max-device-width: 800px) {
-         line-height: 1.5 * $tablet-line;
-         }
+    @include query-line(1.5);     
 }
 
 nav,
