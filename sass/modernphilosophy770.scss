@@ -1,0 +1,199 @@
+/*  Stylesheet for _Modern Philosophy_ */
+/*  modernphilosophy770.scss */
+/**/
+/*  this stylesheet was produced with SASS
+/*  the original .scss file is available at
+/*  http://uweb.ucsb.edu/~adunn/modernphilosophy770.scss /*
+/**/
+/*  This stylesheet may be used for any purpose whatever. */
+
+// ==============
+// SASS VARIABLES
+// ==============
+
+$base-width: 600px;
+$base-text: 150%;
+$base-line: 100%;
+
+/**/
+/* ============= */
+/* NORMALIZATION */
+/* ============= */
+/**/
+/* this imported stylesheet ensures that everything is rendered
+/* consistently across browsers. */
+
+@import "normalize";
+/* ============= */
+/* END NORMALIZE */
+/* ============= */
+/**/
+/************************/
+/************************/
+/**/
+/* ============== */
+/* GLOBAL  STYLES */
+/* ============== */
+/**/
+/* these are the stylings for _Modern Philosophy_ HTML version.  this
+/* stylesheet can be used for other HTML documents produced by pandoc,
+/* but some of the stylings (the table elements) are designed
+/* specifically for this HTML document. */
+/**/
+/* so that the table of contents (and other wide elements) are not
+/* made too thin, the width of the content is not set in the body.
+/* but `text-align: center` ensures that other elements that have a
+/* `width` specified will be centered in the viewport. */
+
+@mixin all($base-width, $base-line, $base-text){
+// this mixin sets everything
+// yes I know this is probably bad practice
+body {
+  width: $base-width;
+  margin: 4em auto;
+  text-align: center;
+  font-size: $base-text;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  line-height: $base-line;
+}
+
+h1 {
+    margin: 1.25em auto .5em auto;
+    line-height: $base-line;
+}
+
+h2 {
+    margin: 1.25em auto .5em auto;
+    line-height: 1.5 * $base-line;
+}
+
+h3 {
+    margin: 1.25em auto .5em auto;
+    line-height: 1.5 * $base-line; 
+}
+
+h4 {
+    margin: 1.25em auto .5em auto;
+    line-height: 1.5 * $base-line;
+}
+
+h5 {
+  margin: 1.25em auto .5em auto;
+  font-size: $base-text;
+  line-height: 1.5 * $base-line;
+}
+
+p {
+    text-align: justify;
+    margin: auto;
+    line-height: 1.25 * $base-line;
+}
+
+/* the styling for `p + p` ensures that there is space between any two
+/* paragraphs */
+
+p + p {
+    margin-top: 1em;
+}
+
+blockquote {
+  p + p {
+    margin-top: 1em;
+      }
+}
+
+/* ===== */
+/* LISTS */
+/* ===== */
+/**/
+/* this set of stylings feels very blunt; the numbers are inexact and
+/* I suspect there is a more elegant way of doing all this. */
+
+ol,
+ul,
+dt,
+dl {
+  text-align: left;
+  margin: .75em auto;
+  line-height: 1.25 * $base-line;
+    li,
+    li p {
+        margin: 1em ($base-width / 60) auto auto;
+	}
+}
+
+dd {
+  text-align: justify;
+    p + p {
+      margin-top: 1em;
+	}
+    li {
+      margin-left: ($base-width / 10);
+	}
+}
+/**/
+/* ====== */
+/* TABLES */
+/* ====== */
+/**/
+/* the tables produced by pandoc are difficult to style because the
+/* `td` elements have inline styling.  depending on how the pandoc
+/* tables are produced, the `td` elements will have `text-align:
+/* right`, `left`, or `center`.  it's therefore up to the creator of
+/* the markdown file to correctly align their table elements.  the
+/* following styling is specifically designed to style Kant's table of
+/* thesis and antitheses */
+/**/
+/* `margin: auto` and a width specification brings the table into the
+/* center of the viewport. the `td` is for Kant's tables. */
+table {
+  margin: 1em auto auto auto;
+  width: $base-width / 1.5;
+    td {
+      padding: .5em 1em .5em 0;
+	}
+}
+
+/**/
+/* ============ */
+/* CLASS AND ID */
+/* ============ */
+/**/
+/* these are stylings specific to different IDs and classes.  these
+/* classes are used by all HTML documents made with pandoc. */
+.title {
+    line-height: $base-line;
+    margin-bottom: .375em;
+}
+
+.author,
+.date {
+    line-height: 1.5 * $base-line;
+}
+
+nav,
+#TOC,
+#TOC nav,
+#TOC li {
+  text-align: left;
+  margin: auto;
+  list-style-type: disc;
+}
+// end mixin
+}
+/**/
+/**/
+@include all($base-width, $base-line, $base-text);
+
+/**/
+/* ============= */
+/* MEDIA QUERIES */
+/* ============= */
+/**/
+/* these stylings apply only when the viewing media meets certain
+/* conditions */
+
+//@media screen and (max-device-width: 320px) {
+//  @include all(700px, $base-line, 200%);
+//}

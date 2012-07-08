@@ -1,0 +1,58 @@
+/*
+Syntax error: Invalid CSS after "$tablet-line": expected selector or at-rule, was ": 100%;"
+        on line 20 of /Users/alex/Dropbox/projects/modtext/modphil_git/sass/modernphilosophy.scss
+
+Backtrace:
+/Users/alex/Dropbox/projects/modtext/modphil_git/sass/modernphilosophy.scss:20
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:1010:in `expected'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:956:in `expected'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:28:in `parse'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/engine.rb:327:in `_to_tree'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/engine.rb:300:in `_render'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/engine.rb:247:in `render'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:140:in `block (2 levels) in compile'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:139:in `block in compile'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/logger.rb:45:in `red'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:138:in `compile'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:118:in `compile_if_required'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:103:in `block (2 levels) in run'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:101:in `each'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:101:in `block in run'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:100:in `run'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/commands/watch_project.rb:147:in `recompile'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/path.rb:73:in `call'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/path.rb:73:in `run_callback'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/path.rb:55:in `callback_action'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/path.rb:31:in `create'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/state/directory.rb:26:in `block in created'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/state/directory.rb:25:in `each'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/state/directory.rb:25:in `created'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/state/directory.rb:17:in `refresh'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/backends/rbfsevent.rb:30:in `block in temporary_multipath_handler'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/backends/rbfsevent.rb:27:in `each'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/backends/rbfsevent.rb:27:in `temporary_multipath_handler'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/backends/rbfsevent.rb:17:in `block (2 levels) in run'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/backends/rbfsevent.rb:16:in `each'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/backends/rbfsevent.rb:16:in `block in run'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.1/lib/rb-fsevent/fsevent.rb:43:in `call'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.1/lib/rb-fsevent/fsevent.rb:43:in `run'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/backends/rbfsevent.rb:20:in `run'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/monitor.rb:26:in `run'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm.rb:70:in `monitor'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/commands/watch_project.rb:87:in `perform'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/commands/base.rb:18:in `execute'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/commands/project_base.rb:19:in `execute'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/exec/sub_command_ui.rb:43:in `perform!'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/exec/sub_command_ui.rb:15:in `run!'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/bin/compass:30:in `block in <top (required)>'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/bin/compass:44:in `call'
+/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/bin/compass:44:in `<top (required)>'
+/usr/local/Cellar/ruby/1.9.3-p194/bin/compass:23:in `load'
+/usr/local/Cellar/ruby/1.9.3-p194/bin/compass:23:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Syntax error: Invalid CSS after \"$tablet-line\": expected selector or at-rule, was \": 100%;\"\A         on line 20 of /Users/alex/Dropbox/projects/modtext/modphil_git/sass/modernphilosophy.scss"; }
