@@ -1,7 +1,7 @@
 /*  Stylesheet for _Modern Philosophy_ */
 /*  modernphilosophy.scss */
 /**/
-/*  this stylesheet was created with SASS
+/*  this stylesheet was made with SASS
 /*  the original .scss file is available at
 /*  http://uweb.ucsb.edu/~adunn/modernphilosophy/sass/modernphilosophy.scss /*
 /**/
@@ -24,6 +24,77 @@ $tablet-line: 100%;
 $phone-width: 700px;
 $phone-text: 200%;
 $phone-line: 100%;
+//
+// mixin to adjust widths relative to media
+@mixin query-width($width-mod: 0px) {
+    width: $base-width - $width-mod;
+    @if ($tablet-width - $width-mod) != $base-width {
+      @media screen and (max-device-width: 800px) {
+        width: $tablet-width - $width-mod;
+        }
+    }  
+    @if ($phone-width - $width-mod) != $base-width {
+      @media screen and (max-device-width: 350px) {
+        width: $phone-width - $width-mod;
+	}
+    }
+    @if (500px - $width-mod) != ($base-width - $width-mod) {
+      @media screen and (max-width: 700px) {
+        width: 500px - $width-mod;
+	}
+    }	  
+    @if (400px - $width-mod) != ($base-width - $width-mod) {
+      @media screen and (max-width: 525px) {
+        width: 400px - $width-mod;
+	}
+    }
+}
+@mixin query-text($text-mod: 1.25) {
+    font-size: $text-mod * $base-text;
+    @if ($text-mod * $tablet-text) != ($text-mod * $base-text) {  
+      @media screen and (max-device-width: 800px) {
+        font-size: $text-mod * $tablet-text;
+	}
+    }
+    @if ($text-mod * $phone-text) != ($text-mod * $base-text) {
+      @media screen and (max-device-width: 350px) {
+        font-size: $text-mod * $phone-text;
+	}
+    }
+    // @if ($text-mod * $base-text) != $base-text {
+    //   @media screen and (max-width: 700px) {
+    //     font-size: $text-mod * $base-text;
+    // 	}
+    // }
+    // @if ($text-mod * $base-text) != $base-text {
+    //   @media screen and (max-width: 525px) {
+    //     font-size: $text-mod * $base-text;
+    // 	}
+    // }*/
+}
+@mixin query-line($line-mod: 1) {
+    line-height: $line-mod * $base-line;
+    @if ($line-mod * $tablet-line) != ($line-mod * $base-line) {
+      @media screen and (max-device-width: 800px) {
+        line-height: $line-mod * $tablet-line;
+	}
+    }
+    @if ($line-mod * $phone-line) != ($line-mod * $base-line) {
+      @media screen and (max-device-width: 350px) {
+        line-height: $line-mod * $phone-line;
+	}
+    }
+//    @if ($line-mod * $base-line) != $base-line {
+//      @media screen and (max-width: 700px) {
+//        line-height: $line-mod * $base-line;
+//	}
+//    }
+//    @if ($line-mod * $base-line) != $base-line {
+//      @media screen and (max-width: 525px) {
+//        line-height: $line-mod * $base-line;
+//	}
+//    }
+}
 //
 /**/
 /* ============= */
@@ -54,52 +125,6 @@ $phone-line: 100%;
 /* made too thin, the width of the content is not set in the body.
 /* but `text-align: center` ensures that other elements that have a
 /* `width` specified will be centered in the viewport. */
-// mixin to adjust widths relative to media
-@mixin query-width($width-mod: 0px) {
-    width: $base-width - $width-mod;
-    @media screen and (max-device-width: 800px) {
-      width: $tablet-width - $width-mod;
-	}
-    @media screen and (max-device-width: 350px) {
-      width: $phone-width - $width-mod;
-	}
-    @media screen and (max-width: 700px) {
-      width: 500px - $width-mod;
-	}
-    @media screen and (max-width: 525px) {
-      width: 400px - $width-mod;
-	}
-}
-@mixin query-text($text-mod: 1.25) {
-    font-size: $text-mod * $base-text;
-    @media screen and (max-device-width: 800px) {
-      font-size: $text-mod * $tablet-text;
-	}
-    @media screen and (max-device-width: 350px) {
-      font-size: $text-mod * $phone-text;
-	}
-    @media screen and (max-width: 700px) {
-      font-size: $text-mod * $base-text;
-	}
-    @media screen and (max-width: 525px) {
-      font-size: $text-mod * $base-text;
-	}
-}
-@mixin query-line($line-mod: 1) {
-    line-height: $line-mod * $base-line;
-    @media screen and (max-device-width: 800px) {
-      line-height: $line-mod * $tablet-line;
-	}
-    @media screen and (max-device-width: 350px) {
-      line-height: $line-mod * $phone-line;
-	}
-    @media screen and (max-width: 700px) {
-      line-height: $line-mod * $base-line;
-	}
-    @media screen and (max-width: 525px) {
-      line-height: $line-mod * $base-line;
-	}
-}
 body {
   margin: 4em auto;
   text-align: center;
@@ -208,9 +233,6 @@ dd {
 table {
   margin: 1em auto auto auto;
   width: $base-width / 1.5;
-    @media screen and (max-device-width: 800px) {
-       width: $tablet-width / 1.5;
-	      }
     td {
       padding: .5em 1em .5em 0;
 	}
