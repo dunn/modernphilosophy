@@ -1,58 +1,576 @@
+/*  Stylesheet for _Modern Philosophy_ */
+/*  modernphilosophy.scss */
+/**/
+/*  this stylesheet was produced with SASS
+/*  the original .scss file is available at
+/*  http://uweb.ucsb.edu/~adunn/modernphilosophy.scss /*
+/**/
+/*  This stylesheet may be used for any purpose whatever. */
+/**/
+/* ============= */
+/* NORMALIZATION */
+/* ============= */
+/**/
+/* this imported stylesheet ensures that everything is rendered
+/* consistently across browsers. */
+/* normalize.css 2012-03-11T12:53 UTC - http://github.com/necolas/normalize.css */
+/* =============================================================================
+   HTML5 display definitions
+   ========================================================================== */
 /*
-Syntax error: Invalid CSS after "$tablet-line": expected selector or at-rule, was ": 100%;"
-        on line 20 of /Users/alex/Dropbox/projects/modtext/modphil_git/sass/modernphilosophy.scss
+ * Corrects block display not defined in IE6/7/8/9 & FF3
+ */
+/* line 21, ../sass/_normalize.scss */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+  display: block;
+}
 
-Backtrace:
-/Users/alex/Dropbox/projects/modtext/modphil_git/sass/modernphilosophy.scss:20
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:1010:in `expected'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:956:in `expected'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:28:in `parse'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/engine.rb:327:in `_to_tree'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/engine.rb:300:in `_render'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/engine.rb:247:in `render'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:140:in `block (2 levels) in compile'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:139:in `block in compile'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/logger.rb:45:in `red'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:138:in `compile'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:118:in `compile_if_required'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:103:in `block (2 levels) in run'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:101:in `each'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:101:in `block in run'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/compiler.rb:100:in `run'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/commands/watch_project.rb:147:in `recompile'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/path.rb:73:in `call'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/path.rb:73:in `run_callback'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/path.rb:55:in `callback_action'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/path.rb:31:in `create'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/state/directory.rb:26:in `block in created'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/state/directory.rb:25:in `each'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/state/directory.rb:25:in `created'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/state/directory.rb:17:in `refresh'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/backends/rbfsevent.rb:30:in `block in temporary_multipath_handler'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/backends/rbfsevent.rb:27:in `each'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/backends/rbfsevent.rb:27:in `temporary_multipath_handler'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/backends/rbfsevent.rb:17:in `block (2 levels) in run'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/backends/rbfsevent.rb:16:in `each'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/backends/rbfsevent.rb:16:in `block in run'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.1/lib/rb-fsevent/fsevent.rb:43:in `call'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/rb-fsevent-0.9.1/lib/rb-fsevent/fsevent.rb:43:in `run'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/backends/rbfsevent.rb:20:in `run'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm/monitor.rb:26:in `run'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/fssm-0.2.9/lib/fssm.rb:70:in `monitor'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/commands/watch_project.rb:87:in `perform'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/commands/base.rb:18:in `execute'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/commands/project_base.rb:19:in `execute'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/exec/sub_command_ui.rb:43:in `perform!'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/lib/compass/exec/sub_command_ui.rb:15:in `run!'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/bin/compass:30:in `block in <top (required)>'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/bin/compass:44:in `call'
-/usr/local/Cellar/ruby/1.9.3-p194/lib/ruby/gems/1.9.1/gems/compass-0.12.2/bin/compass:44:in `<top (required)>'
-/usr/local/Cellar/ruby/1.9.3-p194/bin/compass:23:in `load'
-/usr/local/Cellar/ruby/1.9.3-p194/bin/compass:23:in `<main>'
+/*
+ * Addresses styling for 'hidden' attribute not present in IE7/8/9, FF3, S4
+ * Known issue: no IE6 support
+ */
+/* line 30, ../sass/_normalize.scss */
+[hidden] {
+  display: none;
+}
+
+/* =============================================================================
+   Base
+   ========================================================================== */
+/*
+ * 1. Corrects text resizing oddly in IE6/7 when body font-size is set using em units
+ *    http://clagnut.com/blog/348/#c790
+ * 2. Prevents iOS text size adjust after orientation change, without disabling user zoom
+ *    www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/
+ */
+/* line 46, ../sass/_normalize.scss */
+html {
+  font-size: 100%;
+  /* 1 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+}
+
+/*
+ * Addresses font-family inconsistency between 'textarea' and other form elements.
+ */
+/* line 60, ../sass/_normalize.scss */
+html,
+button,
+input,
+select,
+textarea {
+  font-family: sans-serif;
+}
+
+/*
+ * Addresses margins handled incorrectly in IE6/7
+ */
+/* line 68, ../sass/_normalize.scss */
+body {
+  margin: 0;
+}
+
+/* =============================================================================
+   Links
+   ========================================================================== */
+/*
+ * Addresses outline displayed oddly in Chrome
+ */
+/* line 81, ../sass/_normalize.scss */
+a:focus {
+  outline: thin dotted;
+}
+
+/*
+ * Improves readability when focused and also mouse hovered in all browsers
+ * people.opera.com/patrickl/experiments/keyboard/test
+ */
+/* line 91, ../sass/_normalize.scss */
+a:hover,
+a:active {
+  outline: 0;
+}
+
+/* =============================================================================
+   Typography
+   ========================================================================== */
+/*
+ * Addresses font sizes and margins set differently in IE6/7
+ * Addresses font sizes within 'section' and 'article' in FF4+, Chrome, S5
+ */
+/* line 105, ../sass/_normalize.scss */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+/* line 110, ../sass/_normalize.scss */
+h2 {
+  font-size: 1.5em;
+  margin: 0.83em 0;
+}
+
+/* line 115, ../sass/_normalize.scss */
+h3 {
+  font-size: 1.17em;
+  margin: 1em 0;
+}
+
+/* line 120, ../sass/_normalize.scss */
+h4 {
+  font-size: 1em;
+  margin: 1.33em 0;
+}
+
+/* line 125, ../sass/_normalize.scss */
+h5 {
+  font-size: 0.83em;
+  margin: 1.67em 0;
+}
+
+/* line 130, ../sass/_normalize.scss */
+h6 {
+  font-size: 0.75em;
+  margin: 2.33em 0;
+}
+
+/*
+ * Addresses styling not present in IE7/8/9, S5, Chrome
+ */
+/* line 139, ../sass/_normalize.scss */
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+/*
+ * Addresses style set to 'bolder' in FF3+, S4/5, Chrome
 */
-body:before {
+/* line 148, ../sass/_normalize.scss */
+b,
+strong {
+  font-weight: bold;
+}
+
+/* line 152, ../sass/_normalize.scss */
+blockquote {
+  margin: 1em 40px;
+}
+
+/*
+ * Addresses styling not present in S5, Chrome
+ */
+/* line 160, ../sass/_normalize.scss */
+dfn {
+  font-style: italic;
+}
+
+/*
+ * Addresses styling not present in IE6/7/8/9
+ */
+/* line 168, ../sass/_normalize.scss */
+mark {
+  background: #ff0;
+  color: #000;
+}
+
+/*
+ * Addresses margins set differently in IE6/7
+ */
+/* line 178, ../sass/_normalize.scss */
+p,
+pre {
+  margin: 1em 0;
+}
+
+/*
+ * Corrects font family set oddly in IE6, S4/5, Chrome
+ * en.wikipedia.org/wiki/User:Davidgothberg/Test59
+ */
+/* line 190, ../sass/_normalize.scss */
+pre,
+code,
+kbd,
+samp {
+  font-family: monospace, serif;
+  _font-family: 'courier new', monospace;
+  font-size: 1em;
+}
+
+/*
+ * Improves readability of pre-formatted text in all browsers
+ */
+/* line 200, ../sass/_normalize.scss */
+pre {
   white-space: pre;
-  font-family: monospace;
-  content: "Syntax error: Invalid CSS after \"$tablet-line\": expected selector or at-rule, was \": 100%;\"\A         on line 20 of /Users/alex/Dropbox/projects/modtext/modphil_git/sass/modernphilosophy.scss"; }
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+/* ==========
+/* The quote styles don't work with pandoc's --smart mode */
+/* ========== */
+/*
+ * 1. Addresses CSS quotes not supported in IE6/7
+ * 2. Addresses quote property not supported in S4
+ */
+/* 1 */
+/* q {
+/*     quotes: none;
+/* }*/
+/* 2 */
+/* q:before,
+/* q:after {
+/*     content: '';
+/*     content: none;
+/* }*/
+/* line 229, ../sass/_normalize.scss */
+small {
+  font-size: 75%;
+}
+
+/*
+ * Prevents sub and sup affecting line-height in all browsers
+ * gist.github.com/413930
+ */
+/* line 239, ../sass/_normalize.scss */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+/* line 246, ../sass/_normalize.scss */
+sup {
+  top: -0.5em;
+}
+
+/* line 250, ../sass/_normalize.scss */
+sub {
+  bottom: -0.25em;
+}
+
+/* =============================================================================
+   Lists
+   ========================================================================== */
+/*
+ * Addresses margins set differently in IE6/7
+ */
+/* line 266, ../sass/_normalize.scss */
+dl,
+menu,
+ol,
+ul {
+  margin: 1em 0;
+}
+
+/* line 270, ../sass/_normalize.scss */
+dd {
+  margin: 0 0 0 40px;
+}
+
+/*
+ * Addresses paddings set differently in IE6/7
+ */
+/* line 280, ../sass/_normalize.scss */
+menu,
+ol,
+ul {
+  padding: 0 0 0 40px;
+}
+
+/*
+ * Corrects list images handled incorrectly in IE7
+ */
+/* line 289, ../sass/_normalize.scss */
+nav ul,
+nav ol {
+  list-style: none;
+  list-style-image: none;
+}
+
+/* =============================================================================
+   Tables
+   ========================================================================== */
+/*
+ * Remove most spacing between table cells
+ */
+/* line 303, ../sass/_normalize.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* ============= */
+/* END NORMALIZE */
+/* ============= */
+/**/
+/************************/
+/************************/
+/**/
+/* ============== */
+/* GLOBAL  STYLES */
+/* ============== */
+/**/
+/* these are the stylings for _Modern Philosophy_ HTML version.  this
+/* stylesheet can be used for other HTML documents produced by pandoc,
+/* but some of the stylings (the table elements) are designed
+/* specifically for this HTML document. */
+/**/
+/* so that the table of contents (and other wide elements) are not
+/* made too thin, the width of the content is not set in the body.
+/* but `text-align: center` ensures that other elements that have a
+/* `width` specified will be centered in the viewport. */
+/* line 57, ../sass/modernphilosophy.scss */
+body {
+  width: 600px;
+  font-size: 115%;
+  line-height: 100%;
+  margin: 4em auto;
+  text-align: center;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+@media screen and (max-device-width: 800px) {
+  /* line 57, ../sass/modernphilosophy.scss */
+  body {
+    width: 600px;
+    font-size: 150%;
+    line-height: 100%;
+  }
+}
+
+/* line 72, ../sass/modernphilosophy.scss */
+h1 {
+  margin: 1.25em auto .5em auto;
+  line-height: 100%;
+}
+@media screen and (max-device-width: 800px) {
+  /* line 72, ../sass/modernphilosophy.scss */
+  h1 {
+    line-height: 100%;
+  }
+}
+
+/* line 80, ../sass/modernphilosophy.scss */
+h2 {
+  margin: 1.25em auto .5em auto;
+  line-height: 150%;
+}
+@media screen and (max-device-width: 800px) {
+  /* line 80, ../sass/modernphilosophy.scss */
+  h2 {
+    line-height: 150%;
+  }
+}
+
+/* line 88, ../sass/modernphilosophy.scss */
+h3 {
+  margin: 1.25em auto .5em auto;
+  line-height: 150%;
+}
+@media screen and (max-device-width: 800px) {
+  /* line 88, ../sass/modernphilosophy.scss */
+  h3 {
+    line-height: 150%;
+  }
+}
+
+/* line 96, ../sass/modernphilosophy.scss */
+h4 {
+  margin: 1.25em auto .5em auto;
+  line-height: 150%;
+}
+@media screen and (max-device-width: 800px) {
+  /* line 96, ../sass/modernphilosophy.scss */
+  h4 {
+    line-height: 150%;
+  }
+}
+
+/* line 104, ../sass/modernphilosophy.scss */
+h5 {
+  margin: 1.25em auto .5em auto;
+  font-size: 115%;
+  line-height: 150%;
+}
+@media screen and (max-device-width: 800px) {
+  /* line 104, ../sass/modernphilosophy.scss */
+  h5 {
+    font-size: 150%;
+    line-height: 150%;
+  }
+}
+
+/* line 114, ../sass/modernphilosophy.scss */
+p {
+  text-align: justify;
+  margin: auto;
+  line-height: 125%;
+}
+@media screen and (max-device-width: 800px) {
+  /* line 114, ../sass/modernphilosophy.scss */
+  p {
+    line-height: 125%;
+  }
+}
+
+/* the styling for `p + p` ensures that there is space between any two
+/* paragraphs */
+/* line 126, ../sass/modernphilosophy.scss */
+p + p {
+  margin-top: 1em;
+}
+
+/* line 131, ../sass/modernphilosophy.scss */
+blockquote p + p {
+  margin-top: 1em;
+}
+
+/* ===== */
+/* LISTS */
+/* ===== */
+/**/
+/* this set of stylings feels very blunt; the numbers are inexact and
+/* I suspect there is a more elegant way of doing all this. */
+/* line 146, ../sass/modernphilosophy.scss */
+ol,
+ul,
+dt,
+dl {
+  text-align: left;
+  margin: .75em auto;
+  line-height: 125%;
+}
+@media screen and (max-device-width: 800px) {
+  /* line 146, ../sass/modernphilosophy.scss */
+  ol,
+  ul,
+  dt,
+  dl {
+    line-height: 125%;
+  }
+}
+/* line 154, ../sass/modernphilosophy.scss */
+ol li,
+ol li p,
+ul li,
+ul li p,
+dt li,
+dt li p,
+dl li,
+dl li p {
+  margin: 1em 10px auto auto;
+}
+@media screen and (max-device-width: 800px) {
+  /* line 154, ../sass/modernphilosophy.scss */
+  ol li,
+  ol li p,
+  ul li,
+  ul li p,
+  dt li,
+  dt li p,
+  dl li,
+  dl li p {
+    margin: 1em 10px auto auto;
+  }
+}
+
+/* line 162, ../sass/modernphilosophy.scss */
+dd {
+  text-align: justify;
+}
+/* line 164, ../sass/modernphilosophy.scss */
+dd p + p {
+  margin-top: 1em;
+}
+/* line 167, ../sass/modernphilosophy.scss */
+dd li {
+  margin-left: 60px;
+}
+@media screen and (max-device-width: 800px) {
+  /* line 167, ../sass/modernphilosophy.scss */
+  dd li {
+    margin-left: 60px;
+  }
+}
+
+/**/
+/* ====== */
+/* TABLES */
+/* ====== */
+/**/
+/* the tables produced by pandoc are difficult to style because the
+/* `td` elements have inline styling.  depending on how the pandoc
+/* tables are produced, the `td` elements will have `text-align:
+/* right`, `left`, or `center`.  it's therefore up to the creator of
+/* the markdown file to correctly align their table elements.  the
+/* following styling is specifically designed to style Kant's table of
+/* thesis and antitheses */
+/**/
+/* `margin: auto` and a width specification brings the table into the
+/* center of the viewport. the `td` is for Kant's tables. */
+/* line 189, ../sass/modernphilosophy.scss */
+table {
+  margin: 1em auto auto auto;
+  width: 400px;
+}
+@media screen and (max-device-width: 800px) {
+  /* line 189, ../sass/modernphilosophy.scss */
+  table {
+    width: 400px;
+  }
+}
+/* line 195, ../sass/modernphilosophy.scss */
+table td {
+  padding: .5em 1em .5em 0;
+}
+
+/**/
+/* ============ */
+/* CLASS AND ID */
+/* ============ */
+/**/
+/* these are stylings specific to different IDs and classes.  these
+/* classes are used by all HTML documents made with pandoc. */
+/* line 207, ../sass/modernphilosophy.scss */
+.title {
+  margin-bottom: .375em;
+}
+
+/* line 216, ../sass/modernphilosophy.scss */
+.author,
+.date {
+  line-height: 150%;
+}
+@media screen and (max-device-width: 800px) {
+  /* line 216, ../sass/modernphilosophy.scss */
+  .author,
+  .date {
+    line-height: 150%;
+  }
+}
+
+/* line 226, ../sass/modernphilosophy.scss */
+nav,
+#TOC,
+#TOC nav,
+#TOC li {
+  text-align: left;
+  margin: auto;
+  list-style-type: disc;
+}

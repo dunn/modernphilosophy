@@ -10,20 +10,21 @@
 // ==============
 // SASS VARIABLES
 // ==============
-
 $base-width: 600px;
 $base-text: 115%;
 $base-line: 100%;
 //
+//
+//$tablet-max-size: 800px;
 $tablet-width: 600px;
-$tablet-text: 150%
+$tablet-text: 150%;
 $tablet-line: 100%;
 //
+//$phone-max-size: 350px;
 $phone-width: 700px;
 $phone-text: 200%;
 $phone-line: 100%;
 //
-
 /**/
 /* ============= */
 /* NORMALIZATION */
@@ -53,50 +54,70 @@ $phone-line: 100%;
 /* made too thin, the width of the content is not set in the body.
 /* but `text-align: center` ensures that other elements that have a
 /* `width` specified will be centered in the viewport. */
-
-@mixin all($base-width, $base-line, $base-text){
-// this mixin sets everything
-// yes I know this is probably bad practice
 body {
   width: $base-width;
+  font-size: $base-text;
+  line-height: $base-line;
+    @media screen and (max-device-width: 800px) {
+      width: $tablet-width;
+      font-size: $tablet-text;
+      line-height: $tablet-line;
+	}
   margin: 4em auto;
   text-align: center;
-  font-size: $base-text;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  line-height: $base-line;
 }
 
 h1 {
     margin: 1.25em auto .5em auto;
     line-height: $base-line;
+    @media screen and (max-device-width: 800px) {
+      line-height: $tablet-line;
+	}
 }
 
 h2 {
     margin: 1.25em auto .5em auto;
     line-height: 1.5 * $base-line;
+    @media screen and (max-device-width: 800px) {
+      line-height: 1.5 * $tablet-line;
+	}
 }
 
 h3 {
     margin: 1.25em auto .5em auto;
     line-height: 1.5 * $base-line; 
+    @media screen and (max-device-width: 800px) {
+      line-height: 1.5 * $tablet-line;
+	}
 }
 
 h4 {
     margin: 1.25em auto .5em auto;
     line-height: 1.5 * $base-line;
+    @media screen and (max-device-width: 800px) {
+      line-height: 1.5 * $tablet-line;
+	}
 }
 
 h5 {
   margin: 1.25em auto .5em auto;
   font-size: $base-text;
   line-height: 1.5 * $base-line;
+    @media screen and (max-device-width: 800px) {
+      font-size: $tablet-text;
+      line-height: 1.5 * $tablet-line;
+	}
 }
 
 p {
     text-align: justify;
     margin: auto;
     line-height: 1.25 * $base-line;
+    @media screen and (max-device-width: 800px) {
+      line-height: 1.25 * $tablet-line;
+	}
 }
 
 /* the styling for `p + p` ensures that there is space between any two
@@ -126,9 +147,15 @@ dl {
   text-align: left;
   margin: .75em auto;
   line-height: 1.25 * $base-line;
+    @media screen and (max-device-width: 800px) {
+      line-height: 1.25 * $tablet-line;
+	}
     li,
     li p {
         margin: 1em ($base-width / 60) auto auto;
+          @media screen and (max-device-width: 800px) {
+             margin: 1em ($tablet-width / 60) auto auto;
+	      }
 	}
 }
 
@@ -139,6 +166,9 @@ dd {
 	}
     li {
       margin-left: ($base-width / 10);
+          @media screen and (max-device-width: 800px) {
+             margin-left: ($tablet-width / 10);
+	      }
 	}
 }
 /**/
@@ -159,6 +189,9 @@ dd {
 table {
   margin: 1em auto auto auto;
   width: $base-width / 1.5;
+    @media screen and (max-device-width: 800px) {
+       width: $tablet-width / 1.5;
+	      }
     td {
       padding: .5em 1em .5em 0;
 	}
@@ -172,13 +205,19 @@ table {
 /* these are stylings specific to different IDs and classes.  these
 /* classes are used by all HTML documents made with pandoc. */
 .title {
-    line-height: $base-line;
+//    line-height: $base-line;
+//      @media screen and (max-device-width: 800px) {
+//         line-height: $tablet-width;
+//         }
     margin-bottom: .375em;
 }
 
 .author,
 .date {
     line-height: 1.5 * $base-line;
+      @media screen and (max-device-width: 800px) {
+         line-height: 1.5 * $tablet-line;
+         }
 }
 
 nav,
@@ -189,24 +228,3 @@ nav,
   margin: auto;
   list-style-type: disc;
 }
-// end mixin
-}
-/**/
-/**/
-@include all($base-width, $base-line, $base-text);
-
-/**/
-/* ============= */
-/* MEDIA QUERIES */
-/* ============= */
-/**/
-/* these stylings apply only when the viewing media meets certain
-/* conditions */
-
-/* @media screen and (max-device-width: 770px) {
-/*   @include all(600px, $base-line, 150%);
-/* }
-
-/* @media screen and (min-width: 1300px) {
-/*   @include all(700px, $base-line, $base-text);
-/* }*/
