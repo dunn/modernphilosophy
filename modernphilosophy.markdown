@@ -10,7 +10,7 @@ Only excerpts of the major works are included. Descartes's _Meditations_, Hume's
 
 The introductory chapter, ([Minilogic and Glossary](#minilogic-and-glossary)), is designed to introduce the basic tools of philosophy and sketch some basic principles and positions.
 
-## Acknowledgements
+## Authors and Acknowledgements
 
 _Modern Philosophy_ was created by [Walter Ott](https://filebox.vt.edu/users/ottw/ott.htm).  Other contributors include Antonia LoLordo and Lydia Patton.
 
