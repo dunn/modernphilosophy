@@ -15,9 +15,26 @@ Several conversions of the Markdown text are available online.  However, they ma
   hosted on my personal website.
   - Although the HTML version is perfectly readable without styling,
     pandoc allows a CSS file to be linked to the HTML output.  When
-    running pandoc, use the `-c` option: `pandoc -c path/to/file.css`.
+    running pandoc, use the `-c` option: `-c path/to/file.css`.
 
 - The [EPUB version](http://uweb.ucsb.edu/~adunn/modernphilosophy.epub) is available for download.
+
+## Convert it
+
+Because this version of _Modern Philosophy_ uses the pandoc extensions
+to Markdown, you'll need to
+[install pandoc](http://johnmacfarlane.net/pandoc/installing.html) in
+order to convert modernphilosophy.markdown to other formats.  Once
+pandoc is installed, it can be run from the command-line.
+
+For example, `pandoc -f markdown -t html5 --standalone --smart --toc
+-o modernphilosophy.html modernphilosophy.markdown` will convert
+modernphilosophy.markdown to a valid HTML5 file (with a table of
+contents and smart quotation marks) named "modernphilosophy.html".
+
+See the
+[pandoc user's guide](http://johnmacfarlane.net/pandoc/README.html)
+for more information.
 
 ## Remaining issues
 

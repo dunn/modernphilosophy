@@ -1,23 +1,25 @@
 % _Modern Philosophy_: A Workbook with Source Material
-% Walter Ott
-% 7 July 2012
+% 
+% 9 July 2012
 
 # Preface
 
 This book combines readings from primary sources with two pedagogical tools. Paragraphs in italics introduce figures and texts, or draw connections among the readings. Numbered study questions sometimes ask you to reconstruct an argument from the text, using numbered premises. Some of the premises or the conclusion are usually given. You might need more or fewer lines to state the argument; you might also choose to start your reconstruction with different premises than those provided.
 
-Only excerpts of the major works are included. I have cut relatively little from Descartes's _Meditations_, Hume's _Enquiry_ and Kant's _Prolegomena_. Throughout I have, without notice, made minor stylistic changes to the originals. This is particularly true of paragraph breaks. I have added an introductory chapter ([Minilogic and Glossary](#minilogic-and-glossary)), designed to introduce the basic tools of philosophy and sketch some basic principles and positions.
+Only excerpts of the major works are included. Descartes's _Meditations_, Hume's _Enquiry_ and Kant's _Prolegomena_ are largely unabridged.  Minor stylistic changes have been made to the original texts; in particular, many more paragraph breaks have been added.
 
-I am indebted to Antonia LoLordo and Lydia Patton for helpful comments and suggestions.
+The introductory chapter, ([Minilogic and Glossary](#minilogic-and-glossary)), is designed to introduce the basic tools of philosophy and sketch some basic principles and positions.
 
-This is a work in progress. I welcome suggestions for improvements---cuts, additions, typos, etc. Send them to me at <ottw@vt.edu>.
+## Acknowledgements
+
+_Modern Philosophy_ was created by [Walter Ott](https://filebox.vt.edu/users/ottw/ott.htm).  Other contributors include Antonia LoLordo and Lydia Patton.
+
+The creation of _Modern Philosophy_ was made possible by the [Virginia Tech Philosophy Department](http://www.phil.vt.edu/) and a Virginia Tech [CIDER](http://www.cider.vt.edu/) grant.
 
 This modified version of the text was written in [Markdown](http://daringfireball.net/projects/markdown/) (with [pandoc-exclusive extensions](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown)) by [Alexander Dunn](http://uweb.ucsb.edu/~adunn). Using the free utility [pandoc](http://johnmacfarlane.net/pandoc/), this version can be easily converted to HTML, PDF, EPUB, and [many other formats](http://johnmacfarlane.net/pandoc/README.html#options).  This version is hosted on [GitHub](https://github.com/grumble/modernphilosophy); please copy and edit it, and feel free to submit your changes to the public repository.
 
-_(Made possible by the [Virginia Tech Philosophy Department](http://www.phil.vt.edu/) and a Virginia Tech [CIDER](http://www.cider.vt.edu/) grant.)_
-
 ## Sources
-Unless otherwise noted, all texts are in the public domain. If you know otherwise, please email me (<ottw@vt.edu>). All other material is the author's and is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+Unless otherwise noted, all texts are in the public domain.  All other material is the author's and is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 1. Background
 
