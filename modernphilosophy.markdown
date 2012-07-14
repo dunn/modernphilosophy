@@ -1,6 +1,6 @@
 % _Modern Philosophy_: A Workbook with Source Material
 % 
-% 13 July 2012
+% 9 July 2012
 
 # Preface
 
