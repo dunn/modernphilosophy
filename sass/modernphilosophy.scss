@@ -10,7 +10,7 @@
 // ==============
 // SASS VARIABLES
 // ==============
-$base-width: 600px;
+$base-width: 800px;
 $base-text: 115%;
 $base-line: 100%;
 //
@@ -38,14 +38,14 @@ $phone-line: 100%;
         width: $phone-width - $width-mod;
 	}
     }
-    @if (500px - $width-mod) != ($base-width - $width-mod) {
-      @media screen and (max-width: 700px) {
-        width: 500px - $width-mod;
+    @if (600px - $width-mod) != ($base-width - $width-mod) {
+      @media screen and (max-width: 850px) {
+        width: 600px - $width-mod;
 	}
     }	  
-    @if (400px - $width-mod) != ($base-width - $width-mod) {
-      @media screen and (max-width: 525px) {
-        width: 400px - $width-mod;
+    @if (500px - $width-mod) != ($base-width - $width-mod) {
+      @media screen and (max-width: 625px) {
+        width: 500px - $width-mod;
 	}
     }
 }
@@ -124,7 +124,7 @@ $phone-line: 100%;
 /* so that the table of contents (and other wide elements) are not
 /* made too thin, the width of the content is not set in the body.
 /* but `text-align: center` ensures that other elements that have a
-/* `width` specified will be centered in the viewport. */
+/* `width` specified will be centered on the page. */
 body {
   margin: 4em auto;
   text-align: center;
@@ -164,7 +164,7 @@ h5 {
 p {
     text-align: justify;
     margin: auto;
-    @include query-line(1.25);     
+    @include query-line(1.35);     
 }
 
 /* the styling for `p + p` ensures that there is space between any two
@@ -191,7 +191,7 @@ ol,
 ul,
 dt,
 dl {
-  text-align: left;
+  text-align: justify;
   margin: .75em auto;
   @include query-line(1.25);
     li,
@@ -203,17 +203,17 @@ dl {
 	}
 }
 
-dd {
-  text-align: justify;
-    p + p {
-      margin-top: 1em;
-	}
-    li {
-      margin-left: ($base-width / 10);
-          @media screen and (max-device-width: 800px) {
-             margin-left: ($tablet-width / 10);
-	      }
-	}
+  dd {
+    text-align: justify;
+      p + p {
+       margin-top: 1em;
+ 	}
+     li {
+       margin-left: ($base-width / 10);
+           @media screen and (max-device-width: 800px) {
+              margin-left: ($tablet-width / 10);
+ 	      }
+ 	}
 }
 /**/
 /* ====== */
@@ -246,10 +246,6 @@ table {
 /* these are stylings specific to different IDs and classes.  these
 /* classes are used by all HTML documents made with pandoc. */
 .title {
-//    line-height: $base-line;
-//      @media screen and (max-device-width: 800px) {
-//         line-height: $tablet-width;
-//         }
     margin-bottom: .375em;
 }
 
@@ -258,11 +254,17 @@ table {
     @include query-line(1.5);     
 }
 
-nav,
-#TOC,
-#TOC nav,
-#TOC li {
-  text-align: left;
-  margin: auto;
-  list-style-type: disc;
+nav {
+@media screen and (min-width: 850px) {
+  float: left;
+  width: $base-width / 2;
+    }
+  margin: auto 1em 1em auto;
+    li {
+      text-align: left;
+      margin: auto 1em auto auto;
+      list-style-type: disc;
+      }
 }
+
+

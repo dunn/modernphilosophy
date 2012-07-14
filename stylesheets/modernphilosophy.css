@@ -334,16 +334,22 @@ table {
 /* so that the table of contents (and other wide elements) are not
 /* made too thin, the width of the content is not set in the body.
 /* but `text-align: center` ensures that other elements that have a
-/* `width` specified will be centered in the viewport. */
+/* `width` specified will be centered on the page. */
 /* line 128, ../sass/modernphilosophy.scss */
 body {
   margin: 4em auto;
   text-align: center;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  width: 600px;
+  width: 800px;
   font-size: 115%;
   line-height: 100%;
+}
+@media screen and (max-device-width: 800px) {
+  /* line 128, ../sass/modernphilosophy.scss */
+  body {
+    width: 600px;
+  }
 }
 @media screen and (max-device-width: 350px) {
   /* line 128, ../sass/modernphilosophy.scss */
@@ -351,16 +357,16 @@ body {
     width: 700px;
   }
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 850px) {
+  /* line 128, ../sass/modernphilosophy.scss */
+  body {
+    width: 600px;
+  }
+}
+@media screen and (max-width: 625px) {
   /* line 128, ../sass/modernphilosophy.scss */
   body {
     width: 500px;
-  }
-}
-@media screen and (max-width: 525px) {
-  /* line 128, ../sass/modernphilosophy.scss */
-  body {
-    width: 400px;
   }
 }
 @media screen and (max-device-width: 800px) {
@@ -423,7 +429,7 @@ h5 {
 p {
   text-align: justify;
   margin: auto;
-  line-height: 125%;
+  line-height: 135%;
 }
 
 /* the styling for `p + p` ensures that there is space between any two
@@ -449,7 +455,7 @@ ol,
 ul,
 dt,
 dl {
-  text-align: left;
+  text-align: justify;
   margin: .75em auto;
   line-height: 125%;
 }
@@ -462,7 +468,7 @@ dt li,
 dt li p,
 dl li,
 dl li p {
-  margin: 1em 10px auto auto;
+  margin: 1em 13.333px auto auto;
 }
 @media screen and (max-device-width: 800px) {
   /* line 198, ../sass/modernphilosophy.scss */
@@ -488,7 +494,7 @@ dd p + p {
 }
 /* line 211, ../sass/modernphilosophy.scss */
 dd li {
-  margin-left: 60px;
+  margin-left: 80px;
 }
 @media screen and (max-device-width: 800px) {
   /* line 211, ../sass/modernphilosophy.scss */
@@ -515,7 +521,7 @@ dd li {
 /* line 233, ../sass/modernphilosophy.scss */
 table {
   margin: 1em auto auto auto;
-  width: 400px;
+  width: 533.333px;
 }
 /* line 236, ../sass/modernphilosophy.scss */
 table td {
@@ -534,18 +540,26 @@ table td {
   margin-bottom: .375em;
 }
 
-/* line 257, ../sass/modernphilosophy.scss */
+/* line 253, ../sass/modernphilosophy.scss */
 .author,
 .date {
   line-height: 150%;
 }
 
-/* line 264, ../sass/modernphilosophy.scss */
-nav,
-#TOC,
-#TOC nav,
-#TOC li {
+/* line 257, ../sass/modernphilosophy.scss */
+nav {
+  margin: auto 1em 1em auto;
+}
+@media screen and (min-width: 850px) {
+  /* line 257, ../sass/modernphilosophy.scss */
+  nav {
+    float: left;
+    width: 400px;
+  }
+}
+/* line 263, ../sass/modernphilosophy.scss */
+nav li {
   text-align: left;
-  margin: auto;
+  margin: auto 1em auto auto;
   list-style-type: disc;
 }
