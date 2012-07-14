@@ -126,6 +126,7 @@ $phone-line: 100%;
 /* but `text-align: center` ensures that other elements that have a
 /* `width` specified will be centered on the page. */
 body {
+  font-family: Georgia, Times, Helvetica;
   margin: 4em auto;
   text-align: center;
   -webkit-text-size-adjust: 100%;
@@ -203,16 +204,10 @@ dl {
 	}
 }
 
-  dd {
-    text-align: justify;
-      p + p {
-       margin-top: 1em;
- 	}
-     li {
-       margin-left: ($base-width / 10);
-           @media screen and (max-device-width: 800px) {
-              margin-left: ($tablet-width / 10);
- 	      }
+dd {
+  text-align: justify;
+    p + p {
+      margin-top: 1em;
  	}
 }
 /**/
@@ -256,7 +251,7 @@ table {
 
 nav {
 @media screen and (min-width: 850px) {
-  float: left;
+  float: right;
   width: $base-width / 2;
     }
   margin: auto 1em 1em auto;
