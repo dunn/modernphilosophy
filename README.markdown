@@ -25,12 +25,22 @@ Because this version of _Modern Philosophy_ uses the pandoc extensions
 to Markdown, you'll need to
 [install pandoc](http://johnmacfarlane.net/pandoc/installing.html) in
 order to convert modernphilosophy.markdown to other formats.  Once
-pandoc is installed, it can be run from the command-line.
+pandoc is installed, it can be run from the command line.
 
 For example, `pandoc -f markdown -t html5 --standalone --smart --toc
 -o modernphilosophy.html modernphilosophy.markdown` will convert
-modernphilosophy.markdown to a valid HTML5 file (with a table of
-contents and smart quotation marks) named "modernphilosophy.html".
+modernphilosophy.markdown to a valid, unformatted HTML5 file (with a table of
+contents and smart quotation marks).  The resulting file will be title
+"modernphilosophy.html"
+
+The following command produces a
+[more heavily formatted version](http://uweb.ucsb.edu/~adunn/modernphilosophy.html):
+`pandoc -f markdown -t html5 -c stylesheets/modernphilosophy.css
+--template=modernphilosophy.html5 -V datetime=$(date +%Y-%m-%d)
+--standalone --toc --smart -o modernphilosophy.html
+modernphilosophy.markdown`.  This requires the .css stylesheet
+(modernphilosophy.css) and .html5 template (modernphilosophy.html5);
+both are included in this project.
 
 See the
 [pandoc user's guide](http://johnmacfarlane.net/pandoc/README.html)
