@@ -45,7 +45,7 @@ $for(author)$
 <h2 class="author">$author$</h2>
 $endfor$
 $if(date)$
-<h3 class="date"><time datetime="$datetime$">$date$</time></h3>
+<h3 class="date">$if(datetime)$<time datetime="$datetime$">$date$</time>$else$$date$$endif$</h3>
 $endif$
 </hgroup>
 </header>
