@@ -13,87 +13,94 @@
 $base-width: 800px;
 $base-text: 115%;
 $base-line: 100%;
-//
-//
-//$tablet-max-size: 800px;
-$tablet-width: 600px;
-$tablet-text: 150%;
-$tablet-line: 100%;
-//
-//$phone-max-size: 350px;
-$phone-width: 700px;
-$phone-text: 200%;
-$phone-line: 100%;
-//
+
+$break1-width: 900px;
+$break2-width: 600px;
+
 // mixin to adjust widths relative to media
-@mixin query-width($width-mod: 0px) {
-    width: $base-width - $width-mod;
-    @if ($tablet-width - $width-mod) != $base-width {
-      @media screen and (max-device-width: 800px) {
-        width: $tablet-width - $width-mod;
-        }
-    }  
-    @if ($phone-width - $width-mod) != $base-width {
-      @media screen and (max-device-width: 350px) {
-        width: $phone-width - $width-mod;
-	}
+@mixin width($w-set, $w-break1, $w-break2) {
+  @if ($w-set != 0) {
+    width: $w-set;
+  }
+  @else {
+    width: auto;
+  }
+  @if ($w-break1 != 1) and ($w-break1 != $w-set) {
+    @if ($w-break1 == 0) {
+      @media screen and (max-width: $break1-width) {
+	width: auto;
+      }
     }
-    @if (600px - $width-mod) != ($base-width - $width-mod) {
-      @media screen and (max-width: 850px) {
-        width: 600px - $width-mod;
-	}
-    }	  
-    @if (500px - $width-mod) != ($base-width - $width-mod) {
-      @media screen and (max-width: 625px) {
-        width: 500px - $width-mod;
-	}
+    @else if ($w-break1 > 1) {
+      @media screen and (max-width: $break1-width) {
+	width: $w-break1;
+      }
     }
+    @else if ($w-break1 < 1) {
+      @media screen and (max-width: $break1-width) {
+	width: ($w-set) * $w-break1;
+      }
+    }
+    @else if ($w-break1 < 1) {
+      @media screen and (max-width: $break1-width) {
+	width: ($base-width) * $w-break1;
+      }
+    }
+  }
+  @if ($w-break2 != 1) and ($w-break2 != $w-set) {
+    @if ($w-break2 == 0) {
+      @media screen and (max-width: $break2-width) {
+	width: auto;
+      }
+    }
+    @else if ($w-break2 > 1) {
+      @media screen and (max-width: $break2-width) {
+	width: $w-break2;
+      }
+    }
+    @else if ($w-break2 < 1) {
+      @media screen and (max-width: $break2-width) {
+	width: ($w-set) * $w-break2;
+      }
+    }
+    @else if ($w-break2 < 1) {
+      @media screen and (max-width: $break2-width) {
+	width: ($base-width) * $w-break2;
+      }
+    }
+  }
 }
-@mixin query-text($text-mod: 1.25) {
-    font-size: $text-mod * $base-text;
-    @if ($text-mod * $tablet-text) != ($text-mod * $base-text) {  
-      @media screen and (max-device-width: 800px) {
-        font-size: $text-mod * $tablet-text;
-	}
+
+@mixin text($t-set, $t-break1, $t-break2) {
+  @if ($t-set != 0) and ($t-set != 1) {
+    font-size: $t-set * $base-text;
+  }
+  @if ($t-break1 != 0) and ($t-break1 != 1) and ( ($t-break1 * $base-text) != ($t-set * $base-text) ) {
+    @media screen and (max-width: $break1-width) {
+      font-size: $t-break1 * $base-text;
     }
-    @if ($text-mod * $phone-text) != ($text-mod * $base-text) {
-      @media screen and (max-device-width: 350px) {
-        font-size: $text-mod * $phone-text;
-	}
+  }
+  @if ($t-break2 != 0) and ($t-break2 != 1) and ( ($t-break2 * $base-text) != ($t-set * $base-text) ) {
+    @media screen and (max-width: $break2-width) {
+      font-size: $t-break2 * $base-text;
     }
-    // @if ($text-mod * $base-text) != $base-text {
-    //   @media screen and (max-width: 700px) {
-    //     font-size: $text-mod * $base-text;
-    // 	}
-    // }
-    // @if ($text-mod * $base-text) != $base-text {
-    //   @media screen and (max-width: 525px) {
-    //     font-size: $text-mod * $base-text;
-    // 	}
-    // }*/
+  }
 }
-@mixin query-line($line-mod: 1) {
-    line-height: $line-mod * $base-line;
-    @if ($line-mod * $tablet-line) != ($line-mod * $base-line) {
-      @media screen and (max-device-width: 800px) {
-        line-height: $line-mod * $tablet-line;
-	}
+
+@mixin line($l-set, $l-break1, $l-break2) {
+  @if ($l-set != 0) {
+    line-height: $l-set * $base-line;
+  }
+  @if ($l-break1 != 0) {
+    @media screen and (max-width: $break1-width) {
+      line-height: $l-break1 * $base-line;
     }
-    @if ($line-mod * $phone-line) != ($line-mod * $base-line) {
-      @media screen and (max-device-width: 350px) {
-        line-height: $line-mod * $phone-line;
-	}
+  }
+  @if ($l-break2 != 0) {
+    @media screen and (max-width: $break2-width) {
+      line-height: $l-break2 * $base-line;
     }
-//    @if ($line-mod * $base-line) != $base-line {
-//      @media screen and (max-width: 700px) {
-//        line-height: $line-mod * $base-line;
-//	}
-//    }
-//    @if ($line-mod * $base-line) != $base-line {
-//      @media screen and (max-width: 525px) {
-//        line-height: $line-mod * $base-line;
-//	}
-//    }
+  }
 }
 //
 /**/
@@ -103,14 +110,12 @@ $phone-line: 100%;
 /**/
 /* this imported stylesheet ensures that everything is rendered
 /* consistently across browsers. */
-
 @import "normalize";
+/**/
 /* ============= */
 /* END NORMALIZE */
 /* ============= */
 /**/
-/************************/
-/************************/
 /**/
 /* ============== */
 /* GLOBAL  STYLES */
@@ -126,59 +131,60 @@ $phone-line: 100%;
 /* but `text-align: center` ensures that other elements that have a
 /* `width` specified will be centered on the page. */
 body {
-  font-family: Georgia, Times, Helvetica;
+  font-family: Georgia, Times, serif;
   margin: 4em auto;
   text-align: center;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  @include query-width(0);
-  @include query-text(1);
-  @include query-line(1);
+  @include text(1, 1, .875);
+  @include line(1, 1, 1);
+  @include width(50em, 35em, 0);
+  @media screen and (max-width: $break2-width) {
+    padding: 0 2em;
+  }
 }
 
 h1 {
-    margin: 1.25em auto .5em auto;
-    @include query-line(1);     
+  margin: 1.25em auto .5em auto;
+  @include line(1, 1, 1);     
 }
 
 h2 {
-    margin: 1.25em auto .5em auto;
-    @include query-line(1.5);     
+  margin: 1.25em auto .5em auto;
+  @include line(1.5, 1.25, 1.25);     
 }
 
 h3 {
-    margin: 1.25em auto .5em auto;
-    @include query-line(1.5);     
+  margin: 1.25em auto .5em auto;
+  @include line(1.5, 1.5, 1.5);     
 }
 
 h4 {
-    margin: 1.25em auto .5em auto;
-    @include query-line(1.5);     
+  margin: 1.25em auto .5em auto;
+  @include line(1.5, 1.5, 1.5);     
 }
 
 h5 {
-    margin: 1.25em auto .5em auto;
-    @include query-line(1.5);     
-    @include query-text(1);
+  margin: 1.25em auto .5em auto;
+  @include text(1, 1, 1);
+  @include line(1.5, 1.5, 1.5);     
 }
 
 p {
-    text-align: justify;
-    margin: auto;
-    @include query-line(1.35);     
+  text-align: justify;
+  margin: auto;
+  @include line(1.35, 1.35, 1.35);     
 }
 
 /* the styling for `p + p` ensures that there is space between any two
 /* paragraphs */
 
 p + p {
-    margin-top: 1em;
+  margin-top: 1em;
 }
 
 blockquote {
   p + p {
     margin-top: 1em;
-      }
+  }
 }
 
 /* ===== */
@@ -194,21 +200,18 @@ dt,
 dl {
   text-align: justify;
   margin: .75em auto;
-  @include query-line(1.25);
+  @include line(1.25, 1.25, 1.25);
     li,
     li p {
-        margin: 1em ($base-width / 60) auto auto;
-          @media screen and (max-device-width: 800px) {
-             margin: 1em ($tablet-width / 60) auto auto;
-	      }
-	}
+      margin: 1em ($base-width / 60) auto auto;
+    }
 }
 
 dd {
   text-align: justify;
     p + p {
       margin-top: 1em;
- 	}
+    }
 }
 /**/
 /* ====== */
@@ -230,7 +233,7 @@ table {
   width: $base-width / 1.5;
     td {
       padding: .5em 1em .5em 0;
-	}
+    }
 }
 
 /**/
@@ -241,25 +244,25 @@ table {
 /* these are stylings specific to different IDs and classes.  these
 /* classes are used by all HTML documents made with pandoc. */
 .title {
-    margin-bottom: .375em;
+  margin-bottom: .375em;
 }
 
 .author,
 .date {
-    @include query-line(1.5);     
+  @include line(1.5, 1.5, 1.5);     
 }
 
 nav {
-@media screen and (min-width: 850px) {
-  float: right;
-  width: $base-width / 2;
-    }
+  @media screen and (min-width: $break1-width) {
+    float: right;
+    width: $base-width / 2;
+  }
   margin: auto 1em 1em auto;
-    li {
-      text-align: left;
-      margin: auto 1em auto auto;
-      list-style-type: disc;
-      }
+  li {
+    text-align: left;
+    margin: auto 1em auto auto;
+    list-style-type: disc;
+  }
 }
 
 
