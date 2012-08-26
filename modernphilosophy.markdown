@@ -4420,4 +4420,3 @@ A usual resource employed by these false friends of the common human understandi
 
 It is this which I hold myself justified in demanding of a system of metaphysics, as science.
 
-[_(Return to the top of the document)_](#TOC)
