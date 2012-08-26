@@ -51,15 +51,13 @@ The following command produces a
 [more heavily formatted version](http://uweb.ucsb.edu/~adunn/modernphilosophy.html):
 
 ```
-pandoc -f markdown -t html5 -c stylesheets/modernphilosophy.css
---template=modernphilosophy.html5 -V datetime=$(date +%Y-%m-%d)
---standalone --toc --smart -o modernphilosophy.html
+pandoc -f markdown -t html5 -V datetime=$(date +%Y-%m-%d)
+--template=modernphilosophy.html5 --smart -o modernphilosophy.html
 modernphilosophy.markdown
 ```
 
-This requires the .css stylesheet
-(modernphilosophy.css) and .html5 template (modernphilosophy.html5);
-both are included in this project.
+This requires the .html5 template (modernphilosophy.html5) that is
+included in this project.
 
 See the
 [pandoc user's guide](http://johnmacfarlane.net/pandoc/README.html)
