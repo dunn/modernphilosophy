@@ -14,6 +14,8 @@ $endif$
   <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
+  <link rel="stylesheet" href="http://baruffio.com/read/stylesheets/style.css">
+  <script type="text/javascript" src="http://baruffio.com/read/js/scripts.js"></script>
 $if(quotes)$
   <style type="text/css">
     q { quotes: "“" "”" "‘" "’"; }
