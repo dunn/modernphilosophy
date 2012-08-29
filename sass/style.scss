@@ -1,0 +1,90 @@
+/*  Stylesheet for _Modern Philosophy_ project page */
+/**/
+/*  This stylesheet may be used for any purpose whatever. */
+
+// ==============
+// SASS VARIABLES
+// ==============
+$base-width: 40em;
+
+$break1-width: 35em;
+$break2-width: 30em;
+
+// ============================
+// SASS VARIABLES
+// ============================
+// SOLARIZED COLORS
+// Copyright (c) 2011 Ethan Schoonover */
+// Released under the MIT license and available at */
+// http://ethanschoonover.com/solarized */
+$base03:    #002b36;
+$base02:    #073642;
+$base01:    #586e75;
+$base00:    #657b83;
+$base0:     #839496;
+$base1:     #93a1a1;
+$base2:     #eee8d5;
+$base3:     #fdf6e3;
+
+/* NORMALIZATION */
+/* ============= */
+/**/
+/* this imported stylesheet ensures that everything is rendered
+/* consistently across browsers. */
+@import "normalize";
+/**/
+/* ============= */
+/* END NORMALIZE */
+/* ============= */
+/**/
+/**/
+/* ============== */
+/* GLOBAL  STYLES */
+/* ============== */
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic);
+body {
+  margin: 4em auto;
+  width: 50%;
+  text-align: center;
+  font-size: 130%;
+  font-family: "Droid Serif", serif;
+  background-color: $base3;
+  color: $base00;
+}
+
+h1,
+h2 {
+  text-align: left;
+}
+
+p {
+  text-align: justify;
+  margin: auto;
+}
+
+p + p {
+  margin-top: 1em;
+}
+
+ul, li {
+  text-align: left;
+}
+
+a {
+  color: $base01;
+  &:visited {
+    color: $base1;
+  }
+}
+
+@media screen and (max-width: $break1-width) {
+  body {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: $break1-width) {
+  body {
+    width: 95%;
+  }
+}
