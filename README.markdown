@@ -19,19 +19,9 @@ of the standard Markdown syntax.)_
 
 ## Read it now
 
-Several conversions of the Markdown text are available online.
-However, they may not reflect the latest changes made to the text.
-
-- The
-  [HTML version](http://uweb.ucsb.edu/~adunn/modernphilosophy.html) is
-  hosted on my personal website.
-  - Although the HTML version is perfectly readable without styling,
-    pandoc allows a CSS file to be linked to the HTML output.  When
-    running pandoc, use the `-c` option: `-c path/to/file.css`.
-
-- The
-  [EPUB version](http://uweb.ucsb.edu/~adunn/modernphilosophy.epub) is
-  available for download.
+The HTML and EPUB version of the Markdown text are available on the
+[project page](http://grumble.github.com/modernphilosophy).  However,
+they may not reflect the very latest changes made to the text.
 
 ## Convert it
 
@@ -47,17 +37,23 @@ modernphilosophy.markdown to a valid, unformatted HTML5 file (with a table of
 contents and smart quotation marks).  The resulting file will be title
 "modernphilosophy.html"
 
-The following command produces a
-[more heavily formatted version](http://uweb.ucsb.edu/~adunn/modernphilosophy.html):
+The `modernphilosophy.css` stylesheet can be included with the `-c`
+option: `-c stylesheets/modernphilosophy.css`.
 
-```
-pandoc -f markdown -t html5 -V datetime=$(date +%Y-%m-%d)
---template=modernphilosophy.html5 --smart -o modernphilosophy.html
-modernphilosophy.markdown
+The `modernphilosophy.html5` template offers more options.  Set the
+variable `readingjs` to "true" to include the
+[reading.js](http://github.com/grumble/reading.js) script and
+stylesheet.  (Reading.js is used in the
+[HTML version hosted on the project page](http://grumble.github.com/modernphilosophy/modernphilosophy.html).)
+The full command that includes the template and variable options is:
+
+``` pandoc -f markdown -t html5 --smart
+--template=modernphilosophy.html5 -V readingjs=true -o
+modernphilosophy.html modernphilosophy.markdown
 ```
 
-This requires the .html5 template (modernphilosophy.html5) that is
-included in this project.
+If you use the reading.js stylesheet, **don't** also include
+`modernphilosophy.css`.
 
 See the
 [pandoc user's guide](http://johnmacfarlane.net/pandoc/README.html)
