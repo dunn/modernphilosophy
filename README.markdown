@@ -19,7 +19,7 @@ of the standard Markdown syntax.)_
 
 ## Read it now
 
-The HTML and EPUB version of the Markdown text are available on the
+The HTML and EPUB versions of the Markdown text are available on the
 [project page](http://grumble.github.com/modernphilosophy).  However,
 they may not reflect the very latest changes made to the text.
 
