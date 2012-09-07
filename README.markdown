@@ -47,9 +47,9 @@ stylesheet.  (Reading.js is used in the
 [HTML version hosted on the project page](http://grumble.github.com/modernphilosophy/modernphilosophy.html).)
 The full command that includes the template and variable options is:
 
-```
-pandoc -f markdown -t html5 --smart
---template=modernphilosophy.html5 -V readingjs=true -o
+```shell
+pandoc -f markdown -t html5 --smart \
+--template=modernphilosophy.html5 -V readingjs=true -o \
 modernphilosophy.html modernphilosophy.markdown
 ```
 
