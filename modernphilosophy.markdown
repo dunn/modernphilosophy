@@ -18844,3 +18844,5 @@ relation to the practical.
 
 It is this which I hold myself justified in demanding of a system of
 metaphysics, as science.
+
+# Notes
