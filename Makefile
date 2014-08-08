@@ -5,3 +5,7 @@ html : modernphilosophy.html5 modernphilosophy.markdown
 	--template=modernphilosophy.html5 -V readingjs=true \
 	modernphilosophy.markdown \
 	-o index.html
+	
+clean :
+	rm *~
+	rm *#
