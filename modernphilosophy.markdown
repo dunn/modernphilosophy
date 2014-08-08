@@ -1,6 +1,8 @@
-% _Modern Philosophy_: A Workbook with Source Material
-% 
-% 9 July 2012
+---
+title: "_Modern Philosophy_: A Workbook with Source Material"
+author: "Walter Ott"
+date: "9 July 2012"
+---
 
 # Preface
 
@@ -54,7 +56,7 @@ material is the author's and is licensed under the
 1. Background
 
 	i. Aristotle
-	
+
 		a. [_Categories_---Translated by E.M. Edghill](http://www.gutenberg.org/ebooks/2412)
 
 		b. [_Physics_---Translated by R. P. Hardie and R. K. Gaye](http://classics.mit.edu/Aristotle/physics.html)
@@ -62,7 +64,7 @@ material is the author's and is licensed under the
 		c. [_Posterior Analytics_---Translated by E.S. Bouchier](http://oll.libertyfund.org/title/902)
 
 	ii. Aquinas
-	
+
 		a. [_On the Eternity of the World_---Translated by Robert T. Miller (copyright 1991, 1997)](http://www.fordham.edu/halsall/basis/aquinas-eternity.asp)
 
 		b. [_Summa Contra Gentiles_---Translated by Joseph Rickaby](http://www2.nd.edu/Departments/Maritain/etext/gc.htm)
@@ -83,7 +85,7 @@ material is the author's and is licensed under the
 	iii. [_Meditations on First Philosophy_---Translated by John Veitch](http://oll.libertyfund.org/title/1698)
 
 	iv. [_Objections and Replies_---Translated by Jonathan Bennett, (copyright 2010--2015)](http://www.earlymoderntexts.com/descor.html)
-	
+
 3. Spinoza
 
 	i. [_The Ethics_---Translated by R.H.M. Elwes](http://oll.libertyfund.org/title/1711)
@@ -93,23 +95,23 @@ material is the author's and is licensed under the
 	ii. _An Essay Concerning Human Understanding_---Second edition,
 	1690 ([Part 1](http://oll.libertyfund.org/title/761),
 	[Part 2](http://oll.libertyfund.org/title/762))
-	
+
 5. Berkeley
 
 	i. [_A Treatise Concerning the Principles of Human Knowledge_](http://www.gutenberg.org/ebooks/4723)
-	
+
 	ii. [_De Motu (On Motion)_---edited by A.C. Fraser, 1871](http://books.google.com/books?id=IgoPAAAAQAAJ)
-	
+
 6. Hume
 
 	i. [_An Enquiry Concerning Human Understanding_](http://oll.libertyfund.org/title/341)
-	
+
 	ii. [_A Treatise of Human Nature_](http://oll.libertyfund.org/title/342)
-	
+
 7. Kant
 
 	i. [_Prolegomena to Any Future Metaphysics_---Translated by P. Carus](http://archive.org/details/kantsprolegomen00carugoog)
-	
+
 	ii. [_The Critique of Pure Reason_---Translated by J. Meiklejohn](http://www.gutenberg.org/ebooks/4280)
 
 # Minilogic and Glossary
@@ -117,20 +119,20 @@ material is the author's and is licensed under the
 Like any discipline, philosophy has its own vocabulary. Here are some
 of the most basic terms and the connections among them:
 
-**Position** 
- 
+**Position**
+
 :     A position (or a thesis) is a claim or set of claims; for example, that the mind is identical to the brain, or that people act always from self-interest.
-	
+
 **Argument**
 
 :    An argument is a set of claims (called 'premises') designed to show another claim (a conclusion) to be true. (This is a special use of the word: usually people use 'argument' to mean a verbal altercation). For example:
-	
+
     > _Premise 1:_ If it's raining outside, the lawnmower will get wet.
-	> 
+	>
 	> _Premise 2:_ It's raining outside.
-	> 
+	>
 	> _Conclusion_: The lawnmower will get wet.
-	
+
 As you can see, arguments aren't peculiar to philosophy: we use them
 all the time to get around the world, although we almost never bother
 to make them explicit. Even in this class, we won't always go to the
@@ -140,7 +142,7 @@ explicit. To see why, consider an argument put forth by the British
 Medical Association:
 
 > _Premise 1:_ Boxing is a dangerous activity.
-> 
+>
 > _Conclusion:_ Boxing should be banned.
 
 Does the premise entail the conclusion? That is, does the premise show
@@ -153,9 +155,9 @@ Validity says nothing at all about whether the premises or conclusion
 are in fact true or not. Here's a valid argument:
 
 > _Premise 1:_ If I'm over 7' tall, I'm over 6' tall.
-> 
+>
 > _Premise 2:_ I'm over 7' tall.
-> 
+>
 > _Conclusion:_ I'm over 6' tall.
 
 It's impossible for Premises 1 and 2 to be true while the conclusion
@@ -188,11 +190,11 @@ repaired in this way, sound?_
 **Objection**
 
 :    An objection is an argument designed to show that a position is false. If theism (the claim that God exists) is our position, we would have to consider the objection that a benevolent deity would not allow innocent people to suffer.
-	
+
 **Reply**
 
 :    A reply is an answer to an objection. In the above example, we might reply that God does not let innocent people suffer; their suffering is due to human free will. (Of course, this may not be a _good_ reply.)
-	
+
 In addition to these concepts, we need to draw some distinctions among
 different kinds of positions or claims. These distinctions are
 controversial; Kant, in particular, will challenge some of the
@@ -225,14 +227,14 @@ those that are **possible**.
 	possible state of affairs, then God exists in all possible states
 	of affairs. That is, if it is possible that God exists, then it is
 	necessary that God exists.
-	
+
 ***
 
 (@) _The modal argument just given for God's existence is a valid
 argument.  Is it a sound argument?_
 
 ***
-	
+
 **Possible**
 
 :    A claim is possible (that is, possibly true) if it holds in at least one possible state of affairs. For example, I don't have green hair. But that doesn't mean that it's _necessary_ that I don't have green hair. I could have decided yesterday to dye my hair.  If I could have decided to dye my hair, then there's a possible state of affairs in which I do have green hair.  So while I _actually_ don't have green hair, I _possibly_ do have green hair.
@@ -244,7 +246,7 @@ argument.  Is it a sound argument?_
 
 The second distinction is between claims that are **analytic** and
 those that are **synthetic**.
-	
+
 **Analytic**
 
 :    Analytic claims are true in virtue of the meanings of the words involved. They are necessarily true. For example, consider 'bachelors are unmarried men.'
@@ -301,7 +303,7 @@ normative one?_
 **Strawman fallacy**
 
 :    We commit the strawman fallacy if we argue against a bad or distorted version of our opponent's position. Suppose that Jimmy is arguing with Bobo over evolution. Bobo believes evolution is true. Jimmy counters: 'I'll never believe evolution till I see a fish turn into a man.'
-	
+
 If you're not getting the opposing position right, you can't argue
 against it. A core philosophical skill is being able to state an
 opposing position as carefully and persuasively as your own.
@@ -315,18 +317,18 @@ read philosophers with whom we disagree.
 synthetic?_
 
 	i. Any black cat is black.
-    
+
     ii. There is life on other planets.
-	
+
     iii. 'One try makes a customer' (slogan of a popular Richmond
-	restaurant).  
-    
+	restaurant).
+
     iv. 'Unexpected disasters can happen ... With little or no
 	warning.'[^ready]
-    
+
     v. From Plan 9 from Outer Space: 'He's been murdered, and
 	somebody's responsible!'
-	
+
 [^ready]:
 [Virginia Department of Emergency Management](http://www.washingtonpost.com/wp-dyn/content/article/2008/03/05/AR2008030500201.html).
 
@@ -421,7 +423,7 @@ above.
 **Empiricism** is a cluster of different claims about knowledge, all
   emphasizing the role of experience.
 
-**Materials empiricism** 
+**Materials empiricism**
 
 :    Materials empiricism is the thesis that all the materials for knowledge come from experience. The content of all of our thoughts is ultimately traceable back to some experience or other.
 
@@ -448,11 +450,11 @@ Largely opposed to empiricism is a set of claims we will call
 Independent of the empiricist/rationalist debate is a question about
 the **order of knowledge**:
 
-**Existentialism** 
+**Existentialism**
 
 :    Existentialism is the thesis that before one can know the essence of a thing, one must first know that it exists.
 
-**Essentialism** 
+**Essentialism**
 
 :    Essentialism is the thesis that one can (or even must) know the essence of a thing before one can know that it exists.
 
@@ -482,7 +484,7 @@ These are logically equivalent. The converse, however, is not: if _x_
 is possible, _x_ is conceivable. This principle seems to be far too
 strong. Can you see why?
 
-**Causal Principle (CAP)** 
+**Causal Principle (CAP)**
 
 :    There must be at least as much reality (being, or perfection) in the cause as there is in the effect. This principle is from Descartes.
 
@@ -494,7 +496,7 @@ strong. Can you see why?
 
 :    Every idea is a copy of some impression or set of impressions. This principle is from Hume.
 
-**Separability Principle (SP)** 
+**Separability Principle (SP)**
 
 :    Any two distinct perceptions can, in thought, be separated. This principle is from Hume.
 
@@ -843,13 +845,13 @@ lists his 'four' causes; the translator has numbered them. These
 causes have come to be known as_
 
     i. Formal
-    
+
     ii. Final
-    
+
     iii. Material
-    
+
     iv. Efficient
-    
+
     Try to identify which number corresponds to which of these causes.
 
 _The Greek word translated as 'cause' here is 'aitios'; the Greek word
@@ -1118,14 +1120,14 @@ whole body of fact.
 deduction. Which is which, and why?_
 
 > **Argument 1**
-> 
-> 1. Human beings are rational animals.  
+>
+> 1. Human beings are rational animals.
 >
 > 2. Rational beings are risible (have the ability to laugh).
 >
 > Therefore, human beings are risible.
 >
-> **Argument 2** 
+> **Argument 2**
 >
 > 1. Everyone in modern philosophy is wearing shoes.
 >
@@ -2491,46 +2493,46 @@ it, the meditator retreats to some apparently more solid ground,
 until, at the end of the meditation, \_\_\_\_._
 
 (@) _What are the skeptical arguments? How effective are they?_
-	
+
 	1. _Premise:_ Sometimes the senses deceive us.
-	
+
 		_Conclusion:_ The senses should never be trusted.\
 
 	What is wrong with this argument? Is there a way to grant the
 	premise while denying the conclusion?
-	
+
 	2. _Premise:_ Sometimes, while dreaming, \_\_\_.
-	
+
 		_Conclusion:_ Therefore, right now I cannot tell \_\_\_.\
-	
+
 	This is what we might call the 'literal' dream argument. Can you
 	think of any way to respond? (You might want to come back to this
 	after having read the
 	[Sixth Meditation](#sixth-meditation-of-the-existence-of-material-things-and-of-the-real-distinction-between-the-mind-and-body-of-man). But
 	there's a more threatening version of this argument---the
 	'metaphorical dream argument':
-	
+
 	2. _Premise (Alternate):_ Dreaming shows that we can have sensory
 	experiences even when they do not correspond to anything in the
 	world.
-	
+
 		_Conclusion (Alternate):_ I have no reason to think that my
 		entire experience isn't like a dream, in that it corresponds
 		to nothing outside of me.
-	
+
 	3. _Premise:_ There might be an omnipotent being, capable of
 	making all my inferences \_\_\_\_\_, even when I think
 	\_\_\_\_\_\_\_\_\_.
-	
+
 		_Conclusion:_ I cannot trust my own powers of
 		\_\_\_\_\_\_\_\_\_.
-	
+
 	Which of these arguments is most important? Which of the three
 	'areas of retreat' does it threaten?
 
 _To think about while reading the following Meditations: What is the
 purpose of the skeptical doubts introduced here?_
-	
+
 _After all, they were hardly new, even in the seventeenth
 century. Rather snottily, Thomas Hobbes points out that they can be
 found in ancient writers like Plato: 'I would have preferred the
@@ -2542,7 +2544,7 @@ consideration of matters geared to the understanding and for
 distinguishing them from corporeal things, goals for which these
 arguments seem wholly necessary.' How do you think the doubt
 accomplishes these goals?_
-	
+
 ### Second Meditation: Of the Nature of the Human Mind; and that It is More Easily Known than the Body
 
 _In the Second Meditation, Descartes is concerned to show the primacy
@@ -2911,11 +2913,11 @@ _from the_ Principles_.)_ _Try to reconstruct the wax argument below._
 
 > _Premise 1:_ At a given time---call it 5pm---the wax has a set of
 > determinate properties, including determinate size, shape, taste,
-> color, and so on. 
+> color, and so on.
 >
 > _Premise 2:_ At a later time---say, 5:05 pm, the
-> wax \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
-> 
+> wax \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+>
 > _Conclusion:_ The essence of
 > the wax---and of all material things---is nothing but \_\_\_\_\_.
 
@@ -2937,13 +2939,13 @@ should mean._
 	modes. God exists more fully than anything else does, simply
 	because created substances depend for their existence on
 	\_\_\_\_\_, and modes depend on \_\_\_\_\_\_\_\_\_.
-	
+
 (@) _Formal reality is to be contrasted with 'objective reality,' the
 reality or being a thing has in virtue of what it represents. All
 ideas are modes of the mind; so they all have the same degree of
 formal reality. But they can differ in objective reality, because they
 can represent \_\_\_\_\_\_\_\_\_\_\_\_\_\_._
-	
+
 	What else, besides ideas, has objective reality?
 
 	But this doesn't mean that Descartes is an idealist, someone who
@@ -2951,7 +2953,7 @@ can represent \_\_\_\_\_\_\_\_\_\_\_\_\_\_._
 	modes, all have some degree of \_\_\_\_ reality.
 
 ***
-	
+
 I will now close my eyes, I will stop my ears, I will turn away my
 senses from their objects, I will even efface from my consciousness
 all the images of corporeal things; or at least, because this can
@@ -3547,7 +3549,7 @@ as much \_\_\_\_\_\_ reality in the cause of an idea as there is
 meditation for an example.)_
 
 	Given this principle, what can we say about the idea of God?
-	
+
 (@) _Descartes gives a second argument for God's existence, based on
 the nature of time and his existence at this moment. How is
 Descartes's argument different from a traditional cosmological
@@ -3568,11 +3570,11 @@ Principle (EP):_
 _The Meditator's overall argument for EP works roughly like this:_
 
 > _Premise 1:_ I exist.
-> 
+>
 > _Premise 2:_ God exists.
-> 
+>
 > _Premise 3:_ God is not a \_\_\_\_\_.
-> 
+>
 > _Conclusion:_ The Epistemic Principle is true.
 
 _This strategy creates a problem for the Meditator, though: how can I
@@ -4613,14 +4615,14 @@ Principles above. What is a real distinction?_
 	\_\_\_\_\_\_\_\_. (Similarly, water and dirt are really distinct,
 	even when they combine to form mud.) Reconstruct Descartes's
 	argument:_
-	
+
 	_Premise 1:_ Everything I clearly and distinctly conceive is
 	\_\_\_\_\_\_\_\_.
-	
+
 	_Premise 2:_ I can clearly and distinctly conceive of
 	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and
 	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
-	
+
 	_Conclusion:_ Mind and body are really distinct substances; that
 	is, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
@@ -4633,7 +4635,7 @@ the argument in your own way._
 
 #### Antoine Arnauld's objection to the argument for the real distinction and Descartes's reply
 
-**Antoine Arnauld** 
+**Antoine Arnauld**
 
 :    I can't see anywhere in the entire work an argument that could serve to prove this claim, apart from what is laid down at the start [this isn't an exact quotation from the _Meditations_]:
 
@@ -4641,13 +4643,13 @@ the argument in your own way._
 	but while I am thus denying, or thinking, it goes on being certain
 	to me that I exist. Thus, I am a thinking thing, not a body, and
 	body doesn't come into the knowledge I have of myself.'
-	
+
 	But so far as I can see, all that follows from this is that I can
 	obtain some knowledge of myself without knowledge of the body. But
 	it isn't clear to me that this knowledge is complete and adequate,
 	enabling me to be certain that I'm not mistaken in excluding body
 	from my essence. I'll explain through an example.
-	
+
 	Suppose someone knows for certain that the angle in a semicircle
 	is a right angle, and thus that this angle and the diameter of the
 	circle form a right-angled triangle. In spite of knowing this, he
@@ -4661,7 +4663,7 @@ the argument in your own way._
 	triangle is right-angled; but I doubt that it has the property P;
 	therefore it doesn't belong to the essence of the triangle that it
 	has the property P.'
-	
+
 	Again, even if I deny that the square on the hypotenuse equals the
 	sum of the squares on the other two sides, I still remain sure
 	that the triangle is right-angled---my mind retains the vivid and
@@ -4671,26 +4673,26 @@ the argument in your own way._
 	property P that I can doubt---or indeed that I can remove---while
 	leaving my idea of the triangle intact doesn't belong to the
 	essence of the triangle. Now look again at what Descartes says:
-	
+
 	'I know that if I have a vivid and clear thought of something, God
 	could have created it in a way that exactly corresponds to my
 	thought. So the fact that I can vividly and clearly think of one
 	thing apart from another assures me that the two things are
 	distinct from one another, since they can be separated by God.'
-	
+
 	I vividly and clearly understand that this triangle is
 	right-angled, without understanding that the triangle has the
 	property P. It follows, on Descartes's pattern of reasoning, that
 	God at least could create a right-angled triangle with the square
 	on its hypotenuse not equal to the sum of the squares on the other
 	sides!
-	
+
 	The only possible reply to this that I can see is to say that the
 	man in this example doesn't vividly and clearly perceive that the
 	triangle is right-angled. But how is my perception of the nature
 	of my mind any clearer than his perception of the nature of the
 	triangle?
-	
+
 	Now although the man in the example vividly and clearly knows that
 	the triangle is right-angled, he is wrong in thinking that
 	property P doesn't belong to the nature or essence of the
@@ -4701,7 +4703,7 @@ the argument in your own way._
 	my nature.
 
 ***
-	
+
 (@) _Which premise of the Sixth Meditation argument for the real
 distinction does Arnauld challenge? What is the problem with it?_
 
@@ -4729,10 +4731,10 @@ distinction does Arnauld challenge? What is the problem with it?_
 	obliquely involve---anything at all that belongs to the mind, and
 	the concept of mind doesn't include---or even indirectly and
 	obliquely involve---anything at all that belongs to the body.
-	
+
 #### Arnauld's circularity objection and Descartes's reply
 
-**Arnauld** 
+**Arnauld**
 
 :    I have one further worry, namely how Descartes avoids reasoning in a circle when he says that it's only because we know that God exists that we are sure that whatever we vividly and clearly perceive is true.
 
@@ -4742,7 +4744,7 @@ distinction does Arnauld challenge? What is the problem with it?_
 	evidently is true.
 
 ***
-	
+
 _Descartes clearly argues for the Epistemic Principle (everything I
 clearly and distinctly perceive is true), which is not to be confused
 with the Conceivability Principle (everything I clearly and distinctly
@@ -4763,7 +4765,7 @@ prove \_\_\_\_\_\_._
 	that God exists and isn't a deceiver.
 
 ***
-	
+
 (@) _One of the most controversial areas of Descartes scholarship
 concerns this 'Cartesian circle'. What exactly do you think Descartes
 is saying in his reply to Arnauld? Why does Descartes think he is not
@@ -4834,7 +4836,7 @@ infinite essentiality.
 	attributes may be denied; but that which is absolutely infinite,
 	contains in its essence whatever expresses reality, and involves
 	no negation.
-	
+
 7. That thing is called free, which exists solely by the necessity of
 its own nature, and of which the action is determined by itself
 alone. On the other hand, that thing is necessary, or rather
@@ -4849,7 +4851,7 @@ eternal.
 	truth, like the essence of a thing, and, therefore, cannot be
 	explained by means of continuance or time, though continuance may
 	be conceived without a beginning or end.
-	
+
 ### Axioms
 
 1. Everything which exists, exists either in itself or in something
@@ -4879,21 +4881,21 @@ involve existence.
 1. Substance is by nature prior to its modifications.
 
 	_Proof_---This is clear from Definitions 3 and 5.
-	
+
 2. Two substances, whose attributes are different, have nothing in
 common.
 
 	_Proof_---Also evident from Definition 3. For each must exist in
 	itself, and be conceived through itself; in other words, the
 	conception of one does not imply the conception of the other.
-	
+
 3. Things which have nothing in common cannot be one the cause of the
 other.
 
 	_Proof_---If they have nothing in common, it follows that one
 	cannot be apprehended by means of the other (Axiom 5), and,
 	therefore, one cannot be the cause of the other (Axiom 4). Q.E.D.
-	
+
 4. Two or more distinct things are distinguished one from the other,
 either by the difference of the attributes of the substances, or by
 the difference of their modifications.
@@ -4922,7 +4924,7 @@ the same nature or attribute.
 	substance different from another---that is (by Proposition 4),
 	there cannot be granted several substances, but one substance
 	only. Q.E.D.
-	
+
 6. One substance cannot be produced by another substance.
 
 	_Proof_---It is impossible that there should be in the universe
@@ -4930,14 +4932,14 @@ the same nature or attribute.
 	anything common to them both (Proposition 2), and, therefore
 	(Proposition 3), one cannot be the cause of the other, neither can
 	one be produced by the other. Q.E.D.
-	
+
 	_Corollary_---Hence it follows that a substance cannot be produced
 	by anything external to itself. For in the universe nothing is
 	granted, save substances and their modifications (as appears from
 	Axiom 1 and Definitions 3 and 5). Now (by the last Proposition)
 	substance cannot be produced by another substance, therefore it
 	cannot be produced by anything external to itself. Q.E.D.
-	
+
 	This is shown still more readily by the absurdity of the
 	contradictory. For, if substance be produced by an external cause,
 	the knowledge of it would depend on the knowledge of its cause
@@ -4949,7 +4951,7 @@ the same nature or attribute.
 	(Corollary, Proposition 6), it must, therefore, be its own
 	cause---that is, its essence necessarily involves existence, or
 	existence belongs to its nature.
-	
+
 8. Every substance is necessarily infinite.
 
 	_Proof_---There can only be one substance with an identical
@@ -4960,12 +4962,12 @@ the same nature or attribute.
 	would also necessarily exist (Proposition 7); and there would be
 	two substances with an identical attribute, which is absurd
 	(Proposition 5). It therefore exists as infinite. Q.E.D.
-	
+
 	_Note 1_---As finite existence involves a partial negation, and
 	infinite existence is the absolute affirmation of the given
 	nature, it follows (solely from Proposition 7) that every
 	substance is necessarily infinite.
-	
+
 	_Note 2_---No doubt it will be difficult for those who think about
 	things loosely, and have not been accustomed to know them by their
 	primary causes, to comprehend the demonstration of Proposition 7:
@@ -4995,7 +4997,7 @@ the same nature or attribute.
 	it be conceived. Whereas the only truth substances can have,
 	external to the intellect, must consist in their existence,
 	because they are conceived through themselves.
-	
+
 	Therefore, for a person to say that he has a clear and
 	distinct---that is, a true---idea of a substance, but that he is
 	not sure whether such substance exists, would be the same as if he
@@ -5013,16 +5015,16 @@ the same nature or attribute.
 	1. The true definition of a thing neither involves nor expresses
 	anything beyond the nature of the thing defined. From this it
 	follows that
-	
+
 	2. No definition implies or expresses a certain number of
 	individuals, inasmuch as it expresses nothing beyond the nature of
 	the thing defined. For instance, the definition of a triangle
 	expresses nothing beyond the actual nature of a triangle: it does
 	not imply any fixed number of triangles.
-	
+
 	3. There is necessarily for each individual existent thing a cause
 	why it should exist.
-	
+
 	4. This cause of existence must either be contained in the nature
 	and definition of the thing defined, or must be postulated apart
 	from such definition.
@@ -5050,7 +5052,7 @@ the same nature or attribute.
 	definition (as we have shown, notes 2 and 3), we cannot infer the
 	existence of several substances; therefore it follows that there
 	is only one substance of the same nature. Q.E.D.
-	
+
 9. The more reality or being a thing has, the greater the number of
 its attributes (Definition 4).
 
@@ -5060,7 +5062,7 @@ through itself.
 	_Proof_---An attribute is that which the intellect perceives of
 	substance, as constituting its essence (Definition 4), and,
 	therefore, must be conceived through itself (Definition 3). Q.E.D.
-	
+
 	_Note_---It is thus evident that, though two attributes are, in
 	fact, conceived as distinct---that is, one without the help of the
 	other---yet we cannot, therefore, conclude that they constitute
@@ -5077,20 +5079,20 @@ through itself.
 	abundantly clear, that an absolutely infinite being must
 	necessarily be defined as consisting in infinite attributes, each
 	of which expresses a certain eternal and infinite essence.
-	
+
 	If anyone now ask, by what sign shall he be able to distinguish
 	different substances, let him read the following propositions,
 	which show that there is but one substance in the universe, and
 	that it is absolutely infinite, wherefore such a sign would be
 	sought in vain.
-	
+
 11. God, or substance, consisting of infinite attributes, of which
 each expresses eternal and infinite essentiality, necessarily exists.
 
 	_Proof_---If this be denied, conceive, if possible, that God does
 	not exist: then his essence does not involve existence. But this
 	(Proposition 7) is absurd. Therefore God necessarily exists.
-	
+
 	_Another proof_---Of everything whatsoever a cause or reason must
 	be assigned, either for its existence, or for its
 	non-existence---e.g., if a triangle exist, a reason or cause must
@@ -5103,7 +5105,7 @@ each expresses eternal and infinite essentiality, necessarily exists.
 	would involve a contradiction. On the other hand, the existence of
 	substance follows also solely from its nature, inasmuch as its
 	nature involves existence. (See Proposition 7.)
-	
+
 	But the reason for the existence of a triangle or a circle does
 	not follow from the nature of those figures, but from the order of
 	universal nature in extension. From the latter it must follow,
@@ -5122,7 +5124,7 @@ each expresses eternal and infinite essentiality, necessarily exists.
 	substance of another nature could have nothing in common with God
 	(by Proposition 2), and therefore would be unable either to cause
 	or to destroy his existence.
-	
+
 	As, then, a reason or cause which would annul the divine existence
 	cannot be drawn from anything external to the divine nature, such
 	cause must perforce, if God does not exist, be drawn from God's
@@ -5132,7 +5134,7 @@ each expresses eternal and infinite essentiality, necessarily exists.
 	externally to his nature, can a cause or reason be assigned which
 	would annul his existence. Therefore, God necessarily
 	exists. Q.E.D.
-	
+
 	_Another proof_---The potentiality of non-existence is a negation
 	of power, and contrariwise the potentiality of existence is a
 	power, as is obvious. If, then, that which necessarily exists is
@@ -5144,7 +5146,7 @@ each expresses eternal and infinite essentiality, necessarily exists.
 	Axiom 1 and Proposition 7). Therefore a being absolutely
 	infinite---in other words, God (Definition 6)---necessarily
 	exists. Q.E.D.
-	
+
 	_Note_---In this last proof, I have purposely shown God's
 	existence _a posteriori_, so that the proof might be more easily
 	followed, not because, from the same premises, God's existence
@@ -5161,7 +5163,7 @@ each expresses eternal and infinite essentiality, necessarily exists.
 	disappear; whereas they regard as more difficult of
 	accomplishment---that is, not so easily brought into
 	existence---those things which they conceive as more complicated.
-	
+
 	However, to do away with this misconception, I need not here show
 	the measure of truth in the proverb, "What comes quickly, goes
 	quickly," nor discuss whether, from the point of view of universal
@@ -5186,7 +5188,7 @@ each expresses eternal and infinite essentiality, necessarily exists.
 	doubt concerning his existence is done away, and the utmost
 	certainty on the question is given. This, I think, will be evident
 	to every moderately attentive reader.
-	
+
 12. No attribute of substance can be conceived from which it would
 follow that substance can be divided.
 
@@ -5205,7 +5207,7 @@ follow that substance can be divided.
 	the whole substance were divided into equal parts, it would lose
 	the nature of substance, and would cease to exist, which (by
 	Proposition 7) is absurd.
-	
+
 13. Substance absolutely infinite is indivisible.
 
 	_Proof_---If it could be divided, the parts into which it was
@@ -5215,16 +5217,16 @@ follow that substance can be divided.
 	absurd. If the latter, then (by Proposition 7) substance
 	absolutely infinite could cease to exist, which (by Proposition
 	11\) is also absurd.
-	
+
 	_Corollary_---It follows, that no substance, and consequently no
 	extended substance, in so far as it is substance, is divisible.
-	
+
 	_Note_---The indivisibility of substance may be more easily
 	understood as follows. The nature of substance can only be
 	conceived as infinite, and by a part of substance, nothing else
 	can be understood than finite substance, which (by Proposition 8)
 	involves a manifest contradiction.
-	
+
 14. Besides God no substance can be granted or conceived.
 
 	_Proof_---As God is a being absolutely infinite, of whom no
@@ -5238,16 +5240,16 @@ follow that substance can be divided.
 	necessarily have to be conceived as existent; but this (by the
 	first part of this proof) is absurd. Therefore, besides God no
 	substance can be granted or conceived. Q.E.D.
-	
+
 	_Corollary 1_---Clearly, therefore: God is one, that is (by
 	Definition 6) only one substance can be granted in the universe,
 	and that substance is absolutely infinite, as we have already
 	indicated (in the note to Proposition 10).
-	
+
 	_Corollary 2_---It follows, second, that extension and thought are
 	either attributes of God or (by Axiom 1) accidents (_affectiones_)
 	of the attributes of God.
-	
+
 15. Whatsoever is, is in God, and without God nothing can be, or be
 conceived.
 
@@ -5261,7 +5263,7 @@ conceived.
 	be conceived. Q.E.D.
 
 ***
-	
+
 _Spinoza now faces an objection. Many will claim that God cannot be an
 extended thing, since extended things are divisible and God is
 supposed to be a unity._
@@ -5291,7 +5293,7 @@ supposed to be a unity._
   God. However, in order to explain more fully, I will refute the
   arguments of my adversaries, which all start from the following
   points:
-	
+
 - Extended substance, in so far as it is substance, consists, as they
   think, in parts, wherefore they deny that it can be infinite, or
   consequently, that it can appertain to God.
@@ -5352,7 +5354,7 @@ substance were divisible. What would go wrong?_
 >then, there does not exist a vacuum in nature, but all parts are
 >bound to come together to prevent it, it follows from this that the
 >parts cannot really be distinguished, and that extended substance in
->so far as it is substance cannot be divided. 
+>so far as it is substance cannot be divided.
 >
 >If anyone asks me the further question, Why are we naturally so prone
 >to divide quantity? I answer, that quantity is conceived by us in two
@@ -5456,37 +5458,37 @@ in the relevant propositions or axiom (e.g., P5 for Proposition
 
     _Proposition 9:_ The more attributes something has, the more
     reality it has.
- 	
+
  	Spinoza denies the Cartesian claim that distinct attributes entail
  	distinct substances. He might mean 'reality' here in an almost
  	quantitative sense: something that is both thought and extension
  	is more real than a substance whose only attribute is thought.
- 	
+
  	_Proposition 11:_ God (by definition a substance possessing
  	infinite attributes) exists.
- 	
+
  	God is by definition a being who is absolutely infinite; he is not
  	merely infinite after his kind (as the series of positive integers
  	is, or as mental substance might be). He is infinite in every
  	possible way, which means he is a single substance that contains
  	all attributes. (There are an infinity of these, but we only know
  	two, thought and extension.)
- 	
+
  	Argument: Suppose God didn't exist. The explanation for this would
  	have to come either from (a) within God or (b) outside him.
- 
+
  	Not (a), because that would hold only if he were logically
  	self-contradictory.
- 
+
  	Not (b), by \_\_\_\_.
- 	
+
  	_Proposition 14:_ Only God exists.
- 	
+
  	If there were a substance other than God, it would either (a)
  	share an attribute or (b) not.
- 	
+
  	Not (a), by \_\_\_\_.
- 	
+
  	Not (b): if it doesn't share an attribute, if it's a different
  	kind of thing, then God would not be absolutely infinite (i.e.,
  	possessing an infinity of attributes).
@@ -5503,7 +5505,7 @@ destruction._
     (given \_\_\_\_).
 
 ***
-	
+
 16. From the necessity of the divine nature must follow an infinite
 number of things in infinite ways---that is, all things which can fall
 within the sphere of infinite intellect.
@@ -5516,22 +5518,22 @@ within the sphere of infinite intellect.
 	definition of the thing expresses more reality, that is, in
 	proportion as the essence of the thing defined involves more
 	reality.
-	
+
 	Now, as the divine nature has absolutely infinite attributes (by
 	Definition 6), of which each expresses infinite essence after its
 	kind, it follows that from the necessity of its nature an infinite
 	number of things (that is, everything which can fall within the
 	sphere of an infinite intellect) must necessarily follow. Q.E.D.
-	
+
 	_Corollary 1_---Hence it follows, that God is the efficient cause
 	of all that can fall within the sphere of an infinite intellect.
-	
+
 	_Corollary 2_---It also follows that God is a cause in himself,
 	and not through an accident of his nature.
-	
+
 	_Corollary 3_---It follows, thirdly, that God is the absolutely
 	first cause.
-	
+
 17. God acts solely by the laws of his own nature, and is not
 constrained by anyone.
 
@@ -5544,17 +5546,17 @@ constrained by anyone.
 	outside himself, whereby he can be conditioned or constrained to
 	act. Wherefore God acts solely by the laws of his own nature, and
 	is not constrained by anyone. Q.E.D.
-	
+
 	_Corollary 1_---It follows, first, that there can be no cause
 	which, either extrinsically or intrinsically, besides the
 	perfection of his own nature, moves God to act.
-	
+
 	_Corollary 2_---It follows, second, that God is the sole free
 	cause. For God alone exists by the sole necessity of his nature
 	(by Proposition 11 and Corollary 1 of Proposition 14), and acts by
 	the sole necessity of his own nature, wherefore God is (by
 	Definition 7) the sole free cause. Q.E.D.
-	
+
 	_Note_---Others think that God is a free cause, because he can, as
 	they think, bring it about, that those things which we have said
 	follow from his nature---that is, which are in his power, should
@@ -5563,7 +5565,7 @@ constrained by anyone.
 	should follow from the nature of a triangle that its three
 	interior angles should not be equal to two right angles; or that
 	from a given cause no effect should follow, which is absurd.
-	
+
 	Moreover, I will show below, without the aid of this proposition,
 	that neither intellect nor will appertain to God's nature. I know
 	that there are many who think that they can show, that supreme
@@ -5598,7 +5600,7 @@ constrained by anyone.
 	establishing at the same time, that he cannot bring to pass
 	everything over which his power extends; this seems to be a
 	hypothesis most absurd, and most repugnant to God's omnipotence.
-	
+
 	Further (to say a word here concerning the intellect and the will
 	which we attribute to God), if intellect and will appertain to the
 	eternal essence of God, we must take these words in some
@@ -5626,7 +5628,7 @@ constrained by anyone.
 	respect to its existence. For a cause differs from a thing it
 	causes, precisely in the quality which the latter gains from the
 	former.
-	
+
 	For example, a man is the cause of another man's existence, but
 	not of his essence (for the latter is an eternal truth), and,
 	therefore, the two men may be entirely similar in essence, but
@@ -5644,9 +5646,9 @@ constrained by anyone.
 	essence and in respect to existence, nor can it in anywise agree
 	therewith save in name, as we said before. The reasoning would be
 	identical in the case of the will, as anyone can easily see.
-	
+
 *****
-	
+
 32. Will cannot be called a free cause, but only a necessary cause.
 
 	_Proof_---Will is only a particular mode of thinking, like
@@ -5662,10 +5664,10 @@ constrained by anyone.
 	which it should be conditioned to exist and act. Thus (Definition
 	7\) it cannot be called a free cause, but only a necessary or
 	constrained cause. Q.E.D.
-	
+
 	_Corollary 1_---Hence it follows, first, that God does not act
 	according to freedom of the will.
-	
+
 	_Corollary 2_---It follows, second, that will and intellect stand
 	in the same relation to the nature of God as do motion, and rest,
 	and absolutely all natural phenomena, which must be conditioned by
@@ -5681,7 +5683,7 @@ constrained by anyone.
 	to him as motion, rest, and the like, which we have shown to
 	follow from the necessity of the divine nature, and to be
 	conditioned by it to exist and act in a particular manner.
-	
+
 33. Things could not have been brought into being by God in any manner
 or in any order different from that which has in fact obtained.
 
@@ -5697,13 +5699,13 @@ or in any order different from that which has in fact obtained.
 	Gods. This (by Corollary 1 of Proposition 14) is absurd. Therefore
 	things could not have been brought into being by God in any other
 	manner, &c. Q.E.D.
-	
+
 	_Note 1_---As I have thus shown, more clearly than the sun at
 	noonday, that there is nothing to justify us in calling things
 	contingent, I wish to explain briefly what meaning we shall attach
 	to the word contingent; but I will first explain the words
 	necessary and impossible.
-	
+
 	A thing is called necessary either in respect to its essence or in
 	respect to its cause; for the existence of a thing necessarily
 	follows, either from its essence and definition, or from a given
@@ -5713,14 +5715,14 @@ or in any order different from that which has in fact obtained.
 	conditioned to produce such an effect; but a thing can in no
 	respect be called contingent, save in relation to the imperfection
 	of our knowledge.
-	
+
 	A thing of which we do not know whether the essence does or does
 	not involve a contradiction, or of which, knowing that it does not
 	involve a contradiction, we are still in doubt concerning the
 	existence, because the order of causes escapes us---such a thing,
 	I say, cannot appear to us either necessary or
 	impossible. Wherefore we call it contingent or possible.
-	
+
 	_Note 2_---It clearly follows from what we have said, that things
 	have been brought into being by God in the highest perfection,
 	inasmuch as they have necessarily followed from a most perfect
@@ -5731,7 +5733,7 @@ or in any order different from that which has in fact obtained.
 	being in any other way, we should have to assign to God a nature
 	different from that, which we are bound to attribute to him from
 	the consideration of an absolutely perfect being.
-	
+
 	I do not doubt, that many will see this claim as absurd, and will
 	refuse to give their minds up to contemplating it, simply because
 	they are accustomed to assign to God a freedom very different from
@@ -5773,7 +5775,7 @@ or in any order different from that which has in fact obtained.
 	nevertheless remaining perfect? For his intellect and will
 	concerning things created and their order are the same, in respect
 	to his essence and perfection, however they be conceived.
-	
+
 	Further, all the philosophers whom I have read admit that God's
 	intellect is entirely actual, and not at all potential; as they
 	also admit that God's intellect, and God's will, and God's essence
@@ -5783,7 +5785,7 @@ or in any order different from that which has in fact obtained.
 	brought into being by God in a different way from that which has
 	obtained, God's intellect and will, that is (as is admitted) his
 	essence would perforce have been different, which is absurd.
-	
+
 	As these things could not have been brought into being by God in
 	any but the actual way and order which has obtained; and as the
 	truth of this proposition follows from the supreme perfection of
@@ -5791,7 +5793,7 @@ or in any order different from that which has in fact obtained.
 	believe that God did not wish to create all the things which were
 	in his intellect, and to create them in the same perfection as he
 	had understood them.
-	
+
 	But, it will be said, there is in things no perfection nor
 	imperfection; that which is in them, and which causes them to be
 	called perfect or imperfect, good or bad, depends solely on the
@@ -5804,7 +5806,7 @@ or in any order different from that which has in fact obtained.
 	(as we have just shown) is the height of absurdity. Wherefore, I
 	may turn the argument against its employers, as follows: All
 	things depend on the power of God.
-	
+
 	In order that things should be different from what they are, God's
 	will would necessarily have to be different. But God's will cannot
 	be different (as we have just most clearly demonstrated) from
@@ -5821,7 +5823,7 @@ or in any order different from that which has in fact obtained.
 	first and only free cause of the essence of all things and also of
 	their existence. I need, therefore, spend no time in refuting such
 	wild theories.
-	
+
 34. God's power is identical with his essence.
 
 	_Proof_---From the sole necessity of the essence of God it follows
@@ -5829,7 +5831,7 @@ or in any order different from that which has in fact obtained.
 	things (Proposition 16 and the Corollary). Wherefore the power of
 	God, by which he and all things are and act, is identical with his
 	essence. Q.E.D.
-	
+
 35. Whatsoever we conceive to be in the power of God, necessarily
 exists.
 
@@ -5846,7 +5848,7 @@ exists.
 	given conditioned manner God's power, which is the cause of all
 	things, therefore an effect must (by Proposition 16) necessarily
 	follow. Q.E.D.
-	
+
 ### Appendix
 
 In the foregoing I have explained the nature and properties of God. I
@@ -6352,7 +6354,7 @@ think is wrong with this last option (memory)? (See esp. Chapter 4,
 Section 20 above---hint: Locke seems to think there's something
 contradictory about innateness.)_
 
-> _Premise 1:_ An innate idea is in the memory.  
+> _Premise 1:_ An innate idea is in the memory.
 >
 >_Premise 2:_ Any idea in the memory, when recovered, brings with it...
 
@@ -6486,18 +6488,18 @@ of sensation and reflection**.
 (@) _Classify these ideas, according to the above system (II.iii.1):_
 
 	(i) the idea of blue \_\_\_\_\_\_\_\_\_\_\_
-	
+
 	(ii) the idea of square \_\_\_\_\_\_\_\_\_\_\_
-	
+
 	(iii) the idea of hoping \_\_\_\_\_\_\_\_\_\_\_
-	
+
 	(iv) the idea of straight	\_\_\_\_\_\_\_\_\_\_\_
-	
+
 	As we'll see, some ideas turn out to be ideas of powers rather
 	than of qualities. So we'll need a story about how we get our idea
 	of power as a building block, before we can move on to the
 	primary/secondary quality distinction.
-	
+
 (From II.xxi.1---_This Idea [of power] how got_) The mind being every
 day informed, by the senses, of the alteration of those simple ideas
 it observes in things without; and taking notice how one comes to an
@@ -6557,8 +6559,8 @@ idea, viz. Thinking and motion, let us consider whence we have the
 clearest ideas of the powers which produce these actions.
 
 (i) Of thinking, body affords us no idea at all; it is only from
-	reflection that we have that. 
-	
+	reflection that we have that.
+
 (ii) Neither have we from body any
 	idea of the beginning of motion. A body at rest affords us no idea
 	of any active power to move; and when it is set in motion itself,
@@ -6572,7 +6574,7 @@ clearest ideas of the powers which produce these actions.
 	only to **transfer**, but not **produce** any motion.
 
 ***
-	
+
 (@) _Is the idea of power a simple idea or not? What turns on this?_
 
 (@) _How does the mind form an idea of power?_
@@ -6738,7 +6740,7 @@ it produces._
 	Why think that the color of an object (i.e., the color ideas it
 	produces in us) depends on its primary qualities? (Hint: use
 	II.viii.20)
-	
+
 	Finally, what about thesis (iii): secondary qualities are nothing
 	but powers in objects to produce certain ideas in us? Well, this
 	is just to combine (i) and (ii). If they're not resemblances, and
@@ -6747,10 +6749,10 @@ it produces._
 	as to produce a given idea in us. (Note that primary qualities are
 	powers and genuine qualities in objects; secondary are merely
 	powers.)
-	
+
 	But as Locke points out, ideas of secondary qualities depend not
 	just on the objects; they also depend on the perceivers.
-	
+
 (@) _Think of as many different ways to change the color of this room
 as you can._
 
@@ -7151,9 +7153,9 @@ We can think of it as a_ reductio ad absurdum_:_
 	_Premise 1:_ The soul's essence is to think (Descartes's view)
 
 	_Premise 2:_ Given 1, it follows that the soul \_\_\_\_\_\_\_ (since this is part of what it is to be an essential property)
-	
-	_Premise 3:_ But experience shows \_\_\_\_\_\_\_. 
-	
+
+	_Premise 3:_ But experience shows \_\_\_\_\_\_\_.
+
 	_Conclusion:_ \_\_\_\_\_\_\_.
 
 _Now, Locke realizes that the Cartesian will not leave things at that;
@@ -7603,17 +7605,17 @@ but shall receive his doom, his conscience accusing or excusing him.
 (@) _Given this, what makes something the same:_
 
 	i. Atom over time?
-	
-	ii. Mass of atoms? 
-	
+
+	ii. Mass of atoms?
+
 	iii. Plant?
-	
-	iv. Animal?  
-	
-	v. Man?  
-	
+
+	iv. Animal?
+
+	v. Man?
+
 	vi. Person?
-	
+
 (@) _What does Descartes think accounts for personal identity over
 time?_
 
@@ -7656,7 +7658,7 @@ triangle?
 	to these four sorts: i. **identity**, or **diversity**.
 	ii. **relation**.  iii. **co-existence**, or **necessary
 	connexion**.  iv. **real existence**.
-	
+
 (From IV.i.4---_First, of Identity, or Diversity in ideas_) **First**,
 as to the first sort of agreement or disagreement, viz. **identity**
 or **diversity**. It is the first act of the mind, when it has any
@@ -7786,7 +7788,7 @@ on our own ways of thinking, we will find, that sometimes the mind
 perceives the agreement or disagreement of two ideas **immediately by
 themselves**, without the intervention of any other: and this I think
 we may call **intuitive knowledge**.
-	
+
 (From IV.ii.2)
 
 ii. _Demonstrative:_ The next degree of knowledge is, where the mind
@@ -7803,7 +7805,7 @@ another, to perceive their agreement or disagreement, it is fain, by
 **the intervention of other ideas**, (one or more, as it happens) to
 discover the agreement or disagreement which it searches; and this is
 that which we call **reasoning**. ...
-	
+
 (From IV.ii.14)
 
 iii. Sensitive knowledge of the particular existence of finite beings
@@ -7836,7 +7838,7 @@ him this answer:
 
 	1. That it is no great matter, whether I remove his scruple or no:
 	where all is but dream, reasoning and arguments are of no use, truth
-	and knowledge nothing. 
+	and knowledge nothing.
 
 	2. That I believe he will allow a very manifest difference between dreaming of being in the fire, and being
 	actually in it. But yet if he be resolved to appear so sceptical as
@@ -7854,7 +7856,7 @@ him this answer:
 	knowledge, viz. **intuitive**, **demonstrative**, and **sensitive**;
 	in each of which there are different degrees and ways of evidence
 	and certainty.
-		
+
 (From IV.iv.1---_Objection: "Knowledge placed in our ideas may be all
 unreal or chimerical"_) I _doubt_ not but my reader, by this time, may
 be apt to think that I have been all this while only building a castle
@@ -8015,9 +8017,9 @@ introduction to the Oxford edition of the _Principles_ (OUP, 1998).
 >
 > Sections 85-156:  Attractive consequences of Berkeley's view with regard to:
 >
->> Sections 101-117:  Natural science 
+>> Sections 101-117:  Natural science
 >>
->> Sections 118-132: Mathematics and geometry 
+>> Sections 118-132: Mathematics and geometry
 >>
 >> Sections 135-156: Spirits/Minds, incl. God
 
@@ -8534,38 +8536,38 @@ is the dust?_
 	_Abstraction 1:_ Taking a simple idea (of a determinate shape, for
 	example) and paring it off from the other ideas with which it came
 	into the mind.
-	
+
 	_Abstraction 2:_ Taking a bunch of complex ideas (of extended
 	objects, for example) and isolating what's common to them
 	(extension as a determinable; human being as a kind).
-	
+
 	_By contrast, what is Abstraction 3, and why is it fine?_
-	
+
 (@) _There are two big puzzles posed by the introduction. First, what
 exactly is the argument against abstract ideas supposed to be? It
 looks as if [Section Ten](#introduction-section-ten) goes something
 like this:_
 
 	i. I (Berkeley) cannot abstract in sense 1 and 2.
-	
+
 	ii. \_\_\_\_\_\_\_\_
-	
+
 	iii. \_\_\_\_\_\_\_\_
-	
+
 	iv. Therefore, no one	can abstract in senses 1 and 2.
-	
+
 	_What weaknesses do you see in this argument?_
-	
+
 	_In a later work (_Alciphron, or the Minute Philosopher_, 1732),
 	Berkeley offers a different argument against abstract ideas. In
 	this dialogue, Euphranor is Berkeley's spokesman; Alciphron is
 	supposed to represent Locke's views:_
-	
+
 	>_Euphranor:_ Pray, Alciphron, which are those things you would
      call absolutely impossible?
-	
+
 	>_Alciphron:_ Such as include a contradiction.
-	
+
 	>_Euphranor:_ Can you frame an idea of what includes a
      contradiction?
 
@@ -8587,19 +8589,19 @@ like this:_
      frame an idea of them?[^alc]
 
 	Reconstruct Euphranor's argument:
-	
-	> _Premise 1:_ If _x_ is impossible, then _x_ includes a contradiction. 
-	> 
-	> _Premise 2:_ If _x_ includes a contradiction,
-	> then \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. 
+
+	> _Premise 1:_ If _x_ is impossible, then _x_ includes a contradiction.
 	>
-	> _Premise 3:_ It follows that if _x_ is impossible, 
+	> _Premise 2:_ If _x_ includes a contradiction,
+	> then \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+	>
+	> _Premise 3:_ It follows that if _x_ is impossible,
 	> _x_ is \_\_\_\_\_\_\_\_.
-	>	
-	> _Premise 4:_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
-	> 
+	>
+	> _Premise 4:_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+	>
 	> _Conclusion:_ \_\_\_\_\_\_\_\_.
-		
+
 [^alc]: _Works_, Volume Three, 333--334.
 
 (@) _The second puzzle: why is Berkeley so worried about abstraction?
@@ -9048,35 +9050,35 @@ that an object exists is just to say what? (From
 
 (@) _This argument is from
 	[Part One, Section Four](#part-one-section-four); there's a
-	parallel argument in section 7:_ 
-	
+	parallel argument in section 7:_
+
 	i. An object is \_\_\_\_\_\_.
-	
+
 	ii. \_\_\_\_\_\_\_\_\_\_\_\_\_.
-	
+
 	iii. Therefore, objects are ideas.
-		
+
 (@) _Locke used resemblance to account for the representative powers
-	of ideas of primary qualities. But:_ 
-	
+	of ideas of primary qualities. But:_
+
 	i. Likeness Principle: an
 	idea can only be like \_\_\_\_\_\_\_\_\_\_\_\_\_.
-	
+
 	ii. The only way an idea can represent anything is by virtue of
 	\_\_\_\_\_\_ it.
-	
+
 	iii. Therefore, no idea can represent anything but
 	\_\_\_\_\_\_. (From
 	[Part One, Section Eight](#part-one-section-eight).)
-		
+
 (@) _Locke restricts resemblance to ideas of primary qualities and
 	says that secondary qualities exist only in the mind. But:_
 	i. This means that I must be able to think of an object that has
 	\_\_\_\_\_\_\_\_\_\_\_\_\_.
-	
+
 	ii. Given the arguments of the Introduction, we can say that
 	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
-	
+
 	iii. No object denuded of secondary qualities is even______
 	______________________. (From
 	[Part One, Section Ten](#part-one-section-ten).)
@@ -9121,13 +9123,13 @@ interchangeably---each means having a given idea in the mind.) But:_
 
 	i. I think of _x_ existing unperceived. (The materialist's
 	presupposition)
-	
+
 	ii. But this is the wrong description of what I have thought of,
-	since \_\_\_\_\_\_\_\_\_\_\_.  
-	
+	since \_\_\_\_\_\_\_\_\_\_\_.
+
 	iii. Therefore, no one can think of
 	something that exists unperceived.
-	
+
 	_Berkeley says in_ Three Dialogues _that conceiving something
 	unconceived is analogous to 'seeing something unseen.' (From Part
 	One, Sections [22](#part-one-section-twenty-two),
@@ -10392,12 +10394,12 @@ From the foregoing it is clear that the following rules will be of
 great service in determining the true nature of motion:
 
 i. To distinguish mathematical hypotheses from the natures of things;
-	
+
 ii. To beware of abstractions;
-	
+
 iii. To consider motion as something sensible, or at least imaginable;
 and to be content with relative measures.
-	
+
 If we do so, all the famous theorems of the mechanical philosophy by
 which the secrets of nature are unlocked, and by which the system of
 the world is reduced to human calculation, will remain untouched; and
@@ -10916,7 +10918,7 @@ elude or avoid it.
 proposition, say whether it is **analytic** or **synthetic**;
 **contingent** or **necessary**; justified by demonstration or by
 appeal to experience._
-	
+
 (@) _In which category does a proposition like 'fire causes heat'
 fall? What is Hume's argument for this? use CP, SP, and CPY, if
 applicable._
@@ -11134,27 +11136,27 @@ proposition in
 
 	i. I have found in the past that all instances of A (say, fire)
 	have been followed by instances of B (say, heat).
-		
+
 	ii. I predict that future A's will be followed by B's.
-		
+
 	_If the move from 1 to 2 is a rational, justified inference, it
 	would have to be either demonstrative reasoning or reasoning from
 	experience._
-	
+
 	i. Why can't it be demonstrative reasoning?
-	
+
 	ii. Why can't it be reasoning from experience?
-	
+
 	**Objection:** _What's missing here is a further premise, viz.,
       Premise 1.5 The future will be like the past. What is the
       problem with adding this premise?_
-	
+
 	**Objection:** _Why can't I conclude at least that it's probable
       that the sun will rise tomorrow? (To answer this, you might try
       re-writing the mini-argument above, with the conclusion
       restricted to probability. Does the inference become justified,
       once its conclusion is qualified?)_
-	
+
 ## Section Five: Sceptical Solution of these Doubts, Part One
 
 [We are in danger of reasoning ourselves into skepticism. But we need not]
@@ -11287,7 +11289,7 @@ between two events?_
 	_There must be some connecting principle that explains our
 	practice of taking past constant conjunctions to be a good guide
 	to the future. What is it?_
-	
+
 (@) _How is this a 'skeptical' solution, rather than a plain old
 solution?_
 
@@ -12043,7 +12045,7 @@ in your own words._
 	that counts as a cause and effect relation according to Definition
 	1 also going to count as such a relation on Definition 2, and vice
 	versa?_
-	
+
 ## Section Nine: Of the Reason of Animals
 
 _I have inserted section Nine here, because it directly concerns the
@@ -13017,9 +13019,9 @@ or opinion.
 
 	_By definition, then, a miracle pits our belief in the laws of
 	nature against what?_
-	
+
 	_Which belief wins, and why?_
-	
+
 ##Section Ten: Of Miracles, Part One
 
 In the foregoing reasoning we have supposed, that the testimony, upon
@@ -13714,14 +13716,14 @@ former, infer any alteration on the latter, or any, addition to it.
 
 ***
 
-(@) _Hume sets out two principles of causal reasoning above:_ 
+(@) _Hume sets out two principles of causal reasoning above:_
 
 	i. 'When we infer any particular cause from an effect, we must proportion
-	the one to the other...' Put this in your own words.  
-	
+	the one to the other...' Put this in your own words.
+
 	ii. If you	infer from an effect to a cause, you cannot then turn around and
 	conclude that whatever caused the effect will \_\_\_\_\_\_\_\_\_.
-	
+
 (@) _Explain how (i) and (ii) undermine the argument for design._
 
 (@) _At the end of this section, Hume applies his own theory of
@@ -13939,17 +13941,17 @@ contend against it.
 
 ***
 
-(@) _There are two claims Hume might be making here:_ 
+(@) _There are two claims Hume might be making here:_
 
 	(i) We have no	good reason to believe in the external world;
-	
+
 	(ii) We cannot even conceive of anything other than perceptions,
 	and thus cannot conceive of an external world.
-	
+
 	_Is he making one of these, or both?_
-	
+
 	_How would the Copy Principle affect your answer?_
-	
+
 (@) _What is the 'universal and primary opinion of all men' that is
 'destroyed by the slightest philosophy'? How does philosophy destroy
 it?_
@@ -14715,7 +14717,7 @@ generally._
 	content of a cognition, or they are _extensive_, and enlarge the
 	given cognition; the first may be termed _analytic_, and the
 	second _synthetic_ judgments.
-	
+
 	Analytic judgments say nothing in the predicate, but what was
 	already cogitated in the conception of the subject, though perhaps
 	not so clearly, or with the same degree of consciousness. When I
@@ -14728,7 +14730,7 @@ generally._
 	general conception of a body; it enlarges, that is to say, my
 	knowledge, in so far as it adds something to my conception; and
 	must therefore be termed a synthetic judgment.
-	
+
 b. _The common principle of all analytic judgments is the principle of
 contradiction._
 
@@ -14749,7 +14751,7 @@ contradiction._
 	the propositions that this body is yellow and a metal; for this
 	constitutes precisely my conception, and therefore I have only to
 	dissect it, without needing to look around for anything elsewhere.
-	
+
 c. _Synthetic judgments demand a principle other than that of
 contradiction._
 
@@ -14763,7 +14765,7 @@ contradiction._
 	the principle of contradiction_, for nothing can be opposed to
 	this principle, although not everything can be deduced from it. I
 	will first of all bring synthetic judgments under certain classes.
-	
+
 	(1) _Judgments of experience_ are always synthetic. It would be
 	absurd to found an analytic judgment on experience, as it is
 	unnecessary to go beyond my own conception in order to construct
@@ -14776,7 +14778,7 @@ contradiction._
 	principle of contradiction, and thereby at the same time the
 	_necessity_ of the judgment may be known, a point which experience
 	could never teach me.
-	
+
 	(2) _Mathematical judgments_ are in their entirety synthetic. This
 	truth seems hitherto to have altogether escaped the analysts of
 	human Reason; indeed, to be directly opposed to all their
@@ -14790,7 +14792,7 @@ contradiction._
 	light of the above principle, it can only be so by presupposing
 	another synthetic proposition from which it is derived, but never
 	by itself.
-	
+
 		It must be first of all remarked that essentially mathematical
 		propositions are always _a priori_, and never empirical,
 		because they involve necessity, which cannot be inferred from
@@ -14824,7 +14826,7 @@ contradiction._
 		twist our conceptions as we may, without calling intuition to
 		our aid, we shall never find the sum required, by the mere
 		dissection of them.
-		
+
 		Just as little is any axiom of pure geometry analytic. That a
 		_straight_ line is the shortest between two points, is a
 		synthetic proposition. For my conception of _straight_, has no
@@ -14833,7 +14835,7 @@ contradiction._
 		from any analysis of the conception of a straight
 		line. Intuition must therefore again be taken to our aid, by
 		means of which alone the synthesis is possible.
-	
+
 		Certain other axioms, postulated by geometricians, are indeed
 		really analytic and rest on the principle of contradiction,
 		but they only serve, like identical propositions, as links in
@@ -14853,7 +14855,7 @@ contradiction._
 		of those conceptions is dependent indeed necessarily, though
 		not immediately (but by means of an added intuition), upon its
 		subject.
-	
+
 ### Section Three: Observation on the Universal Division of Judgments into Analytic and Synthetic
 
 This division is in view of the Critique of human understanding
@@ -16150,10 +16152,10 @@ Singular    Infinite    Disjunctive  Apodictic
 
 ## Transcendental Table of the Concepts of the Understanding
 
-Quantity               Quality      Relation    Modality 
+Quantity               Quality      Relation    Modality
 ----------             -----------  ----------- ----------
-Unity (the measure)    Reality      Substance   Possibility 
-Plurality (the amount) Negation     Cause       Actuality 
+Unity (the measure)    Reality      Substance   Possibility
+Plurality (the amount) Negation     Cause       Actuality
 Totality (the whole)   Limitation   Reciprocity Necessity
 
 ## Section Twenty-one (A): The Second Part, Continued
@@ -16214,11 +16216,11 @@ unity of perceptions is presented as necessary and universal.
 _Before going forward, it's important to make sure we have the basic
 terminology in hand:_
 
-**Sensibility** 
+**Sensibility**
 
 :    The faculty of the mind that 'receives' intuitions
 
-**Intuition (_Anschauung_)** 
+**Intuition (_Anschauung_)**
 
 :    A bit of sensory awareness. This can refer to any kind of sensory awareness, from any sense modality whatsoever, as well as those bits of awareness that are also called up by the memory.
 
@@ -16227,14 +16229,14 @@ terminology in hand:_
 	are also in space (that is, they represent their objects as having
 	spatial location). Time is the form of inner intuition; space,
 	outer intuition.
-	
+
 	The **matter** of an intuition is its purely sensory element---in
 	visual images, for example, this would include color. Its **form**
 	is the spatial or temporal structure the sensibility imposes on
 	this 'matter.' So even in sensation the mind is not purely
 	passive---it is actively structuring its perceptions.
-	
-**Understanding** 
+
+**Understanding**
 
 :    The faculty that unites intuitions into thoughts
 
@@ -16243,7 +16245,7 @@ concepts. But how can we bring these together? Intuitions without
 concepts are blind; concepts without intuitions are empty. How are the
 two going to be united?_
 
-**Judgment** 
+**Judgment**
 
 :    The basic unit of thought, in which the mind unites distinct intuitions into a coherent whole. All judgments are judgments of perception; some judgments are also judgments of experience. The basic unit of thought, as opposed to sensibility, then, is the proposition: a claim that things are thus-and-so.
 
@@ -16253,7 +16255,7 @@ two going to be united?_
 	claim only about the perceptions of the person doing the
 	judging. In a JOP, I "merely compare perceptions and connect them
 	in a consciousness of my state" (599).
-	
+
 	_Example_: when I say, 'if I perceive gold being immersed in _aqua
 	regia_, I then perceive its dissolution,' I have not said anything
 	about whether this must happen, will happen in all cases, or, most
@@ -16264,7 +16266,7 @@ two going to be united?_
 	blade. But I don't think of the dagger as a real object that
 	others would see if they were here and could use to open their
 	mail.
-	
+
 	A **judgment of experience**, by contrast, unites intuitions
 	according to the logical forms of judgment and the pure concepts
 	of the understanding, the categories. When I say that putting gold
@@ -16277,7 +16279,7 @@ two going to be united?_
 	a necessary, but not sufficient, condition for truth. An
 	objectively valid judgment is a candidate for being true; it is
 	not automatically so. See the _CPR_, A58/B83).
-	
+
 _"Experience consists in the synthetic connection of appearances in
 consciousness, so far as this connection is necessary." Thinking of
 this connection as necessary and as holding for all similarly situated
@@ -17070,34 +17072,34 @@ _How is Natural Science possible?_
 	_Natural science, despite appearances, includes a 'pure' (i.e.,
 	non-empirical) element. Every science makes two assumptions.  What
 	are they?_
-	
+
 	_These assumptions are pre-conditions for even engaging in science
 	in the first place._
-	
+
 	_Two main competitors: rationalism and (Lockean)
 	empiricism. Neither works. So we need to start over and find a
 	third way. Turn now to JOEs. What makes them possible?_
-	
+
 	_But these just are the universal laws of nature (602). That is,
 	the principles upon which all sciences depend also lie at the
 	bottom of all \_\_\_\_\_\_\_\_\_, and make_ it _possible._
-	
+
 	_So we've really got just one problem here: how can we justify
 	claims that involve the pure concepts of the understanding, claims
 	like cause, effect, substance, etc.?_
-	
+
 (@) _Step Two: What did Hume teach us?_
 
 	i. These claims cannot be empirical.  Why?
-	
+
 	ii. But nor can they be analytic.  Why?
-	
+
 	_These are the prongs of Hume's fork; for him, every proposition
 	is either a **matter of fact** or a **relation of ideas**. Hume
 	concludes that these principles have only \_\_\_\_\_\_\_\_\_\_
 	necessity; they are the 'bastard offspring' of
 	\_\_\_\_\_\_\_\_\_\_ impregnated by \_\_\_\_\_\_\_\_\_._
-	
+
 (@) _Step Three: Putting it all together:_
 
 	_Hume is right to claim that experience can't justify
@@ -17121,7 +17123,7 @@ _How is Natural Science possible?_
 	and effect, or that they are things at all, in the way a tree is a
 	thing? \_\_\_\_\_\_\_\_\_\_, because
 	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_._
-	
+
 (@) _Another way to see the same point: remember, all judgments
 require \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Applied to things in
 themselves, the categories have \_\_\_\_\_\_\_\_\_\_. (See Sections
@@ -17807,46 +17809,46 @@ never-ending, contains the following four theses together with their
 antitheses:
 
 ------------------------------
- \	Thesis				  
---  -------------------	  
- 1  The world has a		  
-	_beginning_ in 		  
-	time and space		  
-			 
- 2	Everything in the	  
-	world consists of	  
-	_simple_ [parts].	  
-			 
- 3	There are in the	  
-	world causes through  
-	_freedom_.			  
-			
- 4	In the series of	  
-	world-causes there	  
-	exists a _necessary_  
-	being.				  
+ \	Thesis
+--  -------------------
+ 1  The world has a
+	_beginning_ in
+	time and space
+
+ 2	Everything in the
+	world consists of
+	_simple_ [parts].
+
+ 3	There are in the
+	world causes through
+	_freedom_.
+
+ 4	In the series of
+	world-causes there
+	exists a _necessary_
+	being.
 ------------------------------
 
 --------------------------------
- \  Antithesis				  
+ \  Antithesis
 --  ----------------------
- 1 	The world is			  
-	_infinite_ in			  
-	time and space			  
-                                
- 2 	There is nothing		  
-	simple, but everything	  
-	is _composite_.			  
-                                
- 3  There is no				  
-	freedom, but all		  
-	is _Nature_				  
-                               
- 4  There is nothing		  
-	necessary, but in		  
-	this series _all_		  
-	_is contingent_.		  
---------------------------------			
+ 1 	The world is
+	_infinite_ in
+	time and space
+
+ 2 	There is nothing
+	simple, but everything
+	is _composite_.
+
+ 3  There is no
+	freedom, but all
+	is _Nature_
+
+ 4  There is nothing
+	necessary, but in
+	this series _all_
+	_is contingent_.
+--------------------------------
 
 ## Section Fifty-two: "The Cosmological Idea", Continued
 
